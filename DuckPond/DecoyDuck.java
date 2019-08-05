@@ -1,8 +1,8 @@
 package Design_Patterns.DuckPond;
 
-public class DecoyDuck extends Duck {
+public class DecoyDuck extends Duck implements Quackable{
 
-    void quack() {
+    public void quack() {
         //System.out.println("Silent.");
     }
 
