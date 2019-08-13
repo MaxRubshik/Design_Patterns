@@ -1,20 +1,18 @@
 package Design_Patterns.DuckPond;
 
-public class RubberDuck extends Duck {
+public class RubberDuck extends Duck implements Quackable, Flyable {
     @Override
     void display() {
         System.out.println("Rubber Duck's display! ");
     }
 
     @Override
-    void fly() {
-        super.fly();
-        System.out.println("Rubber Duck not fly.");
+    public void quack() {
+        System.out.println("RubberDuck is squeaking");
     }
 
-    void quack(){
-        System.out.println("Rubber Duck is squeaking. ");
-    }
+    public void fly(){
 
+    }
 
 }
