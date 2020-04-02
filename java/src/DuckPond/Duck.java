@@ -1,4 +1,4 @@
-package Design_Patterns.DuckPond;
+package src.DuckPond;
 
 abstract class Duck {
 

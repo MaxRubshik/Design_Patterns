@@ -1,4 +1,4 @@
-package Design_Patterns.DuckPond;
+package src.DuckPond;
 
 public class RedHeadDuck extends Duck implements Flyable, Quackable {
     @Override
