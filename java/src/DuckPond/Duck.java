@@ -17,6 +17,10 @@ abstract class Duck {
         mallardDuck.fly();
         redHeadDuck.fly();
         redHeadDuck.swim();
+
+        Rocket rocket = new Rocket();
+
+        rocket.fly();
     }
 
 }

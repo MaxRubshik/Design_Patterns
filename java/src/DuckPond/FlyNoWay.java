@@ -1,6 +1,6 @@
 package src.DuckPond;
 
-public class FlyWithWings extends Duck implements FlyBehavior{
+public class FlyNoWay extends Duck implements FlyBehavior {
     @Override
     void display() {
 
@@ -8,6 +8,6 @@ public class FlyWithWings extends Duck implements FlyBehavior{
 
     @Override
     public void fly() {
-        System.out.println("Flying with wings");
+
     }
 }
