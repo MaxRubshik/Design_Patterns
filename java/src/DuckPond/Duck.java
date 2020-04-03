@@ -16,6 +16,7 @@ abstract class Duck {
 
         mallardDuck.fly();
         redHeadDuck.fly();
+        redHeadDuck.swim();
     }
 
 }

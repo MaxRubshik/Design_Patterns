@@ -1,15 +1,18 @@
 package src.DuckPond;
 
-public class MallardDuck extends Duck implements Flyable, Quackable {
+public class MallardDuck extends Duck implements Quackable, Flyable {
+
     @Override
     void display() {
-        System.out.println("Mallard Duck's display. ");
+        System.out.println("Mallard display. ");
     }
 
+    @Override
     public void quack() {
         System.out.println("Mallard quacking. ");
     }
 
+    @Override
     public void fly() {
         System.out.println("Mallard flying. ");
     }
