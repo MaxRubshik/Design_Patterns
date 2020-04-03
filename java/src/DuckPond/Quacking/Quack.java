@@ -1,4 +1,6 @@
-package src.DuckPond;
+package src.DuckPond.Quacking;
+
+import src.DuckPond.Duck;
 
 public class Quack extends Duck implements QuackBehavior {
     @Override

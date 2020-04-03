@@ -1,6 +1,9 @@
 package src.DuckPond;
 
-public class MallardDuck extends Duck implements QuackBehavior, FlyBehavior{
+import src.DuckPond.Behaving.FlyBehavior;
+import src.DuckPond.Quacking.QuackBehavior;
+
+public class MallardDuck extends Duck implements QuackBehavior, FlyBehavior {
 
     @Override
     void display() {

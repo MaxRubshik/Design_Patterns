@@ -1,6 +1,6 @@
 package src.DuckPond;
 
-abstract class Duck {
+abstract public class Duck {
 
     void swim() {
 

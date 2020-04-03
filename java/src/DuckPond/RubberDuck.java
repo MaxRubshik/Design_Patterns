@@ -1,5 +1,8 @@
 package src.DuckPond;
 
+import src.DuckPond.Behaving.Flyable;
+import src.DuckPond.Quacking.Quackable;
+
 public class RubberDuck extends Duck implements Quackable, Flyable {
     @Override
     void display() {
