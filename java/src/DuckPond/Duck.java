@@ -13,20 +13,24 @@ abstract public class Duck {
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
 
+    public void performQuack() {
+        quackBehavior.quack();
+    }
+
+    public void performFly() {
+        flyBehavior.fly();
+    }
+
 
     public static void main(String[] args) {
-        RubberDuck rubberDuck = new RubberDuck();
-        MallardDuck mallardDuck = new MallardDuck();
-        RedHeadDuck redHeadDuck = new RedHeadDuck();
-        rubberDuck.display();
-
-        mallardDuck.fly();
-        redHeadDuck.fly();
-        redHeadDuck.swim();
 
         Rocket rocket = new Rocket();
 
         rocket.fly();
+
+        RedHeadDuck redHeadDuck = new RedHeadDuck();
+        redHeadDuck.flyBehavior.fly();
+        redHeadDuck.fly();
 
     }
 
