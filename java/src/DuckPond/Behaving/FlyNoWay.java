@@ -2,7 +2,7 @@ package src.DuckPond.Behaving;
 
 import src.DuckPond.Duck;
 
-public abstract class FlyNoWay extends Duck implements FlyBehavior {
+public class FlyNoWay extends Duck implements FlyBehavior {
 //    @Override
 //    void display() {
 //
@@ -10,6 +10,6 @@ public abstract class FlyNoWay extends Duck implements FlyBehavior {
 
     @Override
     public void fly() {
-
+        System.out.println("Np fly");
     }
 }

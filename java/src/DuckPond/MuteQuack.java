@@ -4,7 +4,7 @@ import src.DuckPond.Quacking.QuackBehavior;
 
 public class MuteQuack extends Duck implements QuackBehavior {
     @Override
-    void display() {
+    public void display() {
 
     }
 

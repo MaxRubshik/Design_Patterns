@@ -3,8 +3,7 @@ package src.DuckPond.Quacking;
 import src.DuckPond.Duck;
 
 public class Quack extends Duck implements QuackBehavior {
-    @Override
-    void display() {
+    private void display() {
 
     }
 

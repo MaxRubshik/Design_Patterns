@@ -1,14 +1,17 @@
 package src.DuckPond;
 
 import src.DuckPond.Behaving.FlyBehavior;
+import src.DuckPond.Behaving.FlyWithWings;
 import src.DuckPond.Quacking.QuackBehavior;
 
-abstract public class Duck {
+public class Duck {
 
-    void swim() {
+    //    void swim() {
+//    }
+//
+    void display() {
+
     }
-
-    abstract void display();
 
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
@@ -22,15 +25,17 @@ abstract public class Duck {
     }
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws NullPointerException {
 
         Rocket rocket = new Rocket();
 
-        rocket.fly();
+        //rocket.fly();
 
-        RedHeadDuck redHeadDuck = new RedHeadDuck();
-        redHeadDuck.flyBehavior.fly();
-        redHeadDuck.fly();
+        Duck redHeadDuck = new RedHeadDuck();
+
+        redHeadDuck.performFly();
+        ((RedHeadDuck) redHeadDuck).fly();
+        redHeadDuck.display();
 
     }
 
