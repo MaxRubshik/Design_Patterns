@@ -1,11 +1,7 @@
 package src.DuckPond.Quacking;
 
-import src.DuckPond.Duck;
 
-public class Quack extends Duck implements QuackBehavior {
-    private void display() {
-
-    }
+public class Quack implements QuackBehavior {
 
     @Override
     public void quack() {
