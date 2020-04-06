@@ -19,10 +19,19 @@ public abstract class Duck {
     }
 
     public void performFly() {
+
         flyBehavior.fly();
     }
 
     public void performSwim() {
         System.out.println("All ducks swimming.");
+    }
+
+    public void setFlyBehavior(FlyBehavior fb){
+        flyBehavior = fb;
+    }
+
+    public void setQuackBehavior(QuackBehavior qb){
+        quackBehavior = qb;
     }
 }
