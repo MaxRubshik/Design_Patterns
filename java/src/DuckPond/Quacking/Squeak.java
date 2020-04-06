@@ -1,7 +1,5 @@
 package src.DuckPond.Quacking;
 
-import src.DuckPond.Duck;
-
 public class Squeak implements QuackBehavior {
 
     @Override
