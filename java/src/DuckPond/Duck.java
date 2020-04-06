@@ -4,12 +4,13 @@ import src.DuckPond.Behaving.FlyBehavior;
 import src.DuckPond.Behaving.FlyWithWings;
 import src.DuckPond.Quacking.QuackBehavior;
 
-public class Duck {
+public abstract class Duck {
 
-    //    void swim() {
-//    }
-//
     void display() {
+
+    }
+
+    public Duck() {
 
     }
 
@@ -22,6 +23,10 @@ public class Duck {
 
     public void performFly() {
         flyBehavior.fly();
+    }
+
+    public void performSwim(){
+        System.out.println("All ducks swimming.");
     }
 
 

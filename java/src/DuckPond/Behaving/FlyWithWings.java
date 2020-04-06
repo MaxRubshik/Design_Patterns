@@ -11,6 +11,6 @@ public class FlyWithWings extends Duck implements FlyBehavior{
 
     @Override
     public void fly() {
-        System.out.println("Flying with wings");
+        System.out.println("I'm flying.");
     }
 }

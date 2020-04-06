@@ -10,6 +10,6 @@ public class FlyNoWay extends Duck implements FlyBehavior {
 
     @Override
     public void fly() {
-        System.out.println("Np fly");
+        System.out.println("I can't fly.");
     }
 }
