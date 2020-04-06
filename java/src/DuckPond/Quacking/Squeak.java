@@ -2,11 +2,7 @@ package src.DuckPond.Quacking;
 
 import src.DuckPond.Duck;
 
-public class Squeak extends Duck implements QuackBehavior {
-//    @Override
-//    void display() {
-//
-//    }
+public class Squeak implements QuackBehavior {
 
     @Override
     public void quack() {
