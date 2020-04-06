@@ -34,4 +34,6 @@ public abstract class Duck {
     public void setQuackBehavior(QuackBehavior qb){
         quackBehavior = qb;
     }
+
+
 }
