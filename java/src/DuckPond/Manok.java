@@ -1,7 +1,6 @@
 package src.DuckPond;
 
 import src.DuckPond.Behaving.FlyBehavior;
-import src.DuckPond.Behaving.Flyable;
 import src.DuckPond.Quacking.QuackBehavior;
 
 public class Manok implements FlyBehavior, QuackBehavior {
