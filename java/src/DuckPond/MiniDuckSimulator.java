@@ -1,6 +1,6 @@
 package src.DuckPond;
 
-import src.DuckPond.Behaving.FlyRocketPowered;
+import src.DuckPond.Behaving.FlyWithWings;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
@@ -11,9 +11,11 @@ public class MiniDuckSimulator {
 
         System.out.println();
 
-        Duck model = new DuckModel();
-        model.performFly();
-        model.setFlyBehavior(new FlyRocketPowered());
-        model.performFly();
+        Duck rubberDuck = new RubberDuck();
+        rubberDuck.performQuack();
+        rubberDuck.performFly();
+        rubberDuck.performSwim();
+        rubberDuck.setFlyBehavior(new FlyWithWings());
+        rubberDuck.performFly();
     }
 }
