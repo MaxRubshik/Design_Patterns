@@ -13,6 +13,6 @@ public abstract class Character {
     abstract void fight();
 
     public void setWeapon(WeaponBehavior w) {
-        weaponBehavior = w;
+        this.weaponBehavior = w;
     }
 }
