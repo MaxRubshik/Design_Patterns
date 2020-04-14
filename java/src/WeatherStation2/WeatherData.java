@@ -3,7 +3,7 @@ package src.WeatherStation2;
 import java.util.Observable;
 import java.util.Observer;
 
-public class WeatherData extends Observable {
+public class WeatherData extends Observable implements Observer {
 
     private float temperature;
     private float humidity;
@@ -31,6 +31,14 @@ public class WeatherData extends Observable {
 
     public float getPressure() {
         return pressure;
+    }
+
+    @Override
+    public void update(Observable o, Object arg) {
+
+    }
+
+    public WeatherData() {
     }
 }
 
