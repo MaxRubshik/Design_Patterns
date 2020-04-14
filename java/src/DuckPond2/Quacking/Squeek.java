@@ -1,6 +1,8 @@
 package src.DuckPond2.Quacking;
 
-public class Squeek implements Quackable {
+import src.DuckPond2.Duck;
+
+public class Squeek extends Duck implements  Quackable {
     @Override
     public void quack() {
         System.out.println("Just Squeak!");

@@ -9,8 +9,9 @@ public class App {
 
         mallard.fly();
         mallard.quack();
+        mallard.tryToFly();
         mallard.tryToQuack();
         mallard.setQuackable(new Squeek());
-        mallard.tryToFly();
+        mallard.tryToQuack();
     }
 }
