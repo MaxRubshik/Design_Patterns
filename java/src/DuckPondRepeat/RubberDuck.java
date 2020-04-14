@@ -1,8 +1,9 @@
 package src.DuckPondRepeat;
 
-public class RubberDuck extends Duck implements Quackable, Flyable {
+import src.DuckPondRepeat.Fly.FlyWithWings;
 
-    @Override
+public class RubberDuck extends FlyWithWings {
+
     void display() {
         System.out.println("It's Rubber duck.");
     }
@@ -12,7 +13,6 @@ public class RubberDuck extends Duck implements Quackable, Flyable {
         System.out.println("no fly(((");
     }
 
-    @Override
     public void quack() {
         System.out.println("Squeak");
     }

@@ -2,7 +2,7 @@ package src.DuckPond;
 
 import src.DuckPond.Behaving.FlyWithWings;
 
-public class MiniDuckSimulator {
+public class Simulator {
     public static void main(String[] args) {
         Duck mallard = new MallardDuck();
         mallard.performQuack();
