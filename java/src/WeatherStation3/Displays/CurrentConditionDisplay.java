@@ -1,17 +1,19 @@
-package src.WeatherStation3.Interfaces;
+package src.WeatherStation3.Displays;
 
-import src.WeatherStation3.WeatherData;
-import src.WeatherStation3.WeatherStation;
+import src.WeatherStation3.Interfaces.DisplayElement;
+import src.WeatherStation3.Interfaces.Subject;
+
+import java.util.Observable;
+import java.util.Observer;
 
 public class CurrentConditionDisplay implements DisplayElement, Observer {
     private float temperature;
     private float humidity;
     private float pressure;
-    private Subject weatherData;
+    private Observable observable;
 
-    public CurrentConditionDisplay(Subject weatherData) {
-        this.weatherData = weatherData;
-        this.weatherData.registerObserver(this);
+    public CurrentConditionDisplay(Observable observable){
+
     }
 
     @Override
@@ -21,11 +23,15 @@ public class CurrentConditionDisplay implements DisplayElement, Observer {
                 " %humidity" + " pressure: " + pressure);
     }
 
-    @Override
     public void update(float temp, float humidity, float pressure) {
         this.temperature = temp;
         this.humidity = humidity;
         this.pressure = pressure;
         display();
+    }
+
+    @Override
+    public void update(Observable o, Object arg) {
+
     }
 }

@@ -1,7 +1,8 @@
 package src.WeatherStation3;
 
-import src.WeatherStation3.Interfaces.Observer;
 import src.WeatherStation3.Interfaces.Subject;
+
+import java.util.Observer;
 
 public class ConcreteSubject implements Subject {
 
