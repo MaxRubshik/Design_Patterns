@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/ForecastDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/GeneralDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/StatisticsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/WeatherStation3/Objects/ObjectOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/ConcreteObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WeatherStation3/ConcreteObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WeatherStation3/ConcreteSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/Interfaces/CurrentConditionDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/Interfaces/Observer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/Interfaces/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WeatherStation3/Interfaces/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WeatherStation3/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WeatherStation3/WeatherStation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,13 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/WeatherData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            <state relative-caret-position="170">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
                 <element signature="e#651#652#0" expanded="true" />
                 <element signature="e#685#686#0" expanded="true" />
                 <element signature="e#716#717#0" expanded="true" />
@@ -60,8 +52,8 @@
       <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/WeatherStation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="119">
+              <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurrentConditionDisplay.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CurrentConditionDisplay.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -184,6 +176,7 @@
         <option value="$PROJECT_DIR$/java/src/WeatherStation3/Objects/ObjectOne.java" />
         <option value="$PROJECT_DIR$/java/src/WeatherStation3/WeatherStation.java" />
         <option value="$PROJECT_DIR$/java/src/WeatherStation3/WeatherData.java" />
+        <option value="$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java" />
       </list>
     </option>
   </component>
@@ -440,7 +433,7 @@
       <workItem from="1586966694874" duration="2209000" />
       <workItem from="1587052209354" duration="7192000" />
       <workItem from="1587064257551" duration="2562000" />
-      <workItem from="1587106832175" duration="6365000" />
+      <workItem from="1587106832175" duration="7728000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -512,11 +505,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587109314090</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="WeatherData improved with embedded realization.">
+      <created>1587117740946</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587117740946</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44490000" />
+    <option name="totallyTimeSpent" value="45853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="331" y="23" width="1539" height="1057" extended-state="0" />
@@ -531,12 +531,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19743863" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19743863" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.23479189" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.18637274" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.18637274" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -594,7 +594,8 @@
     <MESSAGE value="WeatherStation3 in progress." />
     <MESSAGE value="WeatherStation3. display() updated." />
     <MESSAGE value="WeatherStation3. Embedded implementation." />
-    <option name="LAST_COMMIT_MESSAGE" value="WeatherStation3. Embedded implementation." />
+    <MESSAGE value="WeatherData improved with embedded realization." />
+    <option name="LAST_COMMIT_MESSAGE" value="WeatherData improved with embedded realization." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -947,16 +948,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/ForecastDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -991,16 +982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-14.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Observable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -1014,17 +995,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/WeatherData.java">
+    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/WeatherStation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="119">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
             <element signature="e#651#652#0" expanded="true" />
             <element signature="e#685#686#0" expanded="true" />
             <element signature="e#716#717#0" expanded="true" />
             <element signature="e#750#751#0" expanded="true" />
             <element signature="e#781#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
