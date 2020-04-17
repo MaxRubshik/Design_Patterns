@@ -4,8 +4,9 @@ import src.WeatherStation3.Interfaces.Observer;
 import src.WeatherStation3.Interfaces.Subject;
 
 import java.util.ArrayList;
+import java.util.Observable;
 
-public class WeatherData implements Subject {
+public class WeatherData extends Observable {
     //add container to keep observers and create it in constructor
     private ArrayList observers;
     private float temperature;
@@ -17,25 +18,6 @@ public class WeatherData implements Subject {
         observers = new ArrayList<>();
     }
 
-    @Override
-    public void registerObserver(Observer o) {
-        observers.add(o);
-    }
-
-    @Override
-    public void removeObserver(Observer o) {
-        int i = observers.indexOf(o);
-        if (i > 0)
-            observers.remove(i);
-    }
-
-    @Override
-    public void notifyObservers() {
-        for (int i = 0; i < observers.size(); i++) {
-            Observer observer = (Observer) observers.get(i);
-            observer.update(temperature, humidity, pressure);
-        }
-    }
 
     public void setMeasurements(float temperature, float humidity, float pressure) {
         this.temperature = temperature;
