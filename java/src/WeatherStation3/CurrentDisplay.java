@@ -1,8 +1,10 @@
 package src.WeatherStation3;
 
 import src.WeatherStation3.Interfaces.DisplayElement;
-import src.WeatherStation3.Interfaces.Observer;
 import src.WeatherStation3.Interfaces.Subject;
+
+import java.util.Observable;
+import java.util.Observer;
 
 //realize Observer to register as observer. DisElem - like all displays
 public class CurrentDisplay implements Observer, DisplayElement {
@@ -24,10 +26,14 @@ public class CurrentDisplay implements Observer, DisplayElement {
                 " humidity: " + humidity + " pressure: " + pressure);
     }
 
-    @Override
     public void update(float temp, float humidity, float pressure) {
         this.temperature = temp;
          this.humidity = humidity;
          display();
+    }
+
+    @Override
+    public void update(Observable o, Object arg) {
+
     }
 }
