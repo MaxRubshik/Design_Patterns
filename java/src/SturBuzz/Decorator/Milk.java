@@ -1,7 +1,6 @@
-package src.SturBuzz;
+package src.SturBuzz.Decorator;
 
-public class Decaf extends Beverage {
-
+public class Milk extends CondimentDecorator {
     @Override
     public double cost() {
         return 0;
@@ -9,7 +8,7 @@ public class Decaf extends Beverage {
 
     @Override
     public void getDescription() {
-        System.out.println("it's Decaf");
+
     }
 
     @Override
