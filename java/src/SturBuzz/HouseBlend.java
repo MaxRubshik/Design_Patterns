@@ -1,13 +1,18 @@
 package src.SturBuzz;
 
 public class HouseBlend extends Beverage {
-    @Override
-    public double cost() {
-        return 0;
+    public HouseBlend() {
+        description = "House Blend Coffee.";
     }
 
     @Override
-    public void getDescription() {
-        System.out.println("It's Cappuccino");
+    public double cost() {
+        return .89;
+    }
+
+    @Override
+    public String getDescription() {
+        System.out.println("House Blend");
+        return null;
     }
 }

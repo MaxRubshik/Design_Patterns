@@ -7,7 +7,8 @@ public class Soy extends CondimentDecorator {
     }
 
     @Override
-    public void getDescription() {
+    public String getDescription() {
 
+        return null;
     }
 }

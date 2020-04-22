@@ -1,13 +1,18 @@
 package src.SturBuzz;
 
 public class Espresso extends Beverage {
-    @Override
-    public double cost() {
-        return 0;
+    //Constructor
+    public Espresso() {
+        description = "Espresso.";
     }
 
     @Override
-    public void getDescription() {
+    public double cost() {
+        return 1.99;
+    }
 
+    @Override
+    public String getDescription() {
+        return description;
     }
 }

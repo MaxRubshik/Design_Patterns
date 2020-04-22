@@ -1,12 +1,14 @@
 package src.SturBuzz;
 
 public abstract class Beverage {
-    public String description;
+    public String description = "Unknown beverage.";
     double milk;
     double soy;
     double mocha;
 
     public abstract double cost();
 
-    public abstract void getDescription();
+    public String getDescription() {
+        return description;
+    }
 }
