@@ -12,7 +12,6 @@ public class DarkRoast extends  Beverage {
 
     @Override
     public String getDescription() {
-        System.out.println("Its Dark Roast!");
-        return null;
+        return description;
     }
 }

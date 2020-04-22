@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WeatherStation3/Displays/ForecastDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/WeatherStation3/Objects/ObjectOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/SturBuzz/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/SturBuzz/DarkRoast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/SturBuzz/Decaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/SturBuzz/Decaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Mocha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Soy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Soy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Whip.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Whip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/SturBuzz/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/SturBuzz/HouseBlend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/SturBuzz/StartBuzzCoffeeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/SturBuzz/StartBuzzCoffeeApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,91 +21,118 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/WeatherData.java">
+      <file leaf-file-name="StartBuzzCoffeeApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/StartBuzzCoffeeApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/WeatherStation.java">
+      <file leaf-file-name="DarkRoast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/DarkRoast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Whip.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Whip.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Espresso.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Espresso.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CondimentDecorator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/CondimentDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HouseBlend.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/HouseBlend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <folding>
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Soy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Soy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <folding>
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mocha.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Mocha.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurrentConditionDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java">
+      <file leaf-file-name="Milk.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Milk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/WeatherStation/WeatherData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ForecastDisplay.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/ForecastDisplay.java">
+      <file leaf-file-name="Beverage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Beverage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/WeatherStation/WeatherStation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GeneralDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/GeneralDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,10 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/DuckPond/MiniDuckSimulator.java" />
-        <option value="$PROJECT_DIR$/java/src/Meteo/Subject.java" />
-        <option value="$PROJECT_DIR$/java/src/Meteo/WeatherData.java" />
-        <option value="$PROJECT_DIR$/java/src/Meteo/Observer.java" />
         <option value="$PROJECT_DIR$/java/src/Meteo/ConcreteObserver.java" />
         <option value="$PROJECT_DIR$/java/src/Meteo/ConcreteSubject.java" />
         <option value="$PROJECT_DIR$/java/src/WeatherStation2/WeatherData.java" />
@@ -170,6 +197,14 @@
         <option value="$PROJECT_DIR$/java/src/WeatherStation3/WeatherData.java" />
         <option value="$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java" />
         <option value="$PROJECT_DIR$/java/src/WeatherStation3/Displays/ForecastDisplay.java" />
+        <option value="$PROJECT_DIR$/java/src/SturBuzz/Espresso.java" />
+        <option value="$PROJECT_DIR$/java/src/SturBuzz/Decaf.java" />
+        <option value="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Mocha.java" />
+        <option value="$PROJECT_DIR$/java/src/SturBuzz/DarkRoast.java" />
+        <option value="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Whip.java" />
+        <option value="$PROJECT_DIR$/java/src/SturBuzz/StartBuzzCoffeeApp.java" />
+        <option value="$PROJECT_DIR$/java/src/SturBuzz/HouseBlend.java" />
+        <option value="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Soy.java" />
       </list>
     </option>
   </component>
@@ -184,7 +219,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1539" />
+    <option name="width" value="1070" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -195,8 +230,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,37 +255,15 @@
               <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WeatherStation" type="462c0819:PsiDirectoryNode" />
+              <item name="SturBuzz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WeatherStation2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WeatherStation3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WeatherStation3" type="462c0819:PsiDirectoryNode" />
-              <item name="Displays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WeatherStation3" type="462c0819:PsiDirectoryNode" />
-              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="SturBuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -271,6 +284,153 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/DuckPond2/App.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/DuckPond2/Flying/Flying.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/DuckPond2/Flying/NoFly.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/DuckPond2/Mallard.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/DuckPond2/Quacking/Quacking.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/DuckPond2/Quacking/Squeek.class</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/Animal.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/App.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/Cat.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/Moving/Move.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/Moving/Moveable.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/Moving/NoMove.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/Ulitka.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/Voicing/NoVoice.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/Voicing/Voice.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/LoloPrud/Voicing/Voiceable.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/WeatherStation3/App.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/WeatherStation3/ConcreteObserver.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/WeatherStation3/ConcreteSubject.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/WeatherStation3/Interfaces/DisplayElement.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/WeatherStation3/Interfaces/Observer.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/WeatherStation3/Interfaces/Subject.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/out/production/java/src/WeatherStation3/WeatherData.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/Beverage.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/DarkRoast.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/Decaf.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/Decorator/CondimentDecorator.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/Decorator/Milk.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/Decorator/Mocha.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/Decorator/Soy.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/Decorator/Whip.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/Espresso.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/HouseBlend.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/SturBuzz/StartBuzzCoffeeApp.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Swing/SwingObserverExample.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/WeatherStation3/App.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/WeatherStation3/CurrentDisplay.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -283,7 +443,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeatherStation (1)">
+  <component name="RunManager" selected="Application.StartBuzzCoffeeApp">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.DuckPond2.App" />
       <module name="Design_Patterns" />
@@ -313,6 +473,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.DuckPondRepeat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StartBuzzCoffeeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.SturBuzz.StartBuzzCoffeeApp" />
+      <module name="Design_Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.SturBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,11 +556,11 @@
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.App (2)" />
       <item itemvalue="Application.WeatherStation" />
-      <item itemvalue="Application.WeatherStation (1)" />
+      <item itemvalue="Application.StartBuzzCoffeeApp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WeatherStation (1)" />
+        <item itemvalue="Application.StartBuzzCoffeeApp" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
@@ -417,7 +588,9 @@
       <workItem from="1586966694874" duration="2209000" />
       <workItem from="1587052209354" duration="7192000" />
       <workItem from="1587064257551" duration="2562000" />
-      <workItem from="1587106832175" duration="11887000" />
+      <workItem from="1587106832175" duration="11935000" />
+      <workItem from="1587241952966" duration="5000" />
+      <workItem from="1587571012200" duration="3204000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -503,14 +676,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587118901406</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="move to laptop.">
+      <created>1587131092447</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587131092447</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50012000" />
+    <option name="totallyTimeSpent" value="53269000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1539" height="1057" extended-state="0" />
+    <frame x="0" y="23" width="1070" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -522,19 +702,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19743863" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.23479189" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19743863" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.18637274" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2188716" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991462" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991462" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -587,7 +767,8 @@
     <MESSAGE value="WeatherStation3. Embedded implementation." />
     <MESSAGE value="WeatherData improved with embedded realization." />
     <MESSAGE value="CurrentConditionsDisplay improved with embedded realization." />
-    <option name="LAST_COMMIT_MESSAGE" value="CurrentConditionsDisplay improved with embedded realization." />
+    <MESSAGE value="move to laptop." />
+    <option name="LAST_COMMIT_MESSAGE" value="move to laptop." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -603,78 +784,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPondRepeat/MallardDuck.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPondRepeat/Duck.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPond2/Flying/Flyable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPond2/Quacking/Quackable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPond/Quacking/QuackBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPond/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPond/Simulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPond2/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPond/Behaving/FlyWithWings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPond2/Quacking/Quacking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/DuckPond2/RubberDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/DuckPond2/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -827,13 +936,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Interfaces/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Interfaces/Observer.java" />
     <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Interfaces/DisplayElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -878,16 +981,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Objects/ObjectOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Objects/ObjectOne.java" />
     <entry file="file://$PROJECT_DIR$/java/src/WeatherStation2/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -942,7 +1036,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/GeneralDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -961,21 +1055,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
           <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
-          <folding>
-            <element signature="e#4386#4387#0" expanded="true" />
-            <element signature="e#4423#4424#0" expanded="true" />
-            <element signature="e#6553#6554#0" expanded="true" />
-            <element signature="e#6583#6584#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/WeatherStation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="102">
           <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/ForecastDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -996,35 +1113,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation/WeatherData.java">
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decaf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/WeatherStation3/Displays/ForecastDisplay.java">
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Milk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Beverage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/DarkRoast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Whip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/HouseBlend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/StartBuzzCoffeeApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
           </folding>
         </state>
       </provider>

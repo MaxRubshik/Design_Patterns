@@ -2,7 +2,7 @@ package src.SturBuzz;
 
 public class HouseBlend extends Beverage {
     public HouseBlend() {
-        description = "House Blend Coffee.";
+        description = "House Blend";
     }
 
     @Override
@@ -12,7 +12,6 @@ public class HouseBlend extends Beverage {
 
     @Override
     public String getDescription() {
-        System.out.println("House Blend");
-        return null;
+        return description;
     }
 }
