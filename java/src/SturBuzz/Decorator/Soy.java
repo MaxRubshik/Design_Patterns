@@ -1,14 +1,21 @@
 package src.SturBuzz.Decorator;
 
+import src.SturBuzz.Beverage;
+
 public class Soy extends CondimentDecorator {
+    Beverage beverage;
+
+    public Soy(Beverage beverage) {
+        this.beverage = beverage;
+    }
+
     @Override
     public double cost() {
-        return 0;
+        return .15 + beverage.cost();
     }
 
     @Override
     public String getDescription() {
-
-        return null;
+        return beverage.getDescription() + " Soy";
     }
 }
