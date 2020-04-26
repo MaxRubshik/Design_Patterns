@@ -11,7 +11,7 @@ public class Milk extends CondimentDecorator {
 
     @Override
     public double cost() {
-        return 0 + beverage.cost();
+        return 0.10 + beverage.cost();
     }
 
     @Override
