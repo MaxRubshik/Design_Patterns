@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/SturBuzz/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SturBuzz/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LowerCase/InputTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,36 +30,25 @@
       <file leaf-file-name="Beverage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SturBuzz/Beverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#632#633#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#808#809#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
                 <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DarkRoast.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DarkRoast.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SturBuzz/DarkRoast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="119">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/CondimentDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -77,16 +66,34 @@
       <file leaf-file-name="Milk.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Milk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="119">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
               <folding>
                 <element signature="e#170#171#0" expanded="true" />
                 <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowerCaseInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LowerCase/LowerCaseInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LowerCase/InputTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -94,8 +101,8 @@
       <file leaf-file-name="StartBuzzCoffeeApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SturBuzz/StartBuzzCoffeeApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="79" lean-forward="true" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+            <state relative-caret-position="306">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,13 +113,8 @@
       <file leaf-file-name="Mocha.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Mocha.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -121,43 +123,11 @@
         <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Whip.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#170#171#0" expanded="true" />
                 <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Soy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Soy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-              <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HouseBlend.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SturBuzz/HouseBlend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,15 +136,10 @@
       <file leaf-file-name="Espresso.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SturBuzz/Espresso.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,9 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/WeatherStation2/Observer.java" />
-        <option value="$PROJECT_DIR$/src/WeatherStation2/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/WeatherStation2/GeneralDisplay.java" />
         <option value="$PROJECT_DIR$/src/DuckPondRepeat/Flyable.java" />
         <option value="$PROJECT_DIR$/src/DuckPondRepeat/Quackable.java" />
         <option value="$PROJECT_DIR$/src/DuckPondRepeat/FlyWithWings.java" />
@@ -241,12 +203,15 @@
         <option value="$PROJECT_DIR$/src/SturBuzz/Decaf.java" />
         <option value="$PROJECT_DIR$/src/SturBuzz/HouseBlend.java" />
         <option value="$PROJECT_DIR$/src/SturBuzz/Decorator/Mocha.java" />
-        <option value="$PROJECT_DIR$/src/SturBuzz/Decorator/Milk.java" />
         <option value="$PROJECT_DIR$/src/SturBuzz/StartBuzzCoffeeApp.java" />
         <option value="$PROJECT_DIR$/src/SturBuzz/Decorator/Whip.java" />
         <option value="$PROJECT_DIR$/src/SturBuzz/Decorator/Soy.java" />
         <option value="$PROJECT_DIR$/src/SturBuzz/Beverage.java" />
         <option value="$PROJECT_DIR$/src/SturBuzz/DarkRoast.java" />
+        <option value="$PROJECT_DIR$/src/SturBuzz/Decorator/Milk.java" />
+        <option value="$PROJECT_DIR$/src/LowerCase/App.java" />
+        <option value="$PROJECT_DIR$/src/LowerCase/LowerCaseInputStream.java" />
+        <option value="$PROJECT_DIR$/src/LowerCase/InputTest.java" />
       </list>
     </option>
   </component>
@@ -260,9 +225,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
+    <option name="x" value="-251" />
     <option name="y" value="23" />
-    <option name="width" value="742" />
+    <option name="width" value="998" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -274,8 +239,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,6 +250,12 @@
               <item name="Desigh_Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Desigh_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LowerCase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Desigh_Patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -311,6 +280,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,123 +295,6 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SturBuzz/DarkRoast.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SturBuzz/Decaf.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SturBuzz/Decorator/Mocha.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SturBuzz/Decorator/Soy.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SturBuzz/Decorator/Whip.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SturBuzz/HouseBlend.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/SturBuzz/StartBuzzCoffeeApp.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -453,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StartBuzzCoffeeApp">
+  <component name="RunManager" selected="Application.InputTest">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.DuckPond2.App" />
       <module name="java" />
@@ -487,6 +341,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.LowerCase.InputTest" />
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.LowerCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="StartBuzzCoffeeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.SturBuzz.StartBuzzCoffeeApp" />
       <module name="java" />
@@ -494,17 +359,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.SturBuzz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.WeatherStation.WeatherStation" />
-      <module name="java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.WeatherStation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -551,19 +405,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.WeatherStation" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.App (2)" />
       <item itemvalue="Application.StartBuzzCoffeeApp" />
+      <item itemvalue="Application.InputTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputTest" />
         <item itemvalue="Application.StartBuzzCoffeeApp" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.WeatherStation" />
       </list>
     </recent_temporary>
   </component>
@@ -584,7 +438,8 @@
       <workItem from="1586849495656" duration="2668000" />
       <workItem from="1586935679570" duration="7880000" />
       <workItem from="1587131356518" duration="1807000" />
-      <workItem from="1587453467946" duration="11457000" />
+      <workItem from="1587453467946" duration="14040000" />
+      <workItem from="1587913759918" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="Duck class will delegate behavior.">
       <created>1586004627016</created>
@@ -838,14 +693,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587800908769</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="InputStream App.">
+      <created>1587913982319</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1587913982319</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68052000" />
+    <option name="totallyTimeSpent" value="71315000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="23" width="742" height="877" extended-state="0" />
+    <frame x="-251" y="23" width="998" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32996207" />
@@ -862,7 +724,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32285714" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24267782" />
       <window_info anchor="right" id="Database" order="7" weight="0.32996207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -872,11 +734,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39950064" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32958803" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32958803" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32958803" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -938,7 +800,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Manok class with methods added." />
     <MESSAGE value="Brain puzzle task. Game." />
     <MESSAGE value="Refactoring little." />
     <MESSAGE value="Meteo app. Started." />
@@ -963,7 +824,8 @@
     <MESSAGE value="Cost and constructors added to all sub classes." />
     <MESSAGE value="move to mac" />
     <MESSAGE value="Add cost methods." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add cost methods." />
+    <MESSAGE value="InputStream App." />
+    <option name="LAST_COMMIT_MESSAGE" value="InputStream App." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -992,13 +854,23 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SturBuzz/StartBuzzCoffeeApp.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SturBuzz/StartBuzzCoffeeApp.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="17" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DuckPondRepeat/Fly/Flyable.java" />
-    <entry file="file://$PROJECT_DIR$/src/DuckPondRepeat/Quack/Quackable.java" />
     <entry file="file://$PROJECT_DIR$/src/DuckPond/MallardDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1175,9 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1254,25 +1123,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SturBuzz/HouseBlend.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SturBuzz/Espresso.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Whip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SturBuzz/StartBuzzCoffeeApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SturBuzz/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SturBuzz/DarkRoast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1280,108 +1212,36 @@
     <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/CondimentDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Milk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="119">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding>
             <element signature="e#170#171#0" expanded="true" />
             <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SturBuzz/StartBuzzCoffeeApp.java">
+    <entry file="file://$PROJECT_DIR$/src/LowerCase/LowerCaseInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="79" lean-forward="true" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+        <state relative-caret-position="289">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Mocha.java">
+    <entry file="file://$PROJECT_DIR$/src/LowerCase/InputTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Soy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SturBuzz/Decorator/Whip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SturBuzz/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SturBuzz/DarkRoast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
