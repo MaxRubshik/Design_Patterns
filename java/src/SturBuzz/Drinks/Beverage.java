@@ -66,6 +66,18 @@ public abstract class Beverage {
         return false;
     }
 
+//    private boolean itsTall(){
+//        return false;
+//    }
+//
+//    private boolean itsGrande(){
+//        return false;
+//    }
+//
+//    private boolean itsVenti(){
+//        return false;
+//    }
+
     public String getDescription() {
         return description;
     }
