@@ -1,6 +1,12 @@
 package src.SturBuzz.Drinks;
 
 public class DarkRoast extends Beverage {
+    @Override
+    public double getCost() {
+        double cost = this.cost() + getSize().getCost();
+        return Math.round(cost);
+    }
+
     public DarkRoast() {
         description = "More excellent Dark Roast";
     }
@@ -12,8 +18,6 @@ public class DarkRoast extends Beverage {
 
     @Override
     public String getDescription() {
-        return description;
+        return getSize().getName() + " " + description;
     }
-
-
 }

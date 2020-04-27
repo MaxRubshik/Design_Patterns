@@ -13,6 +13,8 @@ public abstract class Beverage {
 
     private Size size;
 
+    public abstract double getCost();
+
     public Beverage() {
         if (getSize() == null)
             setSize("TALL");

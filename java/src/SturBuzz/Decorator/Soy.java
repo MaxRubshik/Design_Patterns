@@ -11,6 +11,12 @@ public class Soy extends CondimentDecorator {
     }
 
     @Override
+    public double getCost() {
+        double cost = this.cost() + beverage.cost();
+        return Math.round(cost);
+    }
+
+    @Override
     public double cost() {
         double cost = beverage.cost();
         //return .15 + beverage.cost();
@@ -21,8 +27,10 @@ public class Soy extends CondimentDecorator {
         }else if (getSize() == Size.VENTI){
             cost += .20;
         }
-        return Math.round(cost)+beverage.cost();
+        return Math.round(cost);
     }
+
+
 
     @Override
     public String getDescription() {

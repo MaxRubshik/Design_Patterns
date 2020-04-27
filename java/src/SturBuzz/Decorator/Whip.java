@@ -10,6 +10,12 @@ public class Whip extends CondimentDecorator {
     }
 
     @Override
+    public double getCost() {
+        double cost = this.cost() + beverage.cost();
+        return Math.round(cost);
+    }
+
+    @Override
     public double cost() {
         return .10 + beverage.cost();
     }
