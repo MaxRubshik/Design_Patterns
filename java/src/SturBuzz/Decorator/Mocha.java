@@ -1,6 +1,7 @@
 package src.SturBuzz.Decorator;
 
 import src.SturBuzz.Drinks.Beverage;
+import src.SturBuzz.Size;
 
 public class Mocha extends CondimentDecorator {
     Beverage beverage;
@@ -8,11 +9,6 @@ public class Mocha extends CondimentDecorator {
     public Mocha(Beverage beverage) {
 
         this.beverage = beverage;
-    }
-
-    @Override
-    public Object getSize() {
-        return null;
     }
 
     @Override

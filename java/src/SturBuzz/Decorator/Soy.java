@@ -1,8 +1,7 @@
 package src.SturBuzz.Decorator;
 
 import src.SturBuzz.Drinks.Beverage;
-
-import static src.SturBuzz.Drinks.Beverage.TALL;
+import src.SturBuzz.Size;
 
 public class Soy extends CondimentDecorator {
     Beverage beverage;
@@ -13,16 +12,16 @@ public class Soy extends CondimentDecorator {
 
     @Override
     public double cost() {
-        //return .15 + beverage.cost();
         double cost = beverage.cost();
-        if(getSize() == TALL){
+        //return .15 + beverage.cost();
+        if(getSize() == Size.TALL){
             cost += .10;
-        }else if (getSize() == Beverage.GRANDE){
+        }else if (getSize() == Size.GRANDE){
             cost += .15;
-        }else if (getSize() == Beverage.VENTI){
+        }else if (getSize() == Size.VENTI){
             cost += .20;
         }
-        return cost;
+        return Math.round(cost)+beverage.cost();
     }
 
     @Override

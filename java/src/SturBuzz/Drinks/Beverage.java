@@ -13,12 +13,22 @@ public abstract class Beverage {
 
     private Size size;
 
-    public void setSize(Beverage b) {
-        size = b;
+    public Beverage() {
+        if (getSize() == null)
+            setSize("TALL");
     }
 
-    public Beverage getSize(Beverage b) {
-        return b.size;
+    public void setSize(String sizeName) {
+        if (sizeName.equalsIgnoreCase("TALL"))
+            size = Size.TALL;
+        else if (sizeName.equalsIgnoreCase("GRANDE"))
+            size = Size.GRANDE;
+        else if (sizeName.equalsIgnoreCase("VENTI"))
+            size = Size.VENTI;
+    }
+
+    public Size getSize() {
+        return size;
     }
 
 

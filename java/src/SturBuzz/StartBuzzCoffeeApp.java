@@ -1,5 +1,6 @@
 package src.SturBuzz;
 
+import src.SturBuzz.Decorator.Milk;
 import src.SturBuzz.Decorator.Mocha;
 import src.SturBuzz.Decorator.Soy;
 import src.SturBuzz.Decorator.Whip;
@@ -27,6 +28,8 @@ public class StartBuzzCoffeeApp {
 
         Beverage beverage4 = new Decaf();
         beverage4 = new Soy(beverage4);
+        beverage4 = new Milk(beverage4);
+        //beverage4.setSize("GRANDE");
         System.out.println(beverage4.getDescription() + " $" + beverage4.cost());
     }
 }
