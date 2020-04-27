@@ -27,10 +27,10 @@ public class StartBuzzCoffeeApp {
         System.out.println(beverage3.getDescription() + " $" + beverage3.cost());
 
         Beverage beverage4 = new Decaf();
+        beverage4.setSize("GRANDE");
         beverage4 = new Soy(beverage4);
         beverage4 = new Milk(beverage4);
         System.out.println(beverage4.getDescription() + " $" + beverage4.cost());
-        beverage4.setSize("GRANDE");
         System.out.println(beverage4.getDescription() + " $" + beverage4.cost());
 
     }
