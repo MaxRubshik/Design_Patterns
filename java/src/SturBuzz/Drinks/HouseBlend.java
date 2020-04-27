@@ -1,4 +1,4 @@
-package src.SturBuzz;
+package src.SturBuzz.Drinks;
 
 public class HouseBlend extends Beverage {
     public HouseBlend() {

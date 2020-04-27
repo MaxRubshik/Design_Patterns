@@ -1,6 +1,6 @@
-package src.SturBuzz;
+package src.SturBuzz.Drinks;
 
-public class DarkRoast extends  Beverage {
+public class DarkRoast extends Beverage {
     public DarkRoast() {
         description = "More excellent Dark Roast";
     }

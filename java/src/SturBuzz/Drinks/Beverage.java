@@ -1,4 +1,4 @@
-package src.SturBuzz;
+package src.SturBuzz.Drinks;
 
 public abstract class Beverage {
     public String description = "Unknown beverage.";

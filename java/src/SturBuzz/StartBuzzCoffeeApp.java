@@ -3,6 +3,10 @@ package src.SturBuzz;
 import src.SturBuzz.Decorator.Mocha;
 import src.SturBuzz.Decorator.Soy;
 import src.SturBuzz.Decorator.Whip;
+import src.SturBuzz.Drinks.Beverage;
+import src.SturBuzz.Drinks.DarkRoast;
+import src.SturBuzz.Drinks.Espresso;
+import src.SturBuzz.Drinks.HouseBlend;
 
 public class StartBuzzCoffeeApp {
     public static void main(String[] args) {

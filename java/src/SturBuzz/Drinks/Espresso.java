@@ -1,4 +1,4 @@
-package src.SturBuzz;
+package src.SturBuzz.Drinks;
 
 public class Espresso extends Beverage {
     //Constructor

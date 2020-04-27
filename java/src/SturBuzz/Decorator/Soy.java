@@ -1,6 +1,6 @@
 package src.SturBuzz.Decorator;
 
-import src.SturBuzz.Beverage;
+import src.SturBuzz.Drinks.Beverage;
 
 public class Soy extends CondimentDecorator {
     Beverage beverage;

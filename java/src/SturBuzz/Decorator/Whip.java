@@ -1,6 +1,6 @@
 package src.SturBuzz.Decorator;
 
-import src.SturBuzz.Beverage;
+import src.SturBuzz.Drinks.Beverage;
 
 public class Whip extends CondimentDecorator {
     Beverage beverage;
