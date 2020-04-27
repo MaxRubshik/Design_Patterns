@@ -3,10 +3,7 @@ package src.SturBuzz;
 import src.SturBuzz.Decorator.Mocha;
 import src.SturBuzz.Decorator.Soy;
 import src.SturBuzz.Decorator.Whip;
-import src.SturBuzz.Drinks.Beverage;
-import src.SturBuzz.Drinks.DarkRoast;
-import src.SturBuzz.Drinks.Espresso;
-import src.SturBuzz.Drinks.HouseBlend;
+import src.SturBuzz.Drinks.*;
 
 public class StartBuzzCoffeeApp {
     public static void main(String[] args) {
@@ -27,5 +24,9 @@ public class StartBuzzCoffeeApp {
         beverage3 = new Mocha(beverage3);
         beverage3 = new Whip(beverage3);
         System.out.println(beverage3.getDescription() + " $" + beverage3.cost());
+
+        Beverage beverage4 = new Decaf();
+        beverage4 = new Soy(beverage4);
+        System.out.println(beverage4.getDescription() + " $" + beverage4.cost());
     }
 }

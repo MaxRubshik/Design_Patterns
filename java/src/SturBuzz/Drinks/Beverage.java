@@ -1,12 +1,26 @@
 package src.SturBuzz.Drinks;
 
+import src.SturBuzz.Size;
+
 public abstract class Beverage {
+
     public String description = "Unknown beverage.";
     double milkCost;
     double soyCost;
     double mochaCost;
     double whipCost;
     double condimentCost = 0.0;
+
+    private Size size;
+
+    public void setSize(Beverage b) {
+        size = b;
+    }
+
+    public Beverage getSize(Beverage b) {
+        return b.size;
+    }
+
 
     public double cost() {
         if (hasMilk()) {
@@ -15,10 +29,10 @@ public abstract class Beverage {
         if (hasSoy()) {
             condimentCost += soyCost;
         }
-        if (hasMocha()){
+        if (hasMocha()) {
             condimentCost += mochaCost;
         }
-        if (hasWhip()){
+        if (hasWhip()) {
             condimentCost += whipCost;
         }
         return condimentCost;
@@ -43,4 +57,6 @@ public abstract class Beverage {
     public String getDescription() {
         return description;
     }
+
+
 }
