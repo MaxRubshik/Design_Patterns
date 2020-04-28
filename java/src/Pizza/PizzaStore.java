@@ -1,6 +1,9 @@
 package src.Pizza;
 
-public class PizzaStore {
+import src.Pizza.Pizza;
+import src.Pizza.SimplePizzaFactory;
+
+public abstract class PizzaStore {
     SimplePizzaFactory factory;
 
     public PizzaStore(SimplePizzaFactory factory){
@@ -9,7 +12,7 @@ public class PizzaStore {
 
     public Pizza orderPizza(String type){
         Pizza pizza;
-        pizza = factory.createPizza(type);
+        pizza = createPizza(type);
 
         pizza.prepare();
         pizza.bake();
@@ -17,4 +20,6 @@ public class PizzaStore {
         pizza.box();
         return pizza;
     }
+
+    public abstract Pizza createPizza(String type);
 }

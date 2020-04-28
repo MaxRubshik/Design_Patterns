@@ -1,9 +1,15 @@
 package src.Pizza;
 
-public class Pizza {
-    Pizza orderPizza(String type) {
-        Pizza pizza = null;
+import static src.Pizza.SimplePizzaFactory.createPizza;
 
+public abstract class Pizza {
+    Pizza orderPizza(String type) {
+        Pizza pizza = createPizza(type);
+//        String name;
+//        String dough;
+//        String sauce;
+
+        //ArrayList toppings = new ArrayList();
 
 
         pizza.prepare();
