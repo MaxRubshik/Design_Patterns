@@ -10,11 +10,20 @@ public abstract class Pizza {
     ArrayList toppings = new ArrayList();
 
     public void prepare() {
+
         System.out.println("Prepare " + name);
+        System.out.println("Tossing dough...");
+        System.out.println("Adding sauce...");
+        System.out.println("Adding toppings...");
+        System.out.println();
+
+        for (int i = 0; i < toppings.size(); i++) {
+            System.out.println(" "+ toppings.get(i));
+        }
     }
 
     public void box() {
-        System.out.println("In the box" + name);
+        System.out.println("In the box " + name);
     }
 
     public void cut() {
