@@ -1,9 +1,6 @@
 package src.Pizza;
 
-import src.Pizza.PizzaVersions.CheesePizza;
-import src.Pizza.PizzaVersions.ClamPizza;
-import src.Pizza.PizzaVersions.PepperoniPizza;
-import src.Pizza.PizzaVersions.VeggiePizza;
+import src.Pizza.PizzaVersions.*;
 
 //Универсальный метод производства пиццы
 

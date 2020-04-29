@@ -1,7 +1,6 @@
-package src.Pizza;
+package src.Pizza.Stores;
 
-import src.Pizza.Pizza;
-import src.Pizza.SimplePizzaFactory;
+import src.Pizza.PizzaVersions.Pizza;
 
 public abstract class PizzaStore {
     public abstract Pizza createPizza(String type);

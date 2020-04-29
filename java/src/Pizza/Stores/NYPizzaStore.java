@@ -1,16 +1,14 @@
 package src.Pizza.Stores;
 
-import src.Pizza.Pizza;
-import src.Pizza.PizzaStore;
+import src.Pizza.PizzaVersions.Pizza;
 import src.Pizza.PizzaVersions.NYStylePizza;
-import src.Pizza.SimplePizzaFactory;
 
 public class NYPizzaStore extends PizzaStore {
 
     @Override
     public Pizza createPizza(String type) {
         Pizza pizza = null;
-        if(type.equalsIgnoreCase("ny")){
+        if(type.equalsIgnoreCase("new york")){
             pizza = new NYStylePizza();
         }
         return pizza;

@@ -1,15 +1,13 @@
 package src.Pizza.Stores;
 
-import src.Pizza.Pizza;
-import src.Pizza.PizzaStore;
+import src.Pizza.PizzaVersions.Pizza;
 import src.Pizza.PizzaVersions.CheesePizza;
-import src.Pizza.SimplePizzaFactory;
 
 public class ChicagoPizzaStore extends PizzaStore {
 
     public Pizza createPizza(String type) {
         Pizza pizza = null;
-        if(type.equalsIgnoreCase("cheese")){
+        if(type.equalsIgnoreCase("Chicago")){
             pizza = new CheesePizza();
         }
         return pizza;

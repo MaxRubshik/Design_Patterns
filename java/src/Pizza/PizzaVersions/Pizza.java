@@ -1,4 +1,4 @@
-package src.Pizza;
+package src.Pizza.PizzaVersions;
 
 import java.util.ArrayList;
 
