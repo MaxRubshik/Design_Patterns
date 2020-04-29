@@ -4,15 +4,10 @@ import src.Pizza.Pizza;
 import src.Pizza.SimplePizzaFactory;
 
 public abstract class PizzaStore {
-    SimplePizzaFactory factory;
+    public abstract Pizza createPizza(String type);
 
-    public PizzaStore(SimplePizzaFactory factory){
-        this.factory = factory;
-    }
-
-    public Pizza orderPizza(String type){
-        Pizza pizza;
-        pizza = createPizza(type);
+    public Pizza orderPizza(String type) {
+        Pizza pizza = createPizza(type);
 
         pizza.prepare();
         pizza.bake();
@@ -21,6 +16,4 @@ public abstract class PizzaStore {
 
         return pizza;
     }
-
-    public abstract Pizza createPizza(String type);
 }
