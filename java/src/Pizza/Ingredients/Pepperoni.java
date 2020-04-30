@@ -1,4 +1,4 @@
-package src.Pizza.Factory;
+package src.Pizza.Ingredients;
 
 public interface Pepperoni {
 }
