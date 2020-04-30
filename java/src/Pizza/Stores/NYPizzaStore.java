@@ -1,7 +1,6 @@
 package src.Pizza.Stores;
 
 import src.Pizza.PizzaVersions.Pizza;
-import src.Pizza.PizzaVersions.NYStylePizza;
 
 public class NYPizzaStore extends PizzaStore {
 
@@ -9,7 +8,7 @@ public class NYPizzaStore extends PizzaStore {
     public Pizza createPizza(String type) {
         Pizza pizza = null;
         if(type.equalsIgnoreCase("new york")){
-            pizza = new NYStylePizza();
+            pizza = new NYCheesePizza();
         }
         return pizza;
     }
