@@ -5,12 +5,12 @@ import src.Pizza.Factory.PizzaIngredientFactory;
 public class CheesePizza extends Pizza {
     PizzaIngredientFactory ingredientFactory;
 
-    public CheesePizza(PizzaIngredientFactory ingridientFactory) {
-        this.ingredientFactory = ingridientFactory;
+    public CheesePizza(PizzaIngredientFactory ingredientFactory) {
+        this.ingredientFactory = ingredientFactory;
     }
 
     @Override
-    void prepare() {
+    public void prepare() {
         System.out.println("Preparing " + name);
         dough = ingredientFactory.createDough();
         sauce = ingredientFactory.createSauce();

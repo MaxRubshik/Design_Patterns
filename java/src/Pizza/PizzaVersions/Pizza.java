@@ -15,7 +15,7 @@ public abstract class Pizza {
 
     ArrayList toppings = new ArrayList();
 
-    abstract void prepare();
+    public abstract void prepare();
 //    {
 //
 //        System.out.println("Prepare " + name);
