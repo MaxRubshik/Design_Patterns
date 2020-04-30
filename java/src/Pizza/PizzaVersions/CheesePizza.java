@@ -1,11 +1,11 @@
 package src.Pizza.PizzaVersions;
 
-import src.Pizza.Factory.PizzaIngridientFactory;
+import src.Pizza.Factory.PizzaIngredientFactory;
 
 public class CheesePizza extends Pizza {
-    PizzaIngridientFactory ingredientFactory;
+    PizzaIngredientFactory ingredientFactory;
 
-    public CheesePizza(PizzaIngridientFactory ingridientFactory) {
+    public CheesePizza(PizzaIngredientFactory ingridientFactory) {
         this.ingredientFactory = ingridientFactory;
     }
 

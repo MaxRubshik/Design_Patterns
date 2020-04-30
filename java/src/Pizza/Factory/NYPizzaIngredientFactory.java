@@ -2,7 +2,7 @@ package src.Pizza.Factory;
 
 import src.Pizza.Ingredients.*;
 
-public class NYPizzaIngredientFactory implements PizzaIngridientFactory {
+public class NYPizzaIngredientFactory implements PizzaIngredientFactory {
     @Override
     public Dough createDough() {
         return new ThinCrustDough();
