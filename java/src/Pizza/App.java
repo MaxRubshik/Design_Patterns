@@ -14,6 +14,7 @@ public class App {
         Pizza pizzaChi = chicagoPizzaStore.orderPizza("Chicago");
         System.out.println();
         Pizza pizzaNY = nyPizzaStore.orderPizza("New York");
+        nyPizzaStore.orderPizza("cheese");
 
     }
 }
