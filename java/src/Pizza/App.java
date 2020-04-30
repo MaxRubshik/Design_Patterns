@@ -1,6 +1,5 @@
 package src.Pizza;
 
-import src.Pizza.PizzaVersions.ChicagoStylePizza;
 import src.Pizza.PizzaVersions.Pizza;
 import src.Pizza.Stores.ChicagoPizzaStore;
 import src.Pizza.Stores.NYPizzaStore;
@@ -16,6 +15,5 @@ public class App {
         System.out.println();
         Pizza pizzaNY = nyPizzaStore.orderPizza("New York");
 
-        //SimplePizzaFactory simplePizzaFactory = new SimplePizzaFactory();
     }
 }
