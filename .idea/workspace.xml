@@ -69,8 +69,8 @@
       <file leaf-file-name="ChicagoPizzaIngredientFactory.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/Pizza/Factory/ChicagoPizzaIngredientFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="67" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
+            <state relative-caret-position="442">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -228,8 +228,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,7 +287,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,7 +297,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -473,7 +473,8 @@
       <workItem from="1588223694985" duration="5369000" />
       <workItem from="1588243293707" duration="5960000" />
       <workItem from="1588324303063" duration="1083000" />
-      <workItem from="1588483846434" duration="243000" />
+      <workItem from="1588483846434" duration="1387000" />
+      <workItem from="1588666006294" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -636,15 +637,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588254357620</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="test">
+      <created>1588484120302</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1588484120302</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73540000" />
+    <option name="totallyTimeSpent" value="74690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1107" height="1053" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -659,7 +666,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.24131456" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2460094" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -730,7 +737,8 @@
     <MESSAGE value="ClamPizza updated." />
     <MESSAGE value="NY PizzaStore updated." />
     <MESSAGE value="Chicago PizzaStore updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Chicago PizzaStore updated." />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -994,7 +1002,7 @@
             <Category>Constructors</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
-            <Category>Inner Classes</Category>
+            <Category />
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -1006,10 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1059,16 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Stores/NYPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1129,8 +1123,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/Pizza/Factory/ChicagoPizzaIngredientFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="67" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
+        <state relative-caret-position="442">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Stores/NYPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
