@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Singleton.">
-      <change afterPath="$PROJECT_DIR$/java/src/Chocolate/ChocolateBoiler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="ChocolateBoiler.">
+      <change beforePath="$PROJECT_DIR$/java/src/Chocolate/ChocolateBoiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Chocolate/ChocolateBoiler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +227,7 @@
       <workItem from="1588667244333" duration="326000" />
       <workItem from="1588831835924" duration="764000" />
       <workItem from="1588835148924" duration="138000" />
-      <workItem from="1588835307609" duration="3949000" />
+      <workItem from="1588835307609" duration="4269000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -412,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588841864471</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="ChocolateBoiler.">
+      <created>1588844155923</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1588844155923</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +461,8 @@
     <MESSAGE value="Chicago PizzaStore updated." />
     <MESSAGE value="test" />
     <MESSAGE value="Singleton." />
-    <option name="LAST_COMMIT_MESSAGE" value="Singleton." />
+    <MESSAGE value="ChocolateBoiler." />
+    <option name="LAST_COMMIT_MESSAGE" value="ChocolateBoiler." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
