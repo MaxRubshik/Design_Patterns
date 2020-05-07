@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="synchronized." />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="synchronized.">
+      <change afterPath="$PROJECT_DIR$/java/src/Singleton/Singleton2.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +227,7 @@
       <workItem from="1588667244333" duration="326000" />
       <workItem from="1588831835924" duration="764000" />
       <workItem from="1588835148924" duration="138000" />
-      <workItem from="1588835307609" duration="5590000" />
+      <workItem from="1588835307609" duration="6032000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -430,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588853833291</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="synchronized.">
+      <created>1588854796995</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588854796995</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
