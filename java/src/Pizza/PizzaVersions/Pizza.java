@@ -36,9 +36,9 @@ public abstract class Pizza {
         System.out.println("Cutting into diagonal pieces. ");
     }
 
-//    public void cutQuads() {
-//        System.out.println("Cutting into quads pieces. ");
-//    }
+    public void cutQuads() {
+        System.out.println("Cutting into quads pieces. ");
+    }
 
     public void box() {
         System.out.println("Put in the official box. ");
