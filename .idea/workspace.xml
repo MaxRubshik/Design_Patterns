@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="upgraded to Singleton.">
-      <change beforePath="$PROJECT_DIR$/java/src/Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Singleton/Singleton.java" afterDir="false" />
-    </list>
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="synchronized." />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +225,7 @@
       <workItem from="1588667244333" duration="326000" />
       <workItem from="1588831835924" duration="764000" />
       <workItem from="1588835148924" duration="138000" />
-      <workItem from="1588835307609" duration="4958000" />
+      <workItem from="1588835307609" duration="5590000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -425,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588844479624</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="synchronized.">
+      <created>1588853833291</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1588853833291</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Delete Pond start." />
     <MESSAGE value="Meteo in process." />
     <MESSAGE value="move to laptop" />
     <MESSAGE value="DuckPond2 finished. Myself." />
@@ -470,7 +474,8 @@
     <MESSAGE value="Singleton." />
     <MESSAGE value="ChocolateBoiler." />
     <MESSAGE value="upgraded to Singleton." />
-    <option name="LAST_COMMIT_MESSAGE" value="upgraded to Singleton." />
+    <MESSAGE value="synchronized." />
+    <option name="LAST_COMMIT_MESSAGE" value="synchronized." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
