@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/Singleton/Singleton.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Singleton.">
+      <change afterPath="$PROJECT_DIR$/java/src/Chocolate/ChocolateBoiler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -228,7 +228,7 @@
       <workItem from="1588667244333" duration="326000" />
       <workItem from="1588831835924" duration="764000" />
       <workItem from="1588835148924" duration="138000" />
-      <workItem from="1588835307609" duration="2186000" />
+      <workItem from="1588835307609" duration="3949000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -405,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588666031097</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Singleton.">
+      <created>1588841864471</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1588841864471</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +454,8 @@
     <MESSAGE value="NY PizzaStore updated." />
     <MESSAGE value="Chicago PizzaStore updated." />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Singleton." />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
