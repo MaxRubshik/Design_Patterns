@@ -2,141 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java/src/Singleton/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="NYPizzaStore.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/java/src/Pizza/Stores/NYPizzaStore.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="102">
-                    <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-                    <folding>
-                      <element signature="imports" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/PizzaVersions/Pizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PizzaIngredientFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/Factory/PizzaIngredientFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dough.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Dough.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChicagoPizzaIngredientFactory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/Factory/ChicagoPizzaIngredientFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThickCrustDough.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/ThickCrustDough.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sauce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Sauce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlumTomatoSauce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/PlumTomatoSauce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheesePizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/PizzaVersions/CheesePizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-              <folding>
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChicagoPizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/Stores/ChicagoPizzaStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Pizza/Stores/PizzaStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -149,155 +36,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/java/src/WeatherStation3/WeatherData.java" />
-        <option value="$PROJECT_DIR$/java/src/WeatherStation3/Displays/CurrentConditionDisplay.java" />
-        <option value="$PROJECT_DIR$/java/src/WeatherStation3/Displays/ForecastDisplay.java" />
-        <option value="$PROJECT_DIR$/java/src/SturBuzz/Espresso.java" />
-        <option value="$PROJECT_DIR$/java/src/SturBuzz/Decaf.java" />
-        <option value="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Mocha.java" />
-        <option value="$PROJECT_DIR$/java/src/SturBuzz/DarkRoast.java" />
-        <option value="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Whip.java" />
-        <option value="$PROJECT_DIR$/java/src/SturBuzz/StartBuzzCoffeeApp.java" />
-        <option value="$PROJECT_DIR$/java/src/SturBuzz/HouseBlend.java" />
-        <option value="$PROJECT_DIR$/java/src/SturBuzz/Decorator/Soy.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/PizzaVersions/ChicagoStylePizza.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/PizzaVersions/NYStylePizza.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/PizzaIngridientFactory.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/Dough.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/Sauce.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/Cheese.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/Veggies.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/Pepperoni.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/Clams.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/PizzaIngridientFactory.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/PizzaIngredientFactory.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/ThinCrustDough.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/MarinaraSauce.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/ReggianoCheese.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/Garlic.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/Onion.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/Mushroom.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/RedPepper.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/SlicedPepperoni.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/NYPizzaIngredientFactory.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/FreshClams.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/FreshClams.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/ThickCrustDough.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/PlumTomatoSauce.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/Mozzarella.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/FrozenClams.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/BlackOlives.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/Spinach.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Ingredients/EggPlant.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/PizzaVersions/NYCheesePizza.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/PizzaVersions/ClamPizza.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/PizzaVersions/VeggiePizza.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/PizzaVersions/PepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/PizzaVersions/CheesePizza.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Stores/NYPizzaStore.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Factory/ChicagoPizzaIngredientFactory.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Stores/ChicagoPizzaStore.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/Stores/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/App.java" />
-        <option value="$PROJECT_DIR$/java/src/Pizza/PizzaVersions/Pizza.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1107" />
-    <option name="height" value="1053" />
-  </component>
+  <component name="ProjectId" id="1bTqtfCyWdGjnySTx463Hwppeib" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Pizza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Pizza" type="462c0819:PsiDirectoryNode" />
-              <item name="Factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Pizza" type="462c0819:PsiDirectoryNode" />
-              <item name="PizzaVersions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Pizza" type="462c0819:PsiDirectoryNode" />
-              <item name="Stores" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="orderPiz&#9;PSI&#9;JAVA://src.Pizza.Stores.PizzaStore#orderPizza" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -328,6 +79,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.LoloPrud.App" />
@@ -339,6 +93,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Pizza.App" />
@@ -350,6 +107,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="StartBuzzCoffeeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.SturBuzz.StartBuzzCoffeeApp" />
@@ -361,6 +121,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.WeatherStation.WeatherStation" />
@@ -372,6 +135,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.WeatherStation3.WeatherStation" />
@@ -386,44 +152,25 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.App" />
@@ -475,6 +222,13 @@
       <workItem from="1588324303063" duration="1083000" />
       <workItem from="1588483846434" duration="1387000" />
       <workItem from="1588666006294" duration="6000" />
+      <workItem from="1588666018769" duration="23000" />
+      <workItem from="1588666654664" duration="434000" />
+      <workItem from="1588667178753" duration="49000" />
+      <workItem from="1588667244333" duration="326000" />
+      <workItem from="1588831835924" duration="764000" />
+      <workItem from="1588835148924" duration="138000" />
+      <workItem from="1588835307609" duration="2186000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -644,44 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1588484120302</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="test">
+      <created>1588666031097</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1588666031097</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74690000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1107" height="1053" extended-state="0" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.23365487" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.375134" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2460094" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991462" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3290461" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -692,28 +417,12 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Delete Pond start." />
@@ -750,394 +459,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Espresso.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/CondimentDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Beverage.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/DarkRoast.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Mocha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Whip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/HouseBlend.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/StartBuzzCoffeeApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Decorator/Soy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/SturBuzz/Drinks/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/LowerCase/InputTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/LowerCase/LowerCaseInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/SimplePizzaFactory.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Cheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Clams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Pepperoni.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Veggies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/ThinCrustDough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/MarinaraSauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/ReggianoCheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Garlic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Mushroom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Onion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/RedPepper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/FreshClams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/SlicedPepperoni.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Mozzarella.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/FrozenClams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/BlackOlives.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Spinach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/EggPlant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/PizzaVersions/NYCheesePizza.java" />
-    <entry file="uml://JAVA/src.Pizza">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>src.Pizza</OriginalElement>
-          <nodes>
-            <node x="" y="">src.Pizza.Stores</node>
-            <node x="" y="">src.Pizza.Factory</node>
-            <node x="" y="">src.Pizza.Ingredients</node>
-            <node x="" y="">src.Pizza.App</node>
-            <node x="" y="">src.Pizza.PizzaVersions</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="123.0" y="126.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/src.Pizza.Ingredients">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>src.Pizza.Ingredients</OriginalElement>
-          <nodes>
-            <node x="" y="">src.Pizza.Ingredients.RedPepper</node>
-            <node x="" y="">src.Pizza.Ingredients.Sauce</node>
-            <node x="" y="">src.Pizza.Ingredients.Garlic</node>
-            <node x="" y="">src.Pizza.Ingredients.PlumTomatoSauce</node>
-            <node x="" y="">src.Pizza.Ingredients.Veggies</node>
-            <node x="" y="">src.Pizza.Ingredients.FrozenClams</node>
-            <node x="" y="">src.Pizza.Ingredients.ThinCrustDough</node>
-            <node x="" y="">src.Pizza.Ingredients.Cheese</node>
-            <node x="" y="">src.Pizza.Ingredients.FreshClams</node>
-            <node x="" y="">src.Pizza.Ingredients.MarinaraSauce</node>
-            <node x="" y="">src.Pizza.Ingredients.SlicedPepperoni</node>
-            <node x="" y="">src.Pizza.Ingredients.Clams</node>
-            <node x="" y="">src.Pizza.Ingredients.Dough</node>
-            <node x="" y="">src.Pizza.Ingredients.Spinach</node>
-            <node x="" y="">src.Pizza.Ingredients.Onion</node>
-            <node x="" y="">src.Pizza.Ingredients.Mozzarella</node>
-            <node x="" y="">src.Pizza.Ingredients.ReggianoCheese</node>
-            <node x="" y="">src.Pizza.Ingredients.Pepperoni</node>
-            <node x="" y="">src.Pizza.Ingredients.Mushroom</node>
-            <node x="" y="">src.Pizza.Ingredients.BlackOlives</node>
-            <node x="" y="">src.Pizza.Ingredients.ThickCrustDough</node>
-            <node x="" y="">src.Pizza.Ingredients.EggPlant</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="417.0" y="212.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category />
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/PizzaVersions/ChicagoCheesePizza.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/PizzaVersions/ClamPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/PizzaVersions/PepperoniPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/PizzaVersions/VeggiePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Factory/NYPizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/PizzaVersions/CheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Stores/ChicagoPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Stores/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/PizzaVersions/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Dough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/ThickCrustDough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/Sauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Ingredients/PlumTomatoSauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Factory/PizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Factory/ChicagoPizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/Pizza/Stores/NYPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
