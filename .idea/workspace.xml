@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="GarageDoor. Added." />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="GarageDoorOpenCommand. Added.">
+      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +231,7 @@
       <workItem from="1588835307609" duration="7663000" />
       <workItem from="1588916496122" duration="677000" />
       <workItem from="1589054892824" duration="381000" />
-      <workItem from="1589437849468" duration="4794000" />
+      <workItem from="1589437849468" duration="5491000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -483,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589456384945</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="GarageDoorOpenCommand. Added.">
+      <created>1589456917255</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1589456917255</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +512,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="WeatherStation3 in progress." />
     <MESSAGE value="WeatherStation3. display() updated." />
     <MESSAGE value="WeatherStation3. Embedded implementation." />
     <MESSAGE value="WeatherData improved with embedded realization." />
@@ -528,7 +536,8 @@
     <MESSAGE value="SimpleRemoteControl. Added." />
     <MESSAGE value="RemoteControlTest. Added." />
     <MESSAGE value="GarageDoor. Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="GarageDoor. Added." />
+    <MESSAGE value="GarageDoorOpenCommand. Added." />
+    <option name="LAST_COMMIT_MESSAGE" value="GarageDoorOpenCommand. Added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
