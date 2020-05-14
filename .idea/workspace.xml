@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="SimpleRemoteControl. Added.">
-      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlTest.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="RemoteControlTest. Added.">
+      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/GarageDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/GarageDoorOpenComand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -232,7 +233,7 @@
       <workItem from="1588835307609" duration="7663000" />
       <workItem from="1588916496122" duration="677000" />
       <workItem from="1589054892824" duration="381000" />
-      <workItem from="1589437849468" duration="3406000" />
+      <workItem from="1589437849468" duration="4408000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -472,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589448014343</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="RemoteControlTest. Added.">
+      <created>1589454642831</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1589454642831</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LoloPrud realized." />
     <MESSAGE value="WeatherStation3 started." />
     <MESSAGE value="WeatherStation3 in progress." />
     <MESSAGE value="WeatherStation3. display() updated." />
@@ -517,7 +524,8 @@
     <MESSAGE value="Singleton2. Instance before." />
     <MESSAGE value="RemoteControl. Start." />
     <MESSAGE value="SimpleRemoteControl. Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="SimpleRemoteControl. Added." />
+    <MESSAGE value="RemoteControlTest. Added." />
+    <option name="LAST_COMMIT_MESSAGE" value="RemoteControlTest. Added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
