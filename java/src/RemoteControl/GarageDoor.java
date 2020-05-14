@@ -2,10 +2,10 @@ package src.RemoteControl;
 
 public class GarageDoor extends Light{
     public void up(){
-        System.out.println("Door is up");
+        System.out.println("Door is open");
     }
     public void down(){
-        System.out.println("Door is down");
+        System.out.println("Door is closed");
     }
 
     public void stop(){
