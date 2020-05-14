@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Singleton2. Instance before.">
+      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/SimpleRemoteControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,6 +55,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.RemoteControl" />
       <recent name="src.Pizza.Ingredients" />
       <recent name="src.Pizza.Factory" />
     </key>
@@ -227,7 +232,10 @@
       <workItem from="1588667244333" duration="326000" />
       <workItem from="1588831835924" duration="764000" />
       <workItem from="1588835148924" duration="138000" />
-      <workItem from="1588835307609" duration="7439000" />
+      <workItem from="1588835307609" duration="7663000" />
+      <workItem from="1588916496122" duration="677000" />
+      <workItem from="1589054892824" duration="381000" />
+      <workItem from="1589437849468" duration="2395000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -446,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588855308556</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Singleton2. Instance before.">
+      <created>1588857352295</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1588857352295</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
