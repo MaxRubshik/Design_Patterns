@@ -22,5 +22,8 @@ public class RemoteLoader {
 
         CeilingFanOnCommand ceilingFanOn =
                 new CeilingFanOnCommand(ceilingFan);
+        CeilingFanOffCommand ceilingFanOff =
+                new CeilingFanOffCommand(ceilingFan);
+
     }
 }
