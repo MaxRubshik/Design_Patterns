@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="GarageDoor test. Added.">
-      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/CeilingFanOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Team/Command.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="CeilingFanOff Added.">
+      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/GarageDoorDownCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/RemoteControl/StereoOffWithCDCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/GarageDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/GarageDoor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/GarageDoorOpenComand.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/GarageDoorUpCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/RemoteLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/RemoteLoader.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -236,7 +237,7 @@
       <workItem from="1588916496122" duration="677000" />
       <workItem from="1589054892824" duration="381000" />
       <workItem from="1589437849468" duration="7998000" />
-      <workItem from="1589546444633" duration="273000" />
+      <workItem from="1589546444633" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -504,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589457497603</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="CeilingFanOff Added.">
+      <created>1589546952295</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1589546952295</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +532,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="WeatherStation3. Embedded implementation." />
     <MESSAGE value="WeatherData improved with embedded realization." />
     <MESSAGE value="CurrentConditionsDisplay improved with embedded realization." />
     <MESSAGE value="move to laptop." />
@@ -549,7 +556,8 @@
     <MESSAGE value="GarageDoor. Added." />
     <MESSAGE value="GarageDoorOpenCommand. Added." />
     <MESSAGE value="GarageDoor test. Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="GarageDoor test. Added." />
+    <MESSAGE value="CeilingFanOff Added." />
+    <option name="LAST_COMMIT_MESSAGE" value="CeilingFanOff Added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
