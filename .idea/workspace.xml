@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="StereoOffWithCdCommand Added.">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="RemoteLoader finished.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/RemoteLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/RemoteLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorOpenComand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Light.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -237,7 +232,7 @@
       <workItem from="1588916496122" duration="677000" />
       <workItem from="1589054892824" duration="381000" />
       <workItem from="1589437849468" duration="7998000" />
-      <workItem from="1589546444633" duration="2493000" />
+      <workItem from="1589546444633" duration="3758000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -533,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589547791319</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="RemoteLoader finished.">
+      <created>1589550201526</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1589550201526</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CurrentConditionsDisplay improved with embedded realization." />
     <MESSAGE value="move to laptop." />
     <MESSAGE value="StarBuzz finished." />
     <MESSAGE value="Added city features and overrided methods." />
@@ -578,7 +579,8 @@
     <MESSAGE value="GarageDoor test. Added." />
     <MESSAGE value="CeilingFanOff Added." />
     <MESSAGE value="StereoOffWithCdCommand Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="StereoOffWithCdCommand Added." />
+    <MESSAGE value="RemoteLoader finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="RemoteLoader finished." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
