@@ -38,6 +38,8 @@ public class RemoteLoader {
         StereoOnWithCDComand stereoOnWithCD =
                 new StereoOnWithCDComand(stereo);
 
+        StereoOffWithCDCommand stereoOffWithCD =
+                new StereoOffWithCDCommand(stereo);
 
     }
 }
