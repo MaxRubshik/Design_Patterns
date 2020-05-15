@@ -1,9 +1,9 @@
 package src.RemoteControl;
 
-public class StereoWithCDComand implements Command {
+public class StereoOnWithCDComand implements Command {
     Stereo stereo;
 
-    public StereoWithCDComand(Stereo stereo) {
+    public StereoOnWithCDComand(Stereo stereo) {
         this.stereo = stereo;
     }
 
