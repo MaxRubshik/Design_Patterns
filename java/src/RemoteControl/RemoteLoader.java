@@ -41,5 +41,24 @@ public class RemoteLoader {
         StereoOffWithCDCommand stereoOffWithCD =
                 new StereoOffWithCDCommand(stereo);
 
+        //Completed commands connected with remote slots
+        remoteControl.setCommand(0, livingRoomLightOn, livingRoomLightOff);
+        remoteControl.setCommand(1, kitchenLightOn, kitchenOffCommand);
+        remoteControl.setCommand(2, ceilingFanOn, ceilingFanOff);
+        remoteControl.setCommand(3, stereoOnWithCD, stereoOffWithCD);
+
+        //toString shows list of slots and connected commands
+        System.out.println(remoteControl);
+
+        remoteControl.onButtonWasPushed(0);
+        remoteControl.offButtonWasPressed(0);
+        remoteControl.onButtonWasPushed(1);
+        remoteControl.offButtonWasPressed(1);
+        remoteControl.onButtonWasPushed(2);
+        remoteControl.offButtonWasPressed(2);
+        remoteControl.onButtonWasPushed(3);
+        remoteControl.offButtonWasPressed(3);
+
+
     }
 }
