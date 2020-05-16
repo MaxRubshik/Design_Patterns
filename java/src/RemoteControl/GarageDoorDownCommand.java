@@ -1,14 +1,14 @@
 package src.RemoteControl;
 
-public class GarageDoorOpenComand implements Command {
+public class GarageDoorDownCommand implements Command {
     GarageDoor garageDoor;
 
-    public GarageDoorOpenComand(GarageDoor garageDoor) {
+    public GarageDoorDownCommand(GarageDoor garageDoor) {
         this.garageDoor = garageDoor;
     }
 
     @Override
     public void execute() {
-        garageDoor.up();
+        garageDoor.down();
     }
 }

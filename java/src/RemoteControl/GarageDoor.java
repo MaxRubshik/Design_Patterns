@@ -5,6 +5,10 @@ public class GarageDoor extends Light{
         super(name);
     }
 
+    public GarageDoor() {
+
+    }
+
     public void up(){
         System.out.println("Door is open");
     }

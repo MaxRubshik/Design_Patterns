@@ -7,6 +7,10 @@ public class Light {
         this.name = name;
     }
 
+    public Light() {
+
+    }
+
     public void on() {
         System.out.println("Light is on.");
     }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="GarageDoorOpenCommand. Added.">
-      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlTest.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="RemoteLoader finished.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,21 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoteControlTest">
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.LoloPrud.App" />
-      <module name="Design_Patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.LoloPrud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RemoteLoader">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Pizza.App" />
       <module name="Design_Patterns" />
@@ -99,6 +85,20 @@
     </configuration>
     <configuration name="RemoteControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.RemoteControl.RemoteControlTest" />
+      <module name="Design_Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.RemoteControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.RemoteControl.RemoteLoader" />
       <module name="Design_Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -174,18 +174,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.App" />
-      <item itemvalue="Application.App (2)" />
       <item itemvalue="Application.WeatherStation" />
       <item itemvalue="Application.StartBuzzCoffeeApp" />
       <item itemvalue="Application.RemoteControlTest" />
+      <item itemvalue="Application.RemoteLoader" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoteLoader" />
         <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.StartBuzzCoffeeApp" />
         <item itemvalue="Application.WeatherStation" />
-        <item itemvalue="Application.App (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +231,8 @@
       <workItem from="1588835307609" duration="7663000" />
       <workItem from="1588916496122" duration="677000" />
       <workItem from="1589054892824" duration="381000" />
-      <workItem from="1589437849468" duration="5491000" />
+      <workItem from="1589437849468" duration="7998000" />
+      <workItem from="1589546444633" duration="3758000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -492,7 +493,49 @@
       <option name="project" value="LOCAL" />
       <updated>1589456917255</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="GarageDoor test. Added.">
+      <created>1589457497603</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1589457497603</updated>
+    </task>
+    <task id="LOCAL-00039" summary="CeilingFanOff Added.">
+      <created>1589546952295</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1589546952295</updated>
+    </task>
+    <task id="LOCAL-00040" summary="StereoOffWithCdCommand Added.">
+      <created>1589547693009</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1589547693009</updated>
+    </task>
+    <task id="LOCAL-00041" summary="StereoOffWithCdCommand Added.">
+      <created>1589547784351</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1589547784351</updated>
+    </task>
+    <task id="LOCAL-00042" summary="StereoOffWithCdCommand Added.">
+      <created>1589547791319</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1589547791319</updated>
+    </task>
+    <task id="LOCAL-00043" summary="RemoteLoader finished.">
+      <created>1589550201526</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1589550201526</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,10 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="WeatherStation3. display() updated." />
-    <MESSAGE value="WeatherStation3. Embedded implementation." />
-    <MESSAGE value="WeatherData improved with embedded realization." />
-    <MESSAGE value="CurrentConditionsDisplay improved with embedded realization." />
     <MESSAGE value="move to laptop." />
     <MESSAGE value="StarBuzz finished." />
     <MESSAGE value="Added city features and overrided methods." />
@@ -537,7 +576,11 @@
     <MESSAGE value="RemoteControlTest. Added." />
     <MESSAGE value="GarageDoor. Added." />
     <MESSAGE value="GarageDoorOpenCommand. Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="GarageDoorOpenCommand. Added." />
+    <MESSAGE value="GarageDoor test. Added." />
+    <MESSAGE value="CeilingFanOff Added." />
+    <MESSAGE value="StereoOffWithCdCommand Added." />
+    <MESSAGE value="RemoteLoader finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="RemoteLoader finished." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
