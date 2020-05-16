@@ -2,7 +2,7 @@ package src.RemoteControl;
 
 public class RemoteLoader {
     public static void main(String[] args) {
-        RemoteControl remoteControl = new RemoteControl();
+        RemoteControlWithUndo remoteControl = new RemoteControlWithUndo();
 
         //Create all devices
         Light livingRoomLight = new Light("Living Room");

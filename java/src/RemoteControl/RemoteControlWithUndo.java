@@ -1,11 +1,11 @@
 package src.RemoteControl;
 
-public class RemoteControl {
+public class RemoteControlWithUndo {
     Command[] onCommands;
     Command[] offCommands;
     Command undoCommand;
 
-    public RemoteControl() {
+    public RemoteControlWithUndo() {
         onCommands = new Command[7];
         offCommands = new Command[7];
 
