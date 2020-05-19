@@ -4,11 +4,18 @@ public class RemoteLoader {
     public static void main(String[] args) {
         RemoteControlWithUndo remoteControl = new RemoteControlWithUndo();
 
+        //Create objects for 3 commands: High, middle and off.
+        CeilingFan ceilingFan = new CeilingFan("Living room");
+
+        CeilingFanHighCommand ceilingFanHighCommand = new CeilingFanHighCommand(ceilingFan);
+
+
+
+
         //Create all devices
         Light livingRoomLight = new Light("Living Room");
         Light kitchenLight = new Light("Kitchen");
 
-        CeilingFan ceilingFan = new CeilingFan("Living room");
         GarageDoor garageDoor = new GarageDoor("");
         Stereo stereo = new Stereo("Living room");
 
