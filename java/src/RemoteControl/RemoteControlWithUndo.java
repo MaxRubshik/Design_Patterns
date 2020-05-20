@@ -23,11 +23,13 @@ public class RemoteControlWithUndo {
     }
 
     public void onButtonWasPushed(int slot) {
+
         onCommands[slot].execute();
         undoCommand = onCommands[slot];
     }
 
     public void offButtonWasPressed(int slot) {
+
         offCommands[slot].execute();
         undoCommand = offCommands[slot];
     }

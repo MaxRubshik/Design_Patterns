@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="RemoteLoader finished.">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="pause">
+      <change afterPath="$PROJECT_DIR$/java/src/DuckPond3/DuckAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/DuckPond3/DuckTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/DuckPond3/DuckTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/LightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlWithUndo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlWithUndo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/out/production/java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOffCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOffCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOnCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorDownCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorDownCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorUpCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorUpCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOffCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOffCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOnCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/NoCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/NoCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOffWithCDCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOffWithCDCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOnWithCDComand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOnWithCDComand.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoteLoader">
+  <component name="RunManager" selected="Application.DuckTestDrive">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Pizza.App" />
       <module name="Design_Patterns" />
@@ -76,6 +94,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.Pizza.Ingredients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuckTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.DuckPond3.DuckTestDrive" />
+      <module name="Design_Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.DuckPond3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,20 +158,6 @@
       </method>
     </configuration>
     <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.WeatherStation.WeatherStation" />
-      <module name="Design_Patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.WeatherStation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.WeatherStation3.WeatherStation" />
       <module name="Design_Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -174,18 +192,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.App" />
-      <item itemvalue="Application.WeatherStation" />
       <item itemvalue="Application.StartBuzzCoffeeApp" />
       <item itemvalue="Application.RemoteControlTest" />
       <item itemvalue="Application.RemoteLoader" />
+      <item itemvalue="Application.DuckTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuckTestDrive" />
         <item itemvalue="Application.RemoteLoader" />
         <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.StartBuzzCoffeeApp" />
-        <item itemvalue="Application.WeatherStation" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +250,11 @@
       <workItem from="1588916496122" duration="677000" />
       <workItem from="1589054892824" duration="381000" />
       <workItem from="1589437849468" duration="7998000" />
-      <workItem from="1589546444633" duration="3758000" />
+      <workItem from="1589546444633" duration="3782000" />
+      <workItem from="1589564092205" duration="228000" />
+      <workItem from="1589608251858" duration="2205000" />
+      <workItem from="1589638482469" duration="69000" />
+      <workItem from="1589979953048" duration="2680000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -535,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589550201526</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="pause">
+      <created>1589552516597</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1589552516597</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="move to laptop." />
     <MESSAGE value="StarBuzz finished." />
     <MESSAGE value="Added city features and overrided methods." />
     <MESSAGE value="Pizza factory package with classes." />
@@ -580,7 +608,8 @@
     <MESSAGE value="CeilingFanOff Added." />
     <MESSAGE value="StereoOffWithCdCommand Added." />
     <MESSAGE value="RemoteLoader finished." />
-    <option name="LAST_COMMIT_MESSAGE" value="RemoteLoader finished." />
+    <MESSAGE value="pause" />
+    <option name="LAST_COMMIT_MESSAGE" value="pause" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
