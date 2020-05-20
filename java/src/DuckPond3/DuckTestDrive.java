@@ -19,8 +19,6 @@ public class DuckTestDrive {
 
         System.out.println("\nThe DuckAdapter says...");
         testTurkey(duckAdapter);
-
-
     }
 
     private static void testTurkey(Turkey turkey) {

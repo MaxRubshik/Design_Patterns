@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="pause">
-      <change afterPath="$PROJECT_DIR$/java/src/DuckPond3/DuckAdapter.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="testTurkey()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/DuckPond3/DuckTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/DuckPond3/DuckTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/LightOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlWithUndo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/RemoteControl/RemoteControlWithUndo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/out/production/java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOffCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOffCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOnCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Command.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorDownCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorDownCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorUpCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorUpCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOffCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOffCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOnCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/NoCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/NoCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOffWithCDCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOffWithCDCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOnWithCDComand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOnWithCDComand.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +237,7 @@
       <workItem from="1589564092205" duration="228000" />
       <workItem from="1589608251858" duration="2205000" />
       <workItem from="1589638482469" duration="69000" />
-      <workItem from="1589979953048" duration="2680000" />
+      <workItem from="1589979953048" duration="3351000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -564,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589552516597</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="testTurkey()">
+      <created>1589984317981</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1589984317981</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StarBuzz finished." />
     <MESSAGE value="Added city features and overrided methods." />
     <MESSAGE value="Pizza factory package with classes." />
     <MESSAGE value="ChicagoPizzaFactory finished," />
@@ -609,7 +598,8 @@
     <MESSAGE value="StereoOffWithCdCommand Added." />
     <MESSAGE value="RemoteLoader finished." />
     <MESSAGE value="pause" />
-    <option name="LAST_COMMIT_MESSAGE" value="pause" />
+    <MESSAGE value="testTurkey()" />
+    <option name="LAST_COMMIT_MESSAGE" value="testTurkey()" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
