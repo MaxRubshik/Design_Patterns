@@ -39,5 +39,11 @@ public class RemoteLoader {
         MacroCommand partyOffMacro = new MacroCommand(partyOff);
 
         remoteControl.setCommand(2, partyOnMacro, partyOffMacro);
+
+        System.out.println(remoteControl);
+        System.out.println("--Pushing macro on:---");
+        remoteControl.onButtonWasPushed(2);
+        System.out.println("--Pushing macro off:--");
+        remoteControl.offButtonWasPressed(2);
     }
 }
