@@ -23,5 +23,21 @@ public class RemoteLoader {
         remoteControl.onButtonWasPushed(1);
         System.out.println(remoteControl);
         remoteControl.undoButtonWasPushed();
+
+        Light light = new Light("Living Room");
+        Stereo stereo = new Stereo("Living Room");
+
+        LightOnCommand lightOnCommand = new LightOnCommand(light);
+        LightOffCommand lightOffCommand = new LightOffCommand(light);
+        StereoOnWithCDComand stereoOnWithCDComand = new StereoOnWithCDComand(stereo);
+        StereoOffWithCDCommand stereoOffWithCDCommand = new StereoOffWithCDCommand(stereo);
+
+        Command[] partyOn = {lightOnCommand, stereoOnWithCDComand};
+        Command[] partyOff = {lightOffCommand, stereoOffWithCDCommand};
+
+        MacroCommand partyOnMacro = new MacroCommand(partyOn);
+        MacroCommand partyOffMacro = new MacroCommand(partyOff);
+
+        remoteControl.setCommand(2, partyOnMacro, partyOffMacro);
     }
 }
