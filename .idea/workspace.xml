@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Iterator to Enum finished.">
-      <change afterPath="$PROJECT_DIR$/java/src/EnumerationTask/littleTests.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Palindrom task.">
+      <change afterPath="$PROJECT_DIR$/java/src/EnumerationTask/Fibo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -228,7 +228,7 @@
       <workItem from="1589638482469" duration="69000" />
       <workItem from="1589979953048" duration="3880000" />
       <workItem from="1590000475606" duration="279000" />
-      <workItem from="1590066645738" duration="3552000" />
+      <workItem from="1590066645738" duration="4964000" />
     </task>
     <task id="LOCAL-00001" summary="Delete Pond start.">
       <created>1586251798974</created>
@@ -559,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590067452133</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Palindrom task.">
+      <created>1590071425523</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1590071425523</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,7 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ChicagoPizzaFactory finished," />
     <MESSAGE value="abstract Pizza update." />
     <MESSAGE value="Just one cheese pizza fro all. NY and CHI deleted." />
     <MESSAGE value="ClamPizza updated." />
@@ -604,7 +610,8 @@
     <MESSAGE value="testTurkey()" />
     <MESSAGE value="testTurkey() 2.0" />
     <MESSAGE value="Iterator to Enum finished." />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterator to Enum finished." />
+    <MESSAGE value="Palindrom task." />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrom task." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -614,19 +621,6 @@
           <line>9</line>
           <properties field="temperature" class="src.WeatherStation.WeatherData" />
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/java/src/EnumerationTask/littleTests.java</url>
-          <line>7</line>
-          <properties class="src.EnumerationTask.littleTests" method="checkPalindrom">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java/src/EnumerationTask/littleTests.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
