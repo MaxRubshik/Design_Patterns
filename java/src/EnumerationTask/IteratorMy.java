@@ -3,14 +3,14 @@ package src.EnumerationTask;
 import java.util.Enumeration;
 import java.util.Iterator;
 
-public class IteratorMy implements Enumeration {
+public class IteratorMy<E> implements Enumeration<E> {
     Iterator iterator;
 
-    public IteratorMy(Iterator iterator) {
+    public IteratorMy<E>(Iterator iterator) {
         this.iterator = iterator;
     }
 
-    public IteratorMy() {
+    public IteratorMy<E>() {
 
     }
 
