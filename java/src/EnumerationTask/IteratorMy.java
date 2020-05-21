@@ -3,15 +3,11 @@ package src.EnumerationTask;
 import java.util.Enumeration;
 import java.util.Iterator;
 
-public class IteratorMy<E> implements Enumeration<E> {
+public class IteratorMy implements Enumeration {
     Iterator iterator;
 
-    public IteratorMy<E>(Iterator iterator) {
+    public IteratorMy(Iterator iterator) {
         this.iterator = iterator;
-    }
-
-    public IteratorMy<E>() {
-
     }
 
     @Override

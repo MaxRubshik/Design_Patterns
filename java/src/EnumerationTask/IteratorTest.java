@@ -1,7 +1,6 @@
 package src.EnumerationTask;
 
-import java.util.ArrayList;
-import java.util.Iterator;
+import java.util.*;
 
 public class IteratorTest {
     public static void main(String[] args) {
@@ -9,9 +8,9 @@ public class IteratorTest {
         arrayList.add("one");
         arrayList.add("two");
         System.out.println(arrayList);
-        IteratorMy iteratorMy = new IteratorMy();
-        iteratorMy.hasMoreElements();
-        Object o = iteratorMy.nextElement();
-        System.out.println(o);
+        Enumeration enumeration = new IteratorMy(arrayList.iterator());
+        while (enumeration.hasMoreElements()){
+            System.out.println(enumeration.nextElement());
+        }
     }
 }
