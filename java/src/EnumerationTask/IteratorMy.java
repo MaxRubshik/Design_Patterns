@@ -10,6 +10,10 @@ public class IteratorMy implements Enumeration {
         this.iterator = iterator;
     }
 
+    public IteratorMy() {
+
+    }
+
     @Override
     public boolean hasMoreElements() {
         return iterator.hasNext();
