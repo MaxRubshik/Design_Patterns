@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="HomeTheaterTest class.">
-      <change afterPath="$PROJECT_DIR$/java/src/Car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Car/Doors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Car/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Car/Key.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Car pkg.">
+      <change afterPath="$PROJECT_DIR$/java/src/EnumerationTask/CalculateAndPrint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/EnumerationTask/Fibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/EnumerationTask/Fibo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,14 +72,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HomeTheaterTest">
-    <configuration name="DuckTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.DuckPond3.DuckTestDrive" />
+  <component name="RunManager" selected="Application.CalculateAndPrint">
+    <configuration name="CalculateAndPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.EnumerationTask.CalculateAndPrint" />
       <module name="Design_Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.DuckPond3.*" />
+          <option name="PATTERN" value="src.EnumerationTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.EnumerationTask.Fibo" />
+      <module name="Design_Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.EnumerationTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,20 +122,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.EnumerationTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.RemoteControl.RemoteLoader" />
-      <module name="Design_Patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.RemoteControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,19 +166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoteLoader" />
-      <item itemvalue="Application.DuckTestDrive" />
       <item itemvalue="Application.IteratorTest" />
       <item itemvalue="Application.littleTests" />
       <item itemvalue="Application.HomeTheaterTest" />
+      <item itemvalue="Application.Fibo" />
+      <item itemvalue="Application.CalculateAndPrint" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculateAndPrint" />
+        <item itemvalue="Application.Fibo" />
         <item itemvalue="Application.HomeTheaterTest" />
         <item itemvalue="Application.littleTests" />
         <item itemvalue="Application.IteratorTest" />
-        <item itemvalue="Application.DuckTestDrive" />
-        <item itemvalue="Application.RemoteLoader" />
       </list>
     </recent_temporary>
   </component>
@@ -235,14 +233,8 @@
       <workItem from="1590000475606" duration="279000" />
       <workItem from="1590066645738" duration="5000000" />
       <workItem from="1590130911283" duration="3682000" />
-      <workItem from="1590150045659" duration="692000" />
-    </task>
-    <task id="LOCAL-00007" summary="WeatherStation3 started.">
-      <created>1586978340955</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1586978340955</updated>
+      <workItem from="1590150045659" duration="3265000" />
+      <workItem from="1590174385023" duration="3438000" />
     </task>
     <task id="LOCAL-00008" summary="WeatherStation3 in progress.">
       <created>1587064137548</created>
@@ -580,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590140783612</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Car pkg.">
+      <created>1590156847835</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1590156847835</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ChocolateBoiler." />
     <MESSAGE value="upgraded to Singleton." />
     <MESSAGE value="synchronized." />
     <MESSAGE value="Singleton2. Instance before." />
@@ -625,7 +623,8 @@
     <MESSAGE value="endMovie() methods realized." />
     <MESSAGE value="HomeTheaterFacade beautify()" />
     <MESSAGE value="HomeTheaterTest class." />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeTheaterTest class." />
+    <MESSAGE value="Car pkg." />
+    <option name="LAST_COMMIT_MESSAGE" value="Car pkg." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -635,6 +634,14 @@
           <line>9</line>
           <properties field="temperature" class="src.WeatherStation.WeatherData" />
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/java/src/EnumerationTask/CalculateAndPrint.java</url>
+          <line>7</line>
+          <properties class="src.EnumerationTask.CalculateAndPrint" method="calculateAndPrint">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
