@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="HomeTheaterFacade beautify()">
-      <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/HomeTheaterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/HomeTheaterTest.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="HomeTheaterTest class.">
+      <change afterPath="$PROJECT_DIR$/java/src/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Car/Doors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Car/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Car/Key.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +55,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.Car" />
       <recent name="src.HomeTheater" />
       <recent name="src.RemoteControl" />
       <recent name="src.Pizza.Ingredients" />
@@ -229,14 +234,8 @@
       <workItem from="1589979953048" duration="3880000" />
       <workItem from="1590000475606" duration="279000" />
       <workItem from="1590066645738" duration="5000000" />
-      <workItem from="1590130911283" duration="3291000" />
-    </task>
-    <task id="LOCAL-00006" summary="WeatherStation3 started.">
-      <created>1586968276376</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1586968276376</updated>
+      <workItem from="1590130911283" duration="3682000" />
+      <workItem from="1590150045659" duration="692000" />
     </task>
     <task id="LOCAL-00007" summary="WeatherStation3 started.">
       <created>1586978340955</created>
@@ -574,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590140556744</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="HomeTheaterTest class.">
+      <created>1590140783612</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1590140783612</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +600,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Singleton." />
     <MESSAGE value="ChocolateBoiler." />
     <MESSAGE value="upgraded to Singleton." />
     <MESSAGE value="synchronized." />
@@ -619,7 +624,8 @@
     <MESSAGE value="WatchMovie() methods realized." />
     <MESSAGE value="endMovie() methods realized." />
     <MESSAGE value="HomeTheaterFacade beautify()" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeTheaterFacade beautify()" />
+    <MESSAGE value="HomeTheaterTest class." />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeTheaterTest class." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
