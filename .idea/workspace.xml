@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="WatchMovie()">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="WatchMovie() methods realized.">
       <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/Amplifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/Amplifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/HomeTheaterFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/HomeTheaterFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/DvdPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/DvdPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/PopcornPopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/PopcornPopper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/Projector.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/Projector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/Screen.java" afterDir="false" />
@@ -234,14 +234,7 @@
       <workItem from="1589979953048" duration="3880000" />
       <workItem from="1590000475606" duration="279000" />
       <workItem from="1590066645738" duration="5000000" />
-      <workItem from="1590130911283" duration="2023000" />
-    </task>
-    <task id="LOCAL-00003" summary="move to laptop">
-      <created>1586859781075</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1586859781075</updated>
+      <workItem from="1590130911283" duration="2279000" />
     </task>
     <task id="LOCAL-00004" summary="DuckPond2 finished. Myself.">
       <created>1586876055143</created>
@@ -579,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590139215374</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="WatchMovie() methods realized.">
+      <created>1590139593812</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1590139593812</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="NY PizzaStore updated." />
     <MESSAGE value="Chicago PizzaStore updated." />
     <MESSAGE value="test" />
     <MESSAGE value="Singleton." />
@@ -624,7 +623,8 @@
     <MESSAGE value="Phibonacci" />
     <MESSAGE value="HomeTheater" />
     <MESSAGE value="WatchMovie()" />
-    <option name="LAST_COMMIT_MESSAGE" value="WatchMovie()" />
+    <MESSAGE value="WatchMovie() methods realized." />
+    <option name="LAST_COMMIT_MESSAGE" value="WatchMovie() methods realized." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

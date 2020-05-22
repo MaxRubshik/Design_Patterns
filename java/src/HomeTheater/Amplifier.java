@@ -18,4 +18,8 @@ public class Amplifier {
     public void setVolume(int i) {
         System.out.println("Volume set to: " + i);
     }
+
+    public void off() {
+        System.out.println("Amp id OFF.");
+    }
 }

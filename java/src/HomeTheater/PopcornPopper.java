@@ -8,4 +8,8 @@ public class PopcornPopper {
     public void pop() {
         System.out.println("Popper pops!");
     }
+
+    public void off() {
+        System.out.println("Pop is OFF.");
+    }
 }
