@@ -13,8 +13,8 @@ public class CalculateAndPrint {
                 System.out.println(n + 100);
 
             } else {
-                n = n * 2;
-                System.out.println(n);
+                int a = n * 2;
+                System.out.println(a);
             }
         }
     }
