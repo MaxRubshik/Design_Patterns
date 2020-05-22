@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="HomeTheater">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="WatchMovie()">
+      <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/Amplifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/Amplifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/HomeTheaterFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/HomeTheaterFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/PopcornPopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/PopcornPopper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/Projector.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/Projector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/HomeTheater/TheaterLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/HomeTheater/TheaterLights.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -230,14 +234,7 @@
       <workItem from="1589979953048" duration="3880000" />
       <workItem from="1590000475606" duration="279000" />
       <workItem from="1590066645738" duration="5000000" />
-      <workItem from="1590130911283" duration="1762000" />
-    </task>
-    <task id="LOCAL-00002" summary="Meteo in process.">
-      <created>1586363470056</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1586363470056</updated>
+      <workItem from="1590130911283" duration="2023000" />
     </task>
     <task id="LOCAL-00003" summary="move to laptop">
       <created>1586859781075</created>
@@ -575,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590138845577</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="WatchMovie()">
+      <created>1590139215373</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1590139215374</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ClamPizza updated." />
     <MESSAGE value="NY PizzaStore updated." />
     <MESSAGE value="Chicago PizzaStore updated." />
     <MESSAGE value="test" />
@@ -620,7 +623,8 @@
     <MESSAGE value="Palindrom task." />
     <MESSAGE value="Phibonacci" />
     <MESSAGE value="HomeTheater" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeTheater" />
+    <MESSAGE value="WatchMovie()" />
+    <option name="LAST_COMMIT_MESSAGE" value="WatchMovie()" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
