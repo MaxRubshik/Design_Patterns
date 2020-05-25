@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="CaffeineBeverage class.">
-      <change beforePath="$PROJECT_DIR$/java/src/Coffee/CaffeineBeverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Coffee/CaffeineBeverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/Coffee/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Coffee/Tea.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Coffee upgrade.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -235,21 +234,7 @@
       <workItem from="1590150045659" duration="3265000" />
       <workItem from="1590174385023" duration="3901000" />
       <workItem from="1590263922416" duration="6000" />
-      <workItem from="1590412471937" duration="2529000" />
-    </task>
-    <task id="LOCAL-00013" summary="move to laptop.">
-      <created>1587131092447</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1587131092447</updated>
-    </task>
-    <task id="LOCAL-00014" summary="StarBuzz finished.">
-      <created>1587574324223</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1587574324224</updated>
+      <workItem from="1590412471937" duration="3504000" />
     </task>
     <task id="LOCAL-00015" summary="Added city features and overrided methods.">
       <created>1588163671496</created>
@@ -580,7 +565,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590417683910</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Tea improved.">
+      <created>1590418015041</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1590418015041</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Coffee upgrade.">
+      <created>1590418206668</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1590418206668</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,8 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SimpleRemoteControl. Added." />
-    <MESSAGE value="RemoteControlTest. Added." />
     <MESSAGE value="GarageDoor. Added." />
     <MESSAGE value="GarageDoorOpenCommand. Added." />
     <MESSAGE value="GarageDoor test. Added." />
@@ -625,7 +622,9 @@
     <MESSAGE value="Coffee added." />
     <MESSAGE value="calculateAndPrint() ok." />
     <MESSAGE value="CaffeineBeverage class." />
-    <option name="LAST_COMMIT_MESSAGE" value="CaffeineBeverage class." />
+    <MESSAGE value="Tea improved." />
+    <MESSAGE value="Coffee upgrade." />
+    <option name="LAST_COMMIT_MESSAGE" value="Coffee upgrade." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
