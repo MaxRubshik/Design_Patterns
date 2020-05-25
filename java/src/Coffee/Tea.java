@@ -1,25 +1,12 @@
 package src.Coffee;
 
-public class Tea {
-    void prepareRecipe(){
-        boilWater();
-        pourInCup();
-        brew();
-        addCondiments();
+public class Tea extends CaffeineBeverage {
+
+    public void brew() {
+        System.out.println("Stepping the tea.");
     }
 
-    private void brew() {
-    }
-
-    private void pourInCup() {
-        System.out.println("Pour in cup.");
-    }
-
-    private void boilWater() {
-        System.out.println("Boiling water.");
-    }
-
-    private void addCondiments() {
+    public void addCondiments() {
         System.out.println("Adding Lemon");
     }
 }
