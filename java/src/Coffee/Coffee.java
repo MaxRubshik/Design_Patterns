@@ -1,27 +1,14 @@
 package src.Coffee;
 
-public class Coffee {
-    void prepareRecipe(){
-        boilWater();
-        brewCoffeeGrinds();
-        pourInCup();
-        addSugarAndMilk();
+public class Coffee extends CaffeineBeverage {
 
-    }
-
-    private void addSugarAndMilk() {
-        System.out.println("Adding sugar and milk.");
-    }
-
-    private void pourInCup() {
-        System.out.println("Pouring in a cup.");
-    }
-
-    private void brewCoffeeGrinds() {
+    @Override
+    void brew() {
         System.out.println("Dripping Coffee through filter.");
     }
 
-    private void boilWater() {
-        System.out.println("Boil water.");
+    @Override
+    void addCondiments() {
+        System.out.println("Adding sugar and milk.");
     }
 }
