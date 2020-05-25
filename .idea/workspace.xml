@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="calculateAndPrint() process.">
-      <change beforePath="$PROJECT_DIR$/java/src/EnumerationTask/CalculateAndPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/EnumerationTask/CalculateAndPrint.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="calculateAndPrint() ok.">
+      <change afterPath="$PROJECT_DIR$/java/src/Coffee/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -232,14 +233,9 @@
       <workItem from="1590066645738" duration="5000000" />
       <workItem from="1590130911283" duration="3682000" />
       <workItem from="1590150045659" duration="3265000" />
-      <workItem from="1590174385023" duration="3819000" />
-    </task>
-    <task id="LOCAL-00009" summary="WeatherStation3. display() updated.">
-      <created>1587068418360</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1587068418361</updated>
+      <workItem from="1590174385023" duration="3901000" />
+      <workItem from="1590263922416" duration="6000" />
+      <workItem from="1590412471937" duration="1029000" />
     </task>
     <task id="LOCAL-00010" summary="WeatherStation3. Embedded implementation.">
       <created>1587109314090</created>
@@ -577,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590182447176</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="calculateAndPrint() ok.">
+      <created>1590182803984</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1590182803984</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,7 +600,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="synchronized." />
     <MESSAGE value="Singleton2. Instance before." />
     <MESSAGE value="RemoteControl. Start." />
     <MESSAGE value="SimpleRemoteControl. Added." />
@@ -622,7 +624,8 @@
     <MESSAGE value="HomeTheaterTest class." />
     <MESSAGE value="Car pkg." />
     <MESSAGE value="calculateAndPrint() process." />
-    <option name="LAST_COMMIT_MESSAGE" value="calculateAndPrint() process." />
+    <MESSAGE value="calculateAndPrint() ok." />
+    <option name="LAST_COMMIT_MESSAGE" value="calculateAndPrint() ok." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -632,14 +635,6 @@
           <line>9</line>
           <properties field="temperature" class="src.WeatherStation.WeatherData" />
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/java/src/EnumerationTask/CalculateAndPrint.java</url>
-          <line>9</line>
-          <properties class="src.EnumerationTask.CalculateAndPrint" method="calculateAndPrint">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
