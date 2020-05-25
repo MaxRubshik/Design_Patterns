@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="calculateAndPrint() ok.">
-      <change afterPath="$PROJECT_DIR$/java/src/Coffee/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Coffee/CaffeineBeverage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Coffee/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Coffee/Tea.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -235,21 +236,7 @@
       <workItem from="1590150045659" duration="3265000" />
       <workItem from="1590174385023" duration="3901000" />
       <workItem from="1590263922416" duration="6000" />
-      <workItem from="1590412471937" duration="1029000" />
-    </task>
-    <task id="LOCAL-00010" summary="WeatherStation3. Embedded implementation.">
-      <created>1587109314090</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1587109314090</updated>
-    </task>
-    <task id="LOCAL-00011" summary="WeatherData improved with embedded realization.">
-      <created>1587117740946</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1587117740946</updated>
+      <workItem from="1590412471937" duration="2109000" />
     </task>
     <task id="LOCAL-00012" summary="CurrentConditionsDisplay improved with embedded realization.">
       <created>1587118901406</created>
@@ -580,7 +567,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590182803984</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Coffee added.">
+      <created>1590415592564</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1590415592565</updated>
+    </task>
+    <task id="LOCAL-00060" summary="calculateAndPrint() ok.">
+      <created>1590415599095</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1590415599095</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,7 +601,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Singleton2. Instance before." />
     <MESSAGE value="RemoteControl. Start." />
     <MESSAGE value="SimpleRemoteControl. Added." />
     <MESSAGE value="RemoteControlTest. Added." />
@@ -624,6 +624,7 @@
     <MESSAGE value="HomeTheaterTest class." />
     <MESSAGE value="Car pkg." />
     <MESSAGE value="calculateAndPrint() process." />
+    <MESSAGE value="Coffee added." />
     <MESSAGE value="calculateAndPrint() ok." />
     <option name="LAST_COMMIT_MESSAGE" value="calculateAndPrint() ok." />
   </component>
