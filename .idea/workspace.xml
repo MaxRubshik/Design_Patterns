@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Coffee upgrade.">
-      <change afterPath="$PROJECT_DIR$/java/src/Coffee/App.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="App class added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Coffee/CaffeineBeverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Coffee/CaffeineBeverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Coffee/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Coffee/CoffeeWithHook.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -236,14 +237,7 @@
       <workItem from="1590174385023" duration="3901000" />
       <workItem from="1590263922416" duration="6000" />
       <workItem from="1590412471937" duration="3520000" />
-      <workItem from="1590481496346" duration="1241000" />
-    </task>
-    <task id="LOCAL-00016" summary="Pizza factory package with classes.">
-      <created>1588230812526</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1588230812527</updated>
+      <workItem from="1590481496346" duration="3187000" />
     </task>
     <task id="LOCAL-00017" summary="ChicagoPizzaFactory finished,">
       <created>1588233328099</created>
@@ -581,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590422527320</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="App class added.">
+      <created>1590489740034</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1590489740035</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +602,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="GarageDoor. Added." />
     <MESSAGE value="GarageDoorOpenCommand. Added." />
     <MESSAGE value="GarageDoor test. Added." />
     <MESSAGE value="CeilingFanOff Added." />
@@ -626,7 +626,8 @@
     <MESSAGE value="CaffeineBeverage class." />
     <MESSAGE value="Tea improved." />
     <MESSAGE value="Coffee upgrade." />
-    <option name="LAST_COMMIT_MESSAGE" value="Coffee upgrade." />
+    <MESSAGE value="App class added." />
+    <option name="LAST_COMMIT_MESSAGE" value="App class added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

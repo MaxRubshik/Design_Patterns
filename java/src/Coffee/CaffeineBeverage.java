@@ -5,8 +5,14 @@ public abstract class CaffeineBeverage {
         boilWater();
         brew();
         pourInCup();
-        addCondiments();
+        if(customerWantsCondiments()){
+            addCondiments();
+        }
     }
+
+    boolean customerWantsCondiments(){
+        return true;
+    };
 
     abstract void brew();
     abstract void addCondiments();
