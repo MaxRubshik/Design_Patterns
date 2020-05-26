@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Coffee upgrade.">
+      <change afterPath="$PROJECT_DIR$/java/src/Coffee/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +71,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculateAndPrint">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Coffee.App" />
+      <module name="Design_Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Coffee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculateAndPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.EnumerationTask.CalculateAndPrint" />
       <module name="Design_Patterns" />
@@ -106,20 +121,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.HomeTheater.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.EnumerationTask.IteratorTest" />
-      <module name="Design_Patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.EnumerationTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IteratorTest" />
       <item itemvalue="Application.littleTests" />
       <item itemvalue="Application.HomeTheaterTest" />
       <item itemvalue="Application.Fibo" />
       <item itemvalue="Application.CalculateAndPrint" />
+      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.CalculateAndPrint" />
         <item itemvalue="Application.Fibo" />
         <item itemvalue="Application.HomeTheaterTest" />
         <item itemvalue="Application.littleTests" />
-        <item itemvalue="Application.IteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -234,14 +235,8 @@
       <workItem from="1590150045659" duration="3265000" />
       <workItem from="1590174385023" duration="3901000" />
       <workItem from="1590263922416" duration="6000" />
-      <workItem from="1590412471937" duration="3504000" />
-    </task>
-    <task id="LOCAL-00015" summary="Added city features and overrided methods.">
-      <created>1588163671496</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1588163671496</updated>
+      <workItem from="1590412471937" duration="3520000" />
+      <workItem from="1590481496346" duration="1241000" />
     </task>
     <task id="LOCAL-00016" summary="Pizza factory package with classes.">
       <created>1588230812526</created>
@@ -579,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590418206668</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Coffee upgrade.">
+      <created>1590422527320</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422527320</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
