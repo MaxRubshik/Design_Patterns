@@ -2,7 +2,7 @@ package src.Coffee;
 
 public class App {
     public static void main(String[] args) {
-        Tea myTea = new Tea();
-        myTea.prepareRecipe();
+        TeaWithHook myTeaWithHook = new TeaWithHook();
+        myTeaWithHook.prepareRecipe();
     }
 }
