@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="move to laptop">
-      <change afterPath="$PROJECT_DIR$/java/src/sort/Duck.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Duck class. compareTo().">
+      <change afterPath="$PROJECT_DIR$/java/src/sort/DuckSortTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="">
@@ -45,13 +45,13 @@
   <component name="LineStatusTrackerManager">
     <file path="$PROJECT_DIR$/.idea/workspace.xml">
       <ranges>
-        <range start1="3" end1="5" start2="3" end2="6" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="46" end1="52" start2="47" end2="54" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="257" end1="265" start2="259" end2="260" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="595" end1="596" start2="590" end2="605" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="615" end1="616" start2="624" end2="624" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="636" end1="637" start2="644" end2="644" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
-        <range start1="640" end1="641" start2="647" end2="650" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="3" end1="7" start2="3" end2="4" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="43" end1="56" start2="40" end2="40" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="259" end1="267" start2="243" end2="244" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="604" end1="605" start2="581" end2="589" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="624" end1="625" start2="608" end2="608" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="644" end1="645" start2="627" end2="627" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
+        <range start1="650" end1="651" start2="632" end2="634" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
       </ranges>
     </file>
   </component>
@@ -90,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.DuckSortTestDrive">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Coffee.App" />
       <module name="Design_Patterns" />
@@ -112,6 +112,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.EnumerationTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuckSortTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.sort.DuckSortTestDrive" />
+      <module name="Design_Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,20 +167,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="littleTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.EnumerationTask.littleTests" />
-      <module name="Design_Patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.EnumerationTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -184,19 +184,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.littleTests" />
       <item itemvalue="Application.HomeTheaterTest" />
       <item itemvalue="Application.Fibo" />
       <item itemvalue="Application.CalculateAndPrint" />
       <item itemvalue="Application.App" />
+      <item itemvalue="Application.DuckSortTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuckSortTestDrive" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.CalculateAndPrint" />
         <item itemvalue="Application.Fibo" />
         <item itemvalue="Application.HomeTheaterTest" />
-        <item itemvalue="Application.littleTests" />
       </list>
     </recent_temporary>
   </component>
@@ -257,14 +257,7 @@
       <workItem from="1590263922416" duration="6000" />
       <workItem from="1590412471937" duration="3520000" />
       <workItem from="1590481496346" duration="5357000" />
-      <workItem from="1590559604289" duration="1731000" />
-    </task>
-    <task id="LOCAL-00022" summary="Chicago PizzaStore updated.">
-      <created>1588253069362</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1588253069362</updated>
+      <workItem from="1590559604289" duration="2297000" />
     </task>
     <task id="LOCAL-00023" summary="Chicago PizzaStore updated.">
       <created>1588254357620</created>
@@ -602,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590564268420</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Duck class. compareTo().">
+      <created>1590569825552</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1590569825552</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,7 +622,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RemoteLoader finished." />
     <MESSAGE value="pause" />
     <MESSAGE value="testTurkey()" />
     <MESSAGE value="testTurkey() 2.0" />
@@ -648,7 +647,8 @@
     <MESSAGE value="TeaWithHook (upgrade)" />
     <MESSAGE value="App class added." />
     <MESSAGE value="move to laptop" />
-    <option name="LAST_COMMIT_MESSAGE" value="move to laptop" />
+    <MESSAGE value="Duck class. compareTo()." />
+    <option name="LAST_COMMIT_MESSAGE" value="Duck class. compareTo()." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
