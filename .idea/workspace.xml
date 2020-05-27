@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="TeaWithHook (upgrade)">
-      <change beforePath="$PROJECT_DIR$/java/src/Coffee/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Coffee/App.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="move to laptop">
+      <change afterPath="$PROJECT_DIR$/java/src/sort/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -44,12 +45,13 @@
   <component name="LineStatusTrackerManager">
     <file path="$PROJECT_DIR$/.idea/workspace.xml">
       <ranges>
-        <range start1="3" end1="5" start2="3" end2="5" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
-        <range start1="26" end1="26" start2="26" end2="29" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="237" end1="245" start2="240" end2="241" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
-        <range start1="582" end1="583" start2="578" end2="586" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
-        <range start1="623" end1="624" start2="626" end2="626" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
-        <range start1="627" end1="628" start2="629" end2="631" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
+        <range start1="3" end1="5" start2="3" end2="6" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="46" end1="52" start2="47" end2="54" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="257" end1="265" start2="259" end2="260" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="595" end1="596" start2="590" end2="605" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="615" end1="616" start2="624" end2="624" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="636" end1="637" start2="644" end2="644" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
+        <range start1="640" end1="641" start2="647" end2="650" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
       </ranges>
     </file>
   </component>
@@ -255,14 +257,7 @@
       <workItem from="1590263922416" duration="6000" />
       <workItem from="1590412471937" duration="3520000" />
       <workItem from="1590481496346" duration="5357000" />
-      <workItem from="1590559604289" duration="311000" />
-    </task>
-    <task id="LOCAL-00021" summary="NY PizzaStore updated.">
-      <created>1588248143039</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1588248143039</updated>
+      <workItem from="1590559604289" duration="1731000" />
     </task>
     <task id="LOCAL-00022" summary="Chicago PizzaStore updated.">
       <created>1588253069362</created>
@@ -593,7 +588,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590495655494</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="App class added.">
+      <created>1590495876119</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1590495876119</updated>
+    </task>
+    <task id="LOCAL-00070" summary="move to laptop">
+      <created>1590564268419</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1590564268420</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,7 +622,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StereoOffWithCdCommand Added." />
     <MESSAGE value="RemoteLoader finished." />
     <MESSAGE value="pause" />
     <MESSAGE value="testTurkey()" />
@@ -638,7 +646,9 @@
     <MESSAGE value="CoffeeWithHook upgrade." />
     <MESSAGE value="customerWantsCondiments() added + getUserInput()" />
     <MESSAGE value="TeaWithHook (upgrade)" />
-    <option name="LAST_COMMIT_MESSAGE" value="TeaWithHook (upgrade)" />
+    <MESSAGE value="App class added." />
+    <MESSAGE value="move to laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="move to laptop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
