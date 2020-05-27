@@ -4,6 +4,9 @@
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="TeaWithHook (upgrade)">
       <change beforePath="$PROJECT_DIR$/java/src/Coffee/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Coffee/App.java" afterDir="false" />
     </list>
+    <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +27,9 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Design_Patterns" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -34,6 +40,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="5" start2="3" end2="5" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
+        <range start1="26" end1="26" start2="26" end2="29" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
+        <range start1="237" end1="245" start2="240" end2="241" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
+        <range start1="582" end1="583" start2="578" end2="586" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
+        <range start1="623" end1="624" start2="626" end2="626" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
+        <range start1="627" end1="628" start2="629" end2="631" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectId" id="1bTqtfCyWdGjnySTx463Hwppeib" />
   <component name="ProjectLevelVcsManager">
@@ -186,6 +204,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="" />
+      <changelist id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
       <created>1586251700202</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -235,14 +254,8 @@
       <workItem from="1590174385023" duration="3901000" />
       <workItem from="1590263922416" duration="6000" />
       <workItem from="1590412471937" duration="3520000" />
-      <workItem from="1590481496346" duration="4638000" />
-    </task>
-    <task id="LOCAL-00020" summary="ClamPizza updated.">
-      <created>1588247172068</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1588247172068</updated>
+      <workItem from="1590481496346" duration="5357000" />
+      <workItem from="1590559604289" duration="311000" />
     </task>
     <task id="LOCAL-00021" summary="NY PizzaStore updated.">
       <created>1588248143039</created>
