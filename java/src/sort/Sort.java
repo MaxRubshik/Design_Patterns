@@ -26,7 +26,6 @@ public class Sort {
                 swap(dest, j, j-1);
             }
         }
-        return;
     }
 
     private static void swap(Object[] x, int a, int b) {
