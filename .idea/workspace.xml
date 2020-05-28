@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="App added. (test and print).">
-      <change afterPath="$PROJECT_DIR$/java/src/MenuItem/Iterator.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Iterator">
+      <change afterPath="$PROJECT_DIR$/java/src/MenuItem/DinerMenuIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/MenuItem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/MenuItem/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/MenuItem/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/MenuItem/PancakeHouseMenu.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -246,14 +244,7 @@
       <workItem from="1590481496346" duration="5357000" />
       <workItem from="1590559604289" duration="4927000" />
       <workItem from="1590580677730" duration="2214000" />
-      <workItem from="1590647412073" duration="11346000" />
-    </task>
-    <task id="LOCAL-00028" summary="upgraded to Singleton.">
-      <created>1588844479624</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1588844479624</updated>
+      <workItem from="1590647412073" duration="12252000" />
     </task>
     <task id="LOCAL-00029" summary="synchronized.">
       <created>1588853833291</created>
@@ -591,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590658888163</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Iterator">
+      <created>1590670552972</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1590670552972</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,7 +609,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Phibonacci" />
     <MESSAGE value="HomeTheater" />
     <MESSAGE value="WatchMovie()" />
     <MESSAGE value="WatchMovie() methods realized." />
@@ -636,7 +633,8 @@
     <MESSAGE value="PanCakeHouseMenu added." />
     <MESSAGE value="DinerMenu added." />
     <MESSAGE value="App added. (test and print)." />
-    <option name="LAST_COMMIT_MESSAGE" value="App added. (test and print)." />
+    <MESSAGE value="Iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
