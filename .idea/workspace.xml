@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="DuckSortTestDrive class.">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="MenuItem added.">
+      <change afterPath="$PROJECT_DIR$/java/src/MenuItem/PancakeHouseMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/sort/MyApplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/sort/MyApplet.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -244,14 +244,7 @@
       <workItem from="1590481496346" duration="5357000" />
       <workItem from="1590559604289" duration="4927000" />
       <workItem from="1590580677730" duration="2214000" />
-      <workItem from="1590647412073" duration="1068000" />
-    </task>
-    <task id="LOCAL-00024" summary="test">
-      <created>1588484120302</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1588484120302</updated>
+      <workItem from="1590647412073" duration="3567000" />
     </task>
     <task id="LOCAL-00025" summary="test">
       <created>1588666031097</created>
@@ -589,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590570408369</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="MenuItem added.">
+      <created>1590650696559</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1590650696559</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,7 +609,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="testTurkey()" />
     <MESSAGE value="testTurkey() 2.0" />
     <MESSAGE value="Iterator to Enum finished." />
     <MESSAGE value="Palindrom task." />
@@ -634,7 +633,8 @@
     <MESSAGE value="move to laptop" />
     <MESSAGE value="Duck class. compareTo()." />
     <MESSAGE value="DuckSortTestDrive class." />
-    <option name="LAST_COMMIT_MESSAGE" value="DuckSortTestDrive class." />
+    <MESSAGE value="MenuItem added." />
+    <option name="LAST_COMMIT_MESSAGE" value="MenuItem added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
