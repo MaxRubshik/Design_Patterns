@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="DinerMenu createIterator()">
-      <change afterPath="$PROJECT_DIR$/java/src/MenuItem/PancakeMenuIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/MenuItem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/MenuItem/Waitress.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="PancakeMenuIterator">
+      <change beforePath="$PROJECT_DIR$/java/src/MenuItem/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/MenuItem/PancakeHouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/MenuItem/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/MenuItem/Waitress.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -245,14 +244,7 @@
       <workItem from="1590481496346" duration="5357000" />
       <workItem from="1590559604289" duration="4927000" />
       <workItem from="1590580677730" duration="2214000" />
-      <workItem from="1590647412073" duration="13983000" />
-    </task>
-    <task id="LOCAL-00031" summary="Singleton2. Instance before.">
-      <created>1588855308556</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1588855308556</updated>
+      <workItem from="1590647412073" duration="14698000" />
     </task>
     <task id="LOCAL-00032" summary="Singleton2. Instance before.">
       <created>1588857352295</created>
@@ -590,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590671941064</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="PancakeMenuIterator">
+      <created>1590673254489</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1590673254489</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,7 +609,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="WatchMovie() methods realized." />
     <MESSAGE value="endMovie() methods realized." />
     <MESSAGE value="HomeTheaterFacade beautify()" />
     <MESSAGE value="HomeTheaterTest class." />
@@ -635,7 +633,8 @@
     <MESSAGE value="Iterator" />
     <MESSAGE value="DinerMenuIterator" />
     <MESSAGE value="DinerMenu createIterator()" />
-    <option name="LAST_COMMIT_MESSAGE" value="DinerMenu createIterator()" />
+    <MESSAGE value="PancakeMenuIterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="PancakeMenuIterator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
