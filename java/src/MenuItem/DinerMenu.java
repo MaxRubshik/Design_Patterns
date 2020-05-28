@@ -5,7 +5,7 @@ public class DinerMenu {
     int numberOfItems = 0;
     MenuItem[] menuItems;
 
-    public DinerMenu(){
+    public DinerMenu() {
         menuItems = new MenuItem[MAX_ITEMS];
 
         addItem("Vegetarian BLT", "(Fakin') Bacon with lettuce & tomato" +
@@ -22,7 +22,7 @@ public class DinerMenu {
 
     private void addItem(String name, String description, boolean vegetarian, double price) {
         MenuItem menuItem = new MenuItem(name, description, vegetarian, price);
-        if(numberOfItems >= MAX_ITEMS){
+        if (numberOfItems >= MAX_ITEMS) {
             System.err.println("Sorry, menu is full! Can't add item.");
         } else {
             menuItems[numberOfItems] = menuItem;
@@ -30,8 +30,8 @@ public class DinerMenu {
         }
     }
 
-    public MenuItem[] getMenuItems() {
-        return menuItems;
+    public Iterator createIterator() {
+        return new DinerMenuIterator(menuItems);
     }
 }
 
