@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="PanCakeHouseMenu added.">
-      <change afterPath="$PROJECT_DIR$/java/src/MenuItem/DinerMenu.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="DinerMenu added.">
+      <change afterPath="$PROJECT_DIR$/java/src/MenuItem/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
@@ -244,14 +244,7 @@
       <workItem from="1590481496346" duration="5357000" />
       <workItem from="1590559604289" duration="4927000" />
       <workItem from="1590580677730" duration="2214000" />
-      <workItem from="1590647412073" duration="6030000" />
-    </task>
-    <task id="LOCAL-00026" summary="Singleton.">
-      <created>1588841864471</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1588841864471</updated>
+      <workItem from="1590647412073" duration="7597000" />
     </task>
     <task id="LOCAL-00027" summary="ChocolateBoiler.">
       <created>1588844155923</created>
@@ -589,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590653907755</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="DinerMenu added.">
+      <created>1590657339534</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1590657339534</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,7 +609,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Iterator to Enum finished." />
     <MESSAGE value="Palindrom task." />
     <MESSAGE value="Phibonacci" />
     <MESSAGE value="HomeTheater" />
@@ -634,7 +633,8 @@
     <MESSAGE value="DuckSortTestDrive class." />
     <MESSAGE value="MenuItem added." />
     <MESSAGE value="PanCakeHouseMenu added." />
-    <option name="LAST_COMMIT_MESSAGE" value="PanCakeHouseMenu added." />
+    <MESSAGE value="DinerMenu added." />
+    <option name="LAST_COMMIT_MESSAGE" value="DinerMenu added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
