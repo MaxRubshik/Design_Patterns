@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Duck class. compareTo().">
-      <change afterPath="$PROJECT_DIR$/java/src/sort/DuckSortTestDrive.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="DuckSortTestDrive class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/sort/MyApplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/sort/MyApplet.java" afterDir="false" />
     </list>
-    <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +39,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="3" end1="7" start2="3" end2="4" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="43" end1="56" start2="40" end2="40" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="259" end1="267" start2="243" end2="244" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="604" end1="605" start2="581" end2="589" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="624" end1="625" start2="608" end2="608" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-        <range start1="644" end1="645" start2="627" end2="627" changelist="864546d3-e5a0-41ad-9787-17d1d450767b" />
-        <range start1="650" end1="651" start2="632" end2="634" changelist="b51e99e5-2f45-4a49-8fad-bbae561bf325" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1bTqtfCyWdGjnySTx463Hwppeib" />
   <component name="ProjectLevelVcsManager">
@@ -257,14 +242,9 @@
       <workItem from="1590263922416" duration="6000" />
       <workItem from="1590412471937" duration="3520000" />
       <workItem from="1590481496346" duration="5357000" />
-      <workItem from="1590559604289" duration="2297000" />
-    </task>
-    <task id="LOCAL-00023" summary="Chicago PizzaStore updated.">
-      <created>1588254357620</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1588254357620</updated>
+      <workItem from="1590559604289" duration="4927000" />
+      <workItem from="1590580677730" duration="2214000" />
+      <workItem from="1590647412073" duration="1068000" />
     </task>
     <task id="LOCAL-00024" summary="test">
       <created>1588484120302</created>
@@ -602,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590569825552</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="DuckSortTestDrive class.">
+      <created>1590570408369</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1590570408369</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,7 +609,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pause" />
     <MESSAGE value="testTurkey()" />
     <MESSAGE value="testTurkey() 2.0" />
     <MESSAGE value="Iterator to Enum finished." />
@@ -641,14 +627,14 @@
     <MESSAGE value="CaffeineBeverage class." />
     <MESSAGE value="Tea improved." />
     <MESSAGE value="Coffee upgrade." />
-    <MESSAGE value="App class added." />
     <MESSAGE value="CoffeeWithHook upgrade." />
     <MESSAGE value="customerWantsCondiments() added + getUserInput()" />
     <MESSAGE value="TeaWithHook (upgrade)" />
     <MESSAGE value="App class added." />
     <MESSAGE value="move to laptop" />
     <MESSAGE value="Duck class. compareTo()." />
-    <option name="LAST_COMMIT_MESSAGE" value="Duck class. compareTo()." />
+    <MESSAGE value="DuckSortTestDrive class." />
+    <option name="LAST_COMMIT_MESSAGE" value="DuckSortTestDrive class." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
