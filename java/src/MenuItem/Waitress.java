@@ -1,7 +1,5 @@
 package src.MenuItem;
 
-import java.util.ArrayList;
-
 public class Waitress {
     PancakeHouseMenu pancakeHouseMenu;
     DinerMenu dinerMenu;

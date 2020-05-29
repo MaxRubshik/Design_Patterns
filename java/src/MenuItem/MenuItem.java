@@ -32,16 +32,4 @@ public class MenuItem {
     public void setName(String name) {
         this.name = name;
     }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
-
-    public void setVegetarian(boolean vegetarian) {
-        this.vegetarian = vegetarian;
-    }
-
-    public void setPrice(double price) {
-        this.price = price;
-    }
 }
