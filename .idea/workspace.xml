@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Waitress upgrade.">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="move">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
@@ -243,14 +243,8 @@
       <workItem from="1590481496346" duration="5357000" />
       <workItem from="1590559604289" duration="4927000" />
       <workItem from="1590580677730" duration="2214000" />
-      <workItem from="1590647412073" duration="15310000" />
-    </task>
-    <task id="LOCAL-00033" summary="RemoteControl. Start.">
-      <created>1589447829227</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1589447829227</updated>
+      <workItem from="1590647412073" duration="15330000" />
+      <workItem from="1590751066976" duration="628000" />
     </task>
     <task id="LOCAL-00034" summary="SimpleRemoteControl. Added.">
       <created>1589448014343</created>
@@ -588,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590673965338</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="move">
+      <created>1590677318520</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1590677318521</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +609,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HomeTheaterFacade beautify()" />
     <MESSAGE value="HomeTheaterTest class." />
     <MESSAGE value="Car pkg." />
     <MESSAGE value="calculateAndPrint() process." />
@@ -633,7 +633,8 @@
     <MESSAGE value="DinerMenu createIterator()" />
     <MESSAGE value="PancakeMenuIterator" />
     <MESSAGE value="Waitress upgrade." />
-    <option name="LAST_COMMIT_MESSAGE" value="Waitress upgrade." />
+    <MESSAGE value="move" />
+    <option name="LAST_COMMIT_MESSAGE" value="move" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
