@@ -3,7 +3,7 @@ package src.MenuItem;
 import java.util.Iterator;
 import java.util.ArrayList;
 
-public class PancakeHouseMenu {
+public class PancakeHouseMenu implements Menu {
     ArrayList menuItems;
 
     public PancakeHouseMenu() {
