@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Waitress update with cafeMenu.">
-      <change beforePath="$PROJECT_DIR$/java/src/MenuItem/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/MenuItem/MenuTestDrive.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="MenuTestDrive update with cafeMenu.">
+      <change afterPath="$PROJECT_DIR$/java/src/MenuItem/AlternatingDinerMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -245,14 +246,7 @@
       <workItem from="1590580677730" duration="2214000" />
       <workItem from="1590647412073" duration="15330000" />
       <workItem from="1590751066976" duration="2982000" />
-      <workItem from="1590992042042" duration="2587000" />
-    </task>
-    <task id="LOCAL-00040" summary="StereoOffWithCdCommand Added.">
-      <created>1589547693009</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1589547693009</updated>
+      <workItem from="1590992042042" duration="4978000" />
     </task>
     <task id="LOCAL-00041" summary="StereoOffWithCdCommand Added.">
       <created>1589547784351</created>
@@ -590,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590998201340</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="MenuTestDrive update with cafeMenu.">
+      <created>1590998323846</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1590998323846</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,7 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CaffeineBeverage class." />
     <MESSAGE value="Tea improved." />
     <MESSAGE value="Coffee upgrade." />
     <MESSAGE value="CoffeeWithHook upgrade." />
@@ -635,7 +635,8 @@
     <MESSAGE value="CafeMenu added." />
     <MESSAGE value="CafeMenu update with iterator." />
     <MESSAGE value="Waitress update with cafeMenu." />
-    <option name="LAST_COMMIT_MESSAGE" value="Waitress update with cafeMenu." />
+    <MESSAGE value="MenuTestDrive update with cafeMenu." />
+    <option name="LAST_COMMIT_MESSAGE" value="MenuTestDrive update with cafeMenu." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
