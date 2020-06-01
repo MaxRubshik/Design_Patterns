@@ -1,9 +1,14 @@
 package src.MenuItem;
 
 import java.util.Hashtable;
+import java.util.Iterator;
 
-public class CafeMenu {
+public class CafeMenu implements Menu{
     Hashtable menuItems = new Hashtable();
+
+    public CafeMenu(Hashtable menuItems) {
+        this.menuItems = menuItems;
+    }
 
     public CafeMenu() {
         addItem("Veggie Burger and Air Fries",
@@ -22,7 +27,8 @@ public class CafeMenu {
         menuItems.put(menuItem.getName(), menuItem);
     }
 
-    public Hashtable getItems() {
-        return menuItems;
+    @Override
+    public Iterator createIterator() {
+        return menuItems.values().iterator();
     }
 }
