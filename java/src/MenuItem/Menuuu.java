@@ -17,11 +17,11 @@ public class Menuuu extends MenuComponent {
         menuComponents.add(menuComponent);
     }
 
-    public void remove(MenuComponent menuComponent){
+    public void remove(MenuComponent menuComponent) {
         menuComponents.remove(menuComponent);
     }
 
-    public MenuComponent getChild(int i){
+    public MenuComponent getChild(int i) {
         return (MenuComponent) menuComponents.get(i);
     }
 
@@ -37,15 +37,14 @@ public class Menuuu extends MenuComponent {
 
     @Override
     public void print() {
-        System.out.print("\n "+ getName());
-        System.out.println("\n "+ getDescription());
+        System.out.print("\n " + getName());
+        System.out.println("\n " + getDescription());
         System.out.println("-----------------------");
 
         Iterator iterator = menuComponents.iterator();
-        while (iterator.hasNext()){
+        while (iterator.hasNext()) {
             MenuComponent menuComponent = (MenuComponent) iterator.next();
             menuComponent.print();
         }
-
     }
 }
