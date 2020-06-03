@@ -1,6 +1,7 @@
 package src.MenuItem;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class Menuuu extends MenuComponent {
     ArrayList menuComponents = new ArrayList();
@@ -39,5 +40,12 @@ public class Menuuu extends MenuComponent {
         System.out.print("\n "+ getName());
         System.out.println("\n "+ getDescription());
         System.out.println("-----------------------");
+
+        Iterator iterator = menuComponents.iterator();
+        while (iterator.hasNext()){
+            MenuComponent menuComponent = (MenuComponent) iterator.next();
+            menuComponent.print();
+        }
+
     }
 }
