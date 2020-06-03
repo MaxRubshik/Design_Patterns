@@ -4,9 +4,18 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class Menuuu extends MenuComponent {
+    Iterator iterator = null;
+
     ArrayList menuComponents = new ArrayList();
     String name;
     String description;
+
+    public Iterator createIterator() {
+        if(iterator == null){
+            iterator = new CompositeIterator(menuComponents.iterator());
+        }
+        return iterator;
+    }
 
     public Menuuu(String name, String description) {
         this.name = name;

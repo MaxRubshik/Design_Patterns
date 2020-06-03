@@ -19,13 +19,6 @@ public class MenuItem extends MenuComponent {
         this.price = price;
     }
 
-    public Iterator createIterator() {
-        if(iterator == null){
-            iterator = new CompositeIterator(menuComponents.iterator());
-        }
-        return iterator;
-    }
-
     public String getName() {
         return name;
     }
@@ -54,5 +47,9 @@ public class MenuItem extends MenuComponent {
         }
         System.out.println(", " + getPrice());
         System.out.println("   -- " + getDescription());
+    }
+
+    public Iterator createIterator(){
+        return new NullIterator();
     }
 }
