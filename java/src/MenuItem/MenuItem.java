@@ -1,12 +1,15 @@
 package src.MenuItem;
 
-public class MenuItem {
+public class MenuItem extends MenuComponent {
     String name;
     String description;
     boolean vegetarian;
     double price;
 
-    public MenuItem(String name, String description, boolean vegetarian, double price) {
+    public MenuItem(String name,
+                    String description,
+                    boolean vegetarian,
+                    double price) {
         this.name = name;
         this.description = description;
         this.vegetarian = vegetarian;
@@ -31,5 +34,15 @@ public class MenuItem {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public void print() {
+        System.out.print(" "+ getName());
+        if(isVegetarian()){
+            System.out.print("(v)");
+        }
+        System.out.println(", " + getPrice());
+        System.out.println("   -- " + getDescription());
     }
 }
