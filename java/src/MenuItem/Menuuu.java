@@ -47,4 +47,5 @@ public class Menuuu extends MenuComponent {
             menuComponent.print();
         }
     }
+
 }

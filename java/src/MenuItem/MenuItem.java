@@ -1,6 +1,9 @@
 package src.MenuItem;
 
+import java.util.Iterator;
+
 public class MenuItem extends MenuComponent {
+    Iterator iterator = null;
     String name;
     String description;
     boolean vegetarian;
@@ -14,6 +17,13 @@ public class MenuItem extends MenuComponent {
         this.description = description;
         this.vegetarian = vegetarian;
         this.price = price;
+    }
+
+    public Iterator createIterator() {
+        if(iterator == null){
+            iterator = new CompositeIterator(menuComponents.iterator());
+        }
+        return iterator;
     }
 
     public String getName() {
