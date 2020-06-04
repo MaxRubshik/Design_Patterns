@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="" />
+    <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/src/MenuItem/CafeMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/src/MenuItem/MenuComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/src/MenuItem/MenuComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/src/MenuItem/MenuItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/src/MenuItem/Waitress.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NullIterator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MenuItem/NullIterator.java">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="459">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -58,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Pizza/Ingredients/Sweets.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Ingredients/Nuts.java" />
         <option value="$PROJECT_DIR$/src/Pizza/Factory/CaliPizzaIngredientFactory.java" />
         <option value="$PROJECT_DIR$/src/Singleton/Singleton3.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl2/RemoteControl.java" />
@@ -100,8 +106,6 @@
         <option value="$PROJECT_DIR$/src/MenuItem/DinerMenuIterator.java" />
         <option value="$PROJECT_DIR$/src/MenuItem/DinerMenu.java" />
         <option value="$PROJECT_DIR$/src/MenuItem/PancakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/src/MenuItem/MenuComponent.java" />
-        <option value="$PROJECT_DIR$/src/MenuItem/Waitress.java" />
         <option value="$PROJECT_DIR$/src/MenuItem/MenuTestDrive.java" />
         <option value="$PROJECT_DIR$/src/MenuItem/Menu.java" />
         <option value="$PROJECT_DIR$/src/MenuItem/CafeMenu.java" />
@@ -109,6 +113,10 @@
         <option value="$PROJECT_DIR$/src/MenuItem/Menuuu.java" />
         <option value="$PROJECT_DIR$/src/MenuItem/CompositeIterator.java" />
         <option value="$PROJECT_DIR$/src/MenuItem/NullIterator.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/MenuComponent.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/Waitress.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/Coin.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" />
       </list>
     </option>
   </component>
@@ -122,8 +130,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-312" />
     <option name="y" value="23" />
-    <option name="width" value="1359" />
+    <option name="width" value="1029" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -151,7 +160,7 @@
               <item name="Desigh_Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MenuItem" type="462c0819:PsiDirectoryNode" />
+              <item name="BallMachine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -348,21 +357,7 @@
       <workItem from="1590564381077" duration="4939000" />
       <workItem from="1590733462556" duration="5376000" />
       <workItem from="1591099848143" duration="8634000" />
-      <workItem from="1591192903127" duration="4236000" />
-    </task>
-    <task id="LOCAL-00049" summary="Pizza class update.">
-      <created>1588141261090</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1588141261090</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Each pizza class update.">
-      <created>1588142552826</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1588142552827</updated>
+      <workItem from="1591192903127" duration="7147000" />
     </task>
     <task id="LOCAL-00051" summary="Each pizza store class update.">
       <created>1588150175065</created>
@@ -693,30 +688,46 @@
       <option name="project" value="LOCAL" />
       <updated>1591258384566</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Waitress update with Vegetarian">
+      <created>1591260960467</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1591260960467</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Waitress update">
+      <created>1591261092990</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1591261092990</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164409000" />
+    <option name="totallyTimeSpent" value="167320000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1046" height="877" extended-state="0" />
+    <frame x="-312" y="23" width="1029" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32996207" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32709113" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.26841447" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.14606741" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.20758693" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28884462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29381967" />
       <window_info anchor="right" id="Database" order="7" weight="0.32996207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -730,7 +741,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32833958" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32771337" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -742,6 +752,7 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="RECENTLY_FILTERED_USER_GROUPS">
                 <collection>
                   <UserGroup>
@@ -790,7 +801,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -814,8 +825,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="turkey adapter" />
-    <MESSAGE value="move to mac" />
     <MESSAGE value="Iterator from Iterator to Enumeration" />
     <MESSAGE value="need to clear" />
     <MESSAGE value="move to imac" />
@@ -839,7 +848,9 @@
     <MESSAGE value="Menuuu upadate Iterator" />
     <MESSAGE value="Composite Iterator" />
     <MESSAGE value="NullIterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="NullIterator" />
+    <MESSAGE value="Waitress update with Vegetarian" />
+    <MESSAGE value="Waitress update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Waitress update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -873,13 +884,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/RemoteControlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoteControl/RemoteControlWithUndo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1117,6 +1121,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1134,13 +1141,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenuItem/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MenuItem/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1152,20 +1152,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenuItem/DinerMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenuItem/MenuTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1199,31 +1185,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenuItem/MenuComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MenuItem/testCompositeIterator.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1243,6 +1204,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/MenuComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/MenuTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/DinerMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
