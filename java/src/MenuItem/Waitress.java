@@ -1,5 +1,7 @@
 package src.MenuItem;
 
+import java.util.Iterator;
+
 public class Waitress {
     MenuComponent allMenus;
 
@@ -9,5 +11,13 @@ public class Waitress {
 
     public void printMenu() {
         allMenus.print();
+    }
+
+    public void printVegetarianMenu(){
+        Iterator iterator = allMenus.createIterator();
+        System.out.println("\nVEGETARIAN MENU\n");
+        while (iterator.hasNext()){
+            MenuComponent menuComponent = (MenuComponent) iterator.next();
+        }
     }
 }
