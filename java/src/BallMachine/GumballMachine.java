@@ -8,7 +8,7 @@ public class GumballMachine {
     int state = SOLD_OUT;
     int count = 0;
 
-    public GumballMachine(int state, int count) {
+    public GumballMachine(int count) {
         this.count = count;
         if (count > 0) {
             state = NO_QUARTER;
@@ -28,21 +28,21 @@ public class GumballMachine {
         }
     }
 
-    public void ejectQuarter(){
-        if(state == HAS_QUARTER){
+    public void ejectQuarter() {
+        if (state == HAS_QUARTER) {
             System.out.println("Quarter returned.");
             state = NO_QUARTER;
-        } else if (state == NO_QUARTER){
+        } else if (state == NO_QUARTER) {
             System.out.println("You haven't inserted a quarter.");
-        } else  if (state == SOLD_OUT) {
+        } else if (state == SOLD_OUT) {
             System.out.println("You can't eject, you haven't inserted a quarter yet.");
         }
     }
 
     public void turnCrank() {
-        if(state == SOLD){
+        if (state == SOLD) {
             System.out.println("Turning twice doesn't get you another gumball!");
-        } else if (state == NO_QUARTER){
+        } else if (state == NO_QUARTER) {
             System.out.println("Ypu turned but there is no quarter.");
         } else if (state == SOLD_OUT) {
             System.out.println("You turned, but there is no gumballs.");
@@ -54,16 +54,16 @@ public class GumballMachine {
     }
 
     private void dispense() {
-        if (state == SOLD){
+        if (state == SOLD) {
             System.out.println("A gumball comes rolling out the slot.");
             count--;
-            if(count == 0) {
+            if (count == 0) {
                 System.out.println("Oops, out of balls.");
                 state = SOLD_OUT;
             } else {
                 state = NO_QUARTER;
             }
-        } else if (state == NO_QUARTER){
+        } else if (state == NO_QUARTER) {
             System.out.println("You need to pay first.");
         } else if (state == SOLD_OUT) {
             System.out.println("No gumballs dispensed.");

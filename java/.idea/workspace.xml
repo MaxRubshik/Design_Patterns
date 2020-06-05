@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" afterDir="false" />
     </list>
@@ -28,11 +29,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="239">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -61,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Pizza/Factory/CaliPizzaIngredientFactory.java" />
         <option value="$PROJECT_DIR$/src/Singleton/Singleton3.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl2/RemoteControl.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/StereoWithCDComand.java" />
@@ -112,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/MenuItem/Waitress.java" />
         <option value="$PROJECT_DIR$/src/BallMachine/Coin.java" />
         <option value="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" />
       </list>
     </option>
   </component>
@@ -125,7 +135,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-312" />
+    <option name="x" value="-296" />
     <option name="y" value="23" />
     <option name="width" value="1029" />
     <option name="height" value="877" />
@@ -353,14 +363,7 @@
       <workItem from="1590733462556" duration="5376000" />
       <workItem from="1591099848143" duration="8634000" />
       <workItem from="1591192903127" duration="7409000" />
-      <workItem from="1591340071889" duration="657000" />
-    </task>
-    <task id="LOCAL-00053" summary="условная блокировка">
-      <created>1588859252428</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1588859252431</updated>
+      <workItem from="1591340071889" duration="1596000" />
     </task>
     <task id="LOCAL-00054" summary="RemoteControl started.">
       <created>1589534042041</created>
@@ -698,14 +701,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591341578506</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="dispense()">
+      <created>1591341831810</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1591341831810</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168239000" />
+    <option name="totallyTimeSpent" value="169178000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-312" y="23" width="1029" height="877" extended-state="0" />
+    <frame x="-296" y="23" width="1029" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32996207" />
@@ -821,7 +831,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="move to imac" />
     <MESSAGE value="mergeSort" />
     <MESSAGE value="mergeSort() and sort()" />
     <MESSAGE value="MyJFrame" />
@@ -846,7 +855,8 @@
     <MESSAGE value="Waitress update" />
     <MESSAGE value="GumballMachine." />
     <MESSAGE value="turnCrank()" />
-    <option name="LAST_COMMIT_MESSAGE" value="turnCrank()" />
+    <MESSAGE value="dispense()" />
+    <option name="LAST_COMMIT_MESSAGE" value="dispense()" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -880,13 +890,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/RemoteControlWithUndo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoteControl/GarageDoorDownCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1214,8 +1217,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="239">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
         </state>
       </provider>
     </entry>
