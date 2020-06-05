@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,20 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="453">
+              <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="272">
+              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -135,7 +136,6 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-296" />
     <option name="y" value="23" />
     <option name="width" value="1029" />
     <option name="height" value="877" />
@@ -208,14 +208,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MenuTestDrive">
-    <configuration name="DuckTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.DuckPond3.DuckTestDrive" />
+  <component name="RunManager" selected="Application.GumballMachineTestDrive">
+    <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.BallMachine.GumballMachineTestDrive" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.DuckPond3.*" />
+          <option name="PATTERN" value="src.BallMachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,19 +306,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DuckTestDrive" />
       <item itemvalue="Application.IteratorTest" />
       <item itemvalue="Application.Sort" />
       <item itemvalue="Application.MyJFrame" />
       <item itemvalue="Application.MenuTestDrive" />
+      <item itemvalue="Application.GumballMachineTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GumballMachineTestDrive" />
         <item itemvalue="Application.MenuTestDrive" />
         <item itemvalue="Application.MyJFrame" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.IteratorTest" />
-        <item itemvalue="Application.DuckTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -363,14 +363,7 @@
       <workItem from="1590733462556" duration="5376000" />
       <workItem from="1591099848143" duration="8634000" />
       <workItem from="1591192903127" duration="7409000" />
-      <workItem from="1591340071889" duration="1596000" />
-    </task>
-    <task id="LOCAL-00054" summary="RemoteControl started.">
-      <created>1589534042041</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1589534042042</updated>
+      <workItem from="1591340071889" duration="2188000" />
     </task>
     <task id="LOCAL-00055" summary="RemoteControl toString.">
       <created>1589535013072</created>
@@ -708,27 +701,35 @@
       <option name="project" value="LOCAL" />
       <updated>1591341831810</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="GumballMachineTestDrive">
+      <created>1591345182139</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1591345182139</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169178000" />
+    <option name="totallyTimeSpent" value="169770000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-296" y="23" width="1029" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1029" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32996207" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32709113" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.14606741" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20758693" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3732834" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7977528" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
@@ -746,7 +747,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32833958" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32709113" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -831,7 +831,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mergeSort" />
     <MESSAGE value="mergeSort() and sort()" />
     <MESSAGE value="MyJFrame" />
     <MESSAGE value="Applet started" />
@@ -856,7 +855,8 @@
     <MESSAGE value="GumballMachine." />
     <MESSAGE value="turnCrank()" />
     <MESSAGE value="dispense()" />
-    <option name="LAST_COMMIT_MESSAGE" value="dispense()" />
+    <MESSAGE value="GumballMachineTestDrive" />
+    <option name="LAST_COMMIT_MESSAGE" value="GumballMachineTestDrive" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1215,17 +1215,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="272">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="453">
+          <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
         </state>
       </provider>
     </entry>

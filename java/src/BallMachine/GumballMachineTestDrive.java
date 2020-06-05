@@ -5,27 +5,27 @@ public class GumballMachineTestDrive {
         GumballMachine gumballMachine = new GumballMachine(5);
 
         System.out.println(gumballMachine);
-        gumballMachine.insertQuater();
+        gumballMachine.insertQuarter();
         gumballMachine.turnCrank();
 
         System.out.println(gumballMachine);
-        gumballMachine.insertQuater();
+        gumballMachine.insertQuarter();
         gumballMachine.turnCrank();
 
         System.out.println(gumballMachine);
-        gumballMachine.insertQuater();
+        gumballMachine.insertQuarter();
         gumballMachine.turnCrank();
-        gumballMachine.insertQuater();
+        gumballMachine.insertQuarter();
         gumballMachine.turnCrank();
         gumballMachine.ejectQuarter();
 
         System.out.println(gumballMachine);
-        gumballMachine.insertQuater();
-        gumballMachine.insertQuater();
+        gumballMachine.insertQuarter();
+        gumballMachine.insertQuarter();
         gumballMachine.turnCrank();
-        gumballMachine.insertQuater();
+        gumballMachine.insertQuarter();
         gumballMachine.turnCrank();
-        gumballMachine.insertQuater();
+        gumballMachine.insertQuarter();
         gumballMachine.turnCrank();
 
         System.out.println(gumballMachine);
