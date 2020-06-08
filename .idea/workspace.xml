@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="test">
-      <change afterPath="$PROJECT_DIR$/java/src/BallMachine/NoQuarterState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="NoQuarterState">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BallMachine/NoQuarterState.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BallMachine/NoQuarterState.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,14 +43,11 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Design_Patterns" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -61,7 +75,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -247,14 +261,8 @@
       <workItem from="1591370644124" duration="194000" />
       <workItem from="1591370898191" duration="70000" />
       <workItem from="1591372613671" duration="343000" />
-      <workItem from="1591600618186" duration="1206000" />
-    </task>
-    <task id="LOCAL-00043" summary="RemoteLoader finished.">
-      <created>1589550201526</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1589550201526</updated>
+      <workItem from="1591600618186" duration="2075000" />
+      <workItem from="1591609849125" duration="871000" />
     </task>
     <task id="LOCAL-00044" summary="pause">
       <created>1589552516597</created>
@@ -592,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591369304296</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="interface state">
+      <created>1591609106685</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1591609106686</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,8 +626,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CoffeeWithHook upgrade." />
-    <MESSAGE value="customerWantsCondiments() added + getUserInput()" />
     <MESSAGE value="TeaWithHook (upgrade)" />
     <MESSAGE value="App class added." />
     <MESSAGE value="move to laptop" />
@@ -636,13 +649,27 @@
     <MESSAGE value="MenuTestDrive update with cafeMenu." />
     <MESSAGE value="AlternatingDinerMenuIterator" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="interface state" />
+    <MESSAGE value="NoQuarterState" />
+    <option name="LAST_COMMIT_MESSAGE" value="NoQuarterState" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="188" y="104" key="SettingsEditor" timestamp="1591372656275">
+    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1591609210306">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="188" y="104" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591372656275" />
+    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1591609210306" />
+    <state x="188" y="104" width="1660" height="895" key="SettingsEditor" timestamp="1591609827952">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591609827952" />
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1591609110399">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591609110399" />
+    <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591609157086">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591609157086" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
