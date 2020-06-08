@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="NoQuarterState">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/BallMachine/NoQuarterState.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BallMachine/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BallMachine/SoldOutState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BallMachine/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BallMachine/GumballMachine.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -262,14 +262,7 @@
       <workItem from="1591370898191" duration="70000" />
       <workItem from="1591372613671" duration="343000" />
       <workItem from="1591600618186" duration="2075000" />
-      <workItem from="1591609849125" duration="871000" />
-    </task>
-    <task id="LOCAL-00044" summary="pause">
-      <created>1589552516597</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1589552516597</updated>
+      <workItem from="1591609849125" duration="1642000" />
     </task>
     <task id="LOCAL-00045" summary="testTurkey()">
       <created>1589984317981</created>
@@ -607,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591609106686</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="NoQuarterState">
+      <created>1591610728970</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1591610728971</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -662,14 +662,18 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591609827952" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1591609110399">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1591610732442">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591609110399" />
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591610732442" />
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591609157086">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591609157086" />
+    <state x="429" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1591610836275">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="429" y="244" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1591610836275" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
