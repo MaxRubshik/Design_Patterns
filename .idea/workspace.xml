@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="AlternatingDinerMenuIterator">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="test">
+      <change afterPath="$PROJECT_DIR$/java/src/BallMachine/NoQuarterState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/MenuItem/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/MenuItem/Waitress.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +44,13 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="orderPiz&#9;PSI&#9;JAVA://src.Pizza.Stores.PizzaStore#orderPizza" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -52,6 +58,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
@@ -62,18 +71,6 @@
       <recent name="src.Pizza.Ingredients" />
       <recent name="src.Pizza.Factory" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.MenuTestDrive">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -247,13 +244,10 @@
       <workItem from="1590647412073" duration="15330000" />
       <workItem from="1590751066976" duration="2982000" />
       <workItem from="1590992042042" duration="5992000" />
-    </task>
-    <task id="LOCAL-00042" summary="StereoOffWithCdCommand Added.">
-      <created>1589547791319</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1589547791319</updated>
+      <workItem from="1591370644124" duration="194000" />
+      <workItem from="1591370898191" duration="70000" />
+      <workItem from="1591372613671" duration="343000" />
+      <workItem from="1591600618186" duration="1206000" />
     </task>
     <task id="LOCAL-00043" summary="RemoteLoader finished.">
       <created>1589550201526</created>
@@ -591,27 +585,32 @@
       <option name="project" value="LOCAL" />
       <updated>1591005144603</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="test">
+      <created>1591369304295</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1591369304296</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Coffee upgrade." />
     <MESSAGE value="CoffeeWithHook upgrade." />
     <MESSAGE value="customerWantsCondiments() added + getUserInput()" />
     <MESSAGE value="TeaWithHook (upgrade)" />
@@ -636,7 +635,14 @@
     <MESSAGE value="Waitress update with cafeMenu." />
     <MESSAGE value="MenuTestDrive update with cafeMenu." />
     <MESSAGE value="AlternatingDinerMenuIterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="AlternatingDinerMenuIterator" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="188" y="104" key="SettingsEditor" timestamp="1591372656275">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="188" y="104" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591372656275" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -649,21 +655,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>14</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
