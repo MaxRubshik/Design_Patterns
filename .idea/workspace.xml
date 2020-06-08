@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="releaseBall() added. Getters and Setters added.">
-      <change afterPath="$PROJECT_DIR$/java/src/BallMachine/HasQuarterState.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="HasQuarterState">
+      <change afterPath="$PROJECT_DIR$/java/src/BallMachine/SoldState.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
@@ -262,14 +262,7 @@
       <workItem from="1591370898191" duration="70000" />
       <workItem from="1591372613671" duration="343000" />
       <workItem from="1591600618186" duration="2075000" />
-      <workItem from="1591609849125" duration="2816000" />
-    </task>
-    <task id="LOCAL-00047" summary="Iterator to Enum finished.">
-      <created>1590067452133</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1590067452133</updated>
+      <workItem from="1591609849125" duration="4392000" />
     </task>
     <task id="LOCAL-00048" summary="Palindrom task.">
       <created>1590071425523</created>
@@ -607,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591611739209</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="HasQuarterState">
+      <created>1591618261152</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1591618261152</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -626,7 +626,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="move to laptop" />
     <MESSAGE value="Duck class. compareTo()." />
     <MESSAGE value="DuckSortTestDrive class." />
     <MESSAGE value="MenuItem added." />
@@ -651,21 +650,22 @@
     <MESSAGE value="NoQuarterState" />
     <MESSAGE value="update constructor (classes) and methods." />
     <MESSAGE value="releaseBall() added. Getters and Setters added." />
-    <option name="LAST_COMMIT_MESSAGE" value="releaseBall() added. Getters and Setters added." />
+    <MESSAGE value="HasQuarterState" />
+    <option name="LAST_COMMIT_MESSAGE" value="HasQuarterState" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1591617966311">
+    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1591618906860">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1591617966311" />
+    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1591618906860" />
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor" timestamp="1591609827952">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591609827952" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1591611741963">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1591618263934">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591611741963" />
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591618263934" />
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591609157086">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
