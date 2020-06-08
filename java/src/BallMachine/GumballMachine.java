@@ -30,9 +30,61 @@ public class GumballMachine {
 
     public void turnCrank() {
         state.turnCrank();
+        state.dispense();
     }
 
-    private void dispense() {
-        state.dispense();
+    void releaseBall() {
+        System.out.println("A gumball comes rolling out the slot...");
+        if (count != 0) {
+            count--;
+        }
+    }
+
+    public State getSoldOutState() {
+        return soldOutState;
+    }
+
+    public void setSoldOutState(State soldOutState) {
+        this.soldOutState = soldOutState;
+    }
+
+    public State getNoQuarterState() {
+        return noQuarterState;
+    }
+
+    public State getHasQuarterState() {
+        return hasQuarterState;
+    }
+
+    public State getSoldState() {
+        return soldState;
+    }
+
+    public State getState() {
+        return state;
+    }
+
+    public int getCount() {
+        return count;
+    }
+
+    public void setNoQuarterState(State noQuarterState) {
+        this.noQuarterState = noQuarterState;
+    }
+
+    public void setHasQuarterState(State hasQuarterState) {
+        this.hasQuarterState = hasQuarterState;
+    }
+
+    public void setSoldState(State soldState) {
+        this.soldState = soldState;
+    }
+
+    public void setState(State state) {
+        this.state = state;
+    }
+
+    public void setCount(int count) {
+        this.count = count;
     }
 }
