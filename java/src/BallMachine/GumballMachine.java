@@ -92,4 +92,5 @@ public class GumballMachine {
     public void setCount(int count) {
         this.count = count;
     }
+
 }
