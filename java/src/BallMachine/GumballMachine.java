@@ -15,13 +15,19 @@ public class GumballMachine {
         noQuarterState = new NoQuarterState(this);
         hasQuarterState = new HasQuarterState(this);
         soldState = new SoldState(this);
+        winnerState = new WinnerState(this);
         this.count = numberGumBalls;
         if (numberGumBalls > 0) {
             state = noQuarterState;
         }
     }
 
-    public State getWinner(){
+    public void refill(int i) {
+        count = count + i;
+        System.out.println("Now there are: "+count+" balls");
+    }
+
+    public State getWinnerState() {
         return winnerState;
     }
 
@@ -92,4 +98,5 @@ public class GumballMachine {
     public void setCount(int count) {
         this.count = count;
     }
+
 }
