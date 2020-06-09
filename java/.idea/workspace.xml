@@ -28,8 +28,8 @@
       <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="404">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding>
                 <element signature="e#620#621#0" expanded="true" />
                 <element signature="e#649#650#0" expanded="true" />
@@ -748,10 +748,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171096000" />
+    <option name="totallyTimeSpent" value="171438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1029" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32996207" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -869,6 +870,12 @@
                     </value>
                   </entry>
                 </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
               </option>
               <option name="COLUMN_ORDER">
                 <list>
@@ -1281,8 +1288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="404">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding>
             <element signature="e#620#621#0" expanded="true" />
             <element signature="e#649#650#0" expanded="true" />
