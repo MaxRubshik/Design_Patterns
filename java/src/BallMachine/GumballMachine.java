@@ -24,6 +24,7 @@ public class GumballMachine {
 
     public void refill(int i) {
         count = count + i;
+        state = noQuarterState;
         System.out.println("Now there are: "+count+" balls");
     }
 
