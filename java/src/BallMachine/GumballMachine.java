@@ -22,7 +22,12 @@ public class GumballMachine {
         }
     }
 
-    public State getWinnerState(){
+    public void refill(int i) {
+        count = count + i;
+        System.out.println("Now there are: "+count+" balls");
+    }
+
+    public State getWinnerState() {
         return winnerState;
     }
 
