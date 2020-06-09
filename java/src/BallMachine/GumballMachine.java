@@ -15,6 +15,7 @@ public class GumballMachine {
         noQuarterState = new NoQuarterState(this);
         hasQuarterState = new HasQuarterState(this);
         soldState = new SoldState(this);
+        winnerState = new WinnerState(this);
         this.count = numberGumBalls;
         if (numberGumBalls > 0) {
             state = noQuarterState;
