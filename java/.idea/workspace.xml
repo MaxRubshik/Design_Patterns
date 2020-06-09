@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="" />
+    <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BallMachine/WinnerState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="336">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="e#620#621#0" expanded="true" />
                 <element signature="e#649#650#0" expanded="true" />
@@ -62,6 +65,37 @@
                 <element signature="e#1906#1907#0" expanded="true" />
                 <element signature="e#1940#1941#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WinnerState.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BallMachine/WinnerState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoldState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BallMachine/SoldState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="23" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HasQuarterState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BallMachine/HasQuarterState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -108,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Singleton/Singleton3.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl2/RemoteControl.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/StereoWithCDComand.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/Light.java" />
@@ -159,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/BallMachine/Coin.java" />
         <option value="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" />
         <option value="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/WinnerState.java" />
       </list>
     </option>
   </component>
@@ -172,6 +206,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-299" />
     <option name="y" value="23" />
     <option name="width" value="1029" />
     <option name="height" value="877" />
@@ -748,10 +783,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171438000" />
+    <option name="totallyTimeSpent" value="172641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1029" height="877" extended-state="0" />
+    <frame x="-299" y="23" width="1029" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32996207" />
@@ -764,11 +799,11 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.7977528" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3732834" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3732834" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2674772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2674772" />
       <window_info anchor="right" id="Database" order="7" weight="0.32996207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -954,27 +989,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/CeilingFanOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/GarageDoorUpCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/NoCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoteControl/StereoOnWithCDComand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1272,13 +1286,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BallMachine/State.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1286,10 +1293,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="336">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
             <element signature="e#620#621#0" expanded="true" />
             <element signature="e#649#650#0" expanded="true" />
@@ -1321,6 +1349,17 @@
             <element signature="e#1867#1868#0" expanded="true" />
             <element signature="e#1906#1907#0" expanded="true" />
             <element signature="e#1940#1941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/WinnerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
           </folding>
         </state>
       </provider>
