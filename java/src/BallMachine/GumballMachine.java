@@ -21,7 +21,7 @@ public class GumballMachine {
         }
     }
 
-    public State getWinner(){
+    public State getWinnerState(){
         return winnerState;
     }
 
