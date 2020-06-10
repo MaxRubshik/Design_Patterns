@@ -111,13 +111,8 @@ public class GumballMachine {
 
     @Override
     public String toString() {
-        StringBuffer result = new StringBuffer();
-        result.append("\nGUMBALL Inc.");
-        result.append("\nInventory: " + count + " gumball.");
-        if (count != 1) {
-            result.append("s");
-        }
-        result.append("\nMachine is: " + state + "\n");
-        return result.toString();
+        StringBuffer sb = new StringBuffer();
+        sb.append(state);
+        return sb.toString();
     }
 }

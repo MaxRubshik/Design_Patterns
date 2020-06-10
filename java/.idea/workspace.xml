@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="">
+    <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="toString update.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java/src/BallMachine/GumballMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/src/BallMachine/GumballMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/src/BallMachine/GumballMachineTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/src/BallMachine/GumballMachineTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/src/BallMachine/GumballMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/src/BallMachine/GumballMonitor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BallMachine/GumballMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BallMachine/GumballMonitor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="283">
+              <caret line="115" column="29" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
               <folding>
                 <element signature="e#817#818#0" expanded="true" />
                 <element signature="e#848#849#0" expanded="true" />
@@ -74,20 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BallMachine/State.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="285">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -95,11 +86,24 @@
       <file leaf-file-name="GumballMonitor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMonitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="126">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
                 <element signature="e#149#150#0" expanded="true" />
                 <element signature="e#201#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="235" column="8" lean-forward="true" selection-start-line="235" selection-start-column="8" selection-end-line="235" selection-end-column="35" />
+              <folding>
+                <element signature="e#10065#10066#0" expanded="true" />
+                <element signature="e#10148#10149#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RemoteControl/GarageDoor.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/Stereo.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/Command.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/LightOnCommand.java" />
@@ -177,8 +180,9 @@
         <option value="$PROJECT_DIR$/src/BallMachine/WinnerState.java" />
         <option value="$PROJECT_DIR$/src/BallMachine/HasQuarterState.java" />
         <option value="$PROJECT_DIR$/src/BallMachine/NoQuarterState.java" />
-        <option value="$PROJECT_DIR$/src/BallMachine/GumballMonitor.java" />
         <option value="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/State.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/GumballMonitor.java" />
         <option value="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" />
       </list>
     </option>
@@ -193,10 +197,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
+    <option name="x" value="-8" />
     <option name="y" value="23" />
-    <option name="width" value="1064" />
-    <option name="height" value="1027" />
+    <option name="width" value="1050" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -422,20 +426,6 @@
       <workItem from="1591099848143" duration="8634000" />
       <workItem from="1591192903127" duration="7409000" />
       <workItem from="1591340071889" duration="2188000" />
-    </task>
-    <task id="LOCAL-00064" summary="refactor">
-      <created>1589623988198</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1589623988198</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Ceiling fan. Upgrades.">
-      <created>1589625558696</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1589625558696</updated>
     </task>
     <task id="LOCAL-00066" summary="CeilingFanHighCommand added.">
       <created>1589626849465</created>
@@ -766,14 +756,28 @@
       <option name="project" value="LOCAL" />
       <updated>1591782586684</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="TestDrive with Monitor report.">
+      <created>1591789755668</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1591789755669</updated>
+    </task>
+    <task id="LOCAL-00114" summary="toString update.">
+      <created>1591790178441</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1591790178441</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182066000" />
+    <option name="totallyTimeSpent" value="184132000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="23" width="1064" height="1027" extended-state="0" />
+    <frame x="-8" y="23" width="1050" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32996207" />
@@ -786,12 +790,12 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34805468" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3732834" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41323346" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.37223974" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25831702" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
       <window_info anchor="right" id="Database" order="7" weight="0.32996207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -917,8 +921,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="move to laptop" />
-    <MESSAGE value="MenuComponent" />
     <MESSAGE value="MenuItem" />
     <MESSAGE value="Menuu. Combined node." />
     <MESSAGE value="print() update with iterator." />
@@ -942,7 +944,9 @@
     <MESSAGE value="refill() added." />
     <MESSAGE value="refill() improved." />
     <MESSAGE value="GumballMonitor. gps and state monitoring." />
-    <option name="LAST_COMMIT_MESSAGE" value="GumballMonitor. gps and state monitoring." />
+    <MESSAGE value="TestDrive with Monitor report." />
+    <MESSAGE value="toString update." />
+    <option name="LAST_COMMIT_MESSAGE" value="toString update." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -972,17 +976,10 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/CeilingFanMediumCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoteControl/CeilingFanHighCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1299,17 +1296,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="235" column="8" lean-forward="true" selection-start-line="235" selection-start-column="8" selection-end-line="235" selection-end-column="35" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BallMachine/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state relative-caret-position="108">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMonitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="126">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#201#202#0" expanded="true" />
@@ -1317,10 +1325,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="283">
+          <caret line="115" column="29" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
           <folding>
             <element signature="e#817#818#0" expanded="true" />
             <element signature="e#848#849#0" expanded="true" />
@@ -1355,13 +1370,6 @@
             <element signature="e#2055#2056#0" expanded="true" />
             <element signature="e#2089#2090#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
