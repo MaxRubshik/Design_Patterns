@@ -6,9 +6,15 @@ public class GumballMachine {
     State hasQuarterState;
     State soldState;
     State winnerState;
-
     State state = soldOutState;
+
+    String location;
     int count = 0;
+
+    public GumballMachine(String location, int count) {
+        this.location = location;
+        this.count = count;
+    }
 
     public GumballMachine(int numberGumBalls) {
         soldOutState = new SoldOutState(this);
@@ -22,10 +28,14 @@ public class GumballMachine {
         }
     }
 
+    public String getLocation() {
+        return location;
+    }
+
     public void refill(int i) {
         count = count + i;
         state = noQuarterState;
-        System.out.println("Now there are: "+count+" balls");
+        System.out.println("Now there are: " + count + " balls");
     }
 
     public State getWinnerState() {
