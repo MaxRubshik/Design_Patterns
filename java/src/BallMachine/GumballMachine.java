@@ -1,5 +1,7 @@
 package src.BallMachine;
 
+import java.rmi.RemoteException;
+
 public class GumballMachine {
     State soldOutState;
     State noQuarterState;
@@ -11,17 +13,14 @@ public class GumballMachine {
     String location;
     int count = 0;
 
-    public GumballMachine(String location, int count) {
+    public GumballMachine(String location, int numberGumBalls) throws RemoteException {
         this.location = location;
-        this.count = count;
-    }
-
-    public GumballMachine(int numberGumBalls) {
         soldOutState = new SoldOutState(this);
         noQuarterState = new NoQuarterState(this);
         hasQuarterState = new HasQuarterState(this);
         soldState = new SoldState(this);
         winnerState = new WinnerState(this);
+
         this.count = numberGumBalls;
         if (numberGumBalls > 0) {
             state = noQuarterState;
