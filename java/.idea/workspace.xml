@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Remote/MyRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remote/MyRemoteImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +29,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyRemote.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyRemote.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Remote/MyRemote.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyRemoteImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Remote/MyRemoteImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,8 +59,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RemoteControl/Command.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/LightOnCommand.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/LightOffCommand.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/RemoteControlWithUndo.java" />
@@ -115,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/BallMachine/GumballMonitor.java" />
         <option value="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" />
         <option value="$PROJECT_DIR$/src/Remote/MyRemote.java" />
+        <option value="$PROJECT_DIR$/src/Remote/MyRemoteImpl.java" />
       </list>
     </option>
   </component>
@@ -128,7 +141,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-329" />
+    <option name="x" value="32" />
     <option name="y" value="23" />
     <option name="width" value="1050" />
     <option name="height" value="877" />
@@ -357,14 +370,7 @@
       <workItem from="1591099848143" duration="8634000" />
       <workItem from="1591192903127" duration="7409000" />
       <workItem from="1591340071889" duration="2188000" />
-      <workItem from="1591880169534" duration="1083000" />
-    </task>
-    <task id="LOCAL-00067" summary="CeilingFanMediumCommand added.">
-      <created>1589872941686</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1589872941686</updated>
+      <workItem from="1591880169534" duration="1630000" />
     </task>
     <task id="LOCAL-00068" summary="Запутался с разновидностями Ceil">
       <created>1589875375784</created>
@@ -702,14 +708,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591791915389</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="MyRemote interface.">
+      <created>1591886891326</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1591886891328</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185243000" />
+    <option name="totallyTimeSpent" value="185790000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-329" y="23" width="1050" height="877" extended-state="0" />
+    <frame x="32" y="23" width="1050" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32996207" />
@@ -722,12 +735,12 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3732834" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3732834" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.7977528" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30555555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30555555" />
       <window_info anchor="right" id="Database" order="7" weight="0.32996207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -831,7 +844,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Menuu. Combined node." />
     <MESSAGE value="print() update with iterator." />
     <MESSAGE value="Waitress upgrade." />
     <MESSAGE value="testDrive" />
@@ -856,7 +868,8 @@
     <MESSAGE value="TestDrive with Monitor report." />
     <MESSAGE value="toString update." />
     <MESSAGE value="imac" />
-    <option name="LAST_COMMIT_MESSAGE" value="imac" />
+    <MESSAGE value="MyRemote interface." />
+    <option name="LAST_COMMIT_MESSAGE" value="MyRemote interface." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -890,13 +903,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoteControl/CeilingFanOffCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1242,6 +1248,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Remote/MyRemoteImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
