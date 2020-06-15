@@ -19,18 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="GumballMachine update">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="GumballMonitor update with rmi.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/BallMachine/GumballMachineTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BallMachine/GumballMachineTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/BallMachine/GumballMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BallMachine/GumballMonitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachine.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineTestDrive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/HasQuarterState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/HasQuarterState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/NoQuarterState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/NoQuarterState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldOutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldOutState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/State.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/WinnerState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/WinnerState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMonitor.class" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -274,14 +267,7 @@
       <workItem from="1591609849125" duration="7555000" />
       <workItem from="1591636161904" duration="198000" />
       <workItem from="1591792130343" duration="793000" />
-      <workItem from="1592204370071" duration="7137000" />
-    </task>
-    <task id="LOCAL-00056" summary="Car pkg.">
-      <created>1590156847835</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1590156847835</updated>
+      <workItem from="1592204370071" duration="8654000" />
     </task>
     <task id="LOCAL-00057" summary="calculateAndPrint() process.">
       <created>1590182447176</created>
@@ -619,7 +605,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592222385285</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="GumballMonitor update with rmi.">
+      <created>1592223883873</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1592223883873</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +631,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DinerMenu createIterator()" />
     <MESSAGE value="PancakeMenuIterator" />
     <MESSAGE value="Waitress upgrade." />
     <MESSAGE value="Waitress upgrade with Menu interface." />
@@ -663,37 +655,38 @@
     <MESSAGE value="State update" />
     <MESSAGE value="transient added" />
     <MESSAGE value="GumballMachine update" />
-    <option name="LAST_COMMIT_MESSAGE" value="GumballMachine update" />
+    <MESSAGE value="GumballMonitor update with rmi." />
+    <option name="LAST_COMMIT_MESSAGE" value="GumballMonitor update with rmi." />
   </component>
   <component name="WindowStateProjectService">
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1591620149571">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1591620149571" />
-    <state width="937" height="290" key="GridCell.Tab.0.bottom" timestamp="1592223052206">
+    <state width="937" height="290" key="GridCell.Tab.0.bottom" timestamp="1592224681370">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="937" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1592223052206" />
-    <state width="937" height="290" key="GridCell.Tab.0.center" timestamp="1592223052205">
+    <state width="937" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1592224681370" />
+    <state width="937" height="290" key="GridCell.Tab.0.center" timestamp="1592224681369">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="937" height="290" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1592223052205" />
-    <state width="937" height="290" key="GridCell.Tab.0.left" timestamp="1592223052204">
+    <state width="937" height="290" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1592224681369" />
+    <state width="937" height="290" key="GridCell.Tab.0.left" timestamp="1592224681369">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="937" height="290" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1592223052204" />
-    <state width="937" height="290" key="GridCell.Tab.0.right" timestamp="1592223052205">
+    <state width="937" height="290" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1592224681369" />
+    <state width="937" height="290" key="GridCell.Tab.0.right" timestamp="1592224681370">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="937" height="290" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1592223052205" />
+    <state width="937" height="290" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1592224681370" />
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor" timestamp="1591609827952">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591609827952" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592222389058">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592223886822">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592222389058" />
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592223886822" />
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204548640">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>

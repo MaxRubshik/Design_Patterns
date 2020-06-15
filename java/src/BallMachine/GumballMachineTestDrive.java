@@ -1,39 +1,27 @@
 package src.BallMachine;
 
 import java.rmi.Naming;
-import java.rmi.RemoteException;
 
 public class GumballMachineTestDrive {
-    public static void main(String[] args) throws RemoteException {
+    public static void main(String[] args) {
+        String[] location = {"rmi://santafe.mightygumball.com/gumballmachine",
+                "rmi://boulder.mightygumball.com/gumballmachine",
+                "rmi://seattle.mightygumball.com/gumballmachine"};
 
-//        GumballMachine gumballMachine = new GumballMachine("Boston", 5);
-//        System.out.println(gumballMachine);
-//
-//
-//        GumballMonitor monitor = new GumballMonitor(gumballMachine);
-//        monitor.report();
-//        System.out.println();
-//
-//        gumballMachine.insertQuarter();
-//        monitor.report();
-//        System.out.println();
-//
-//        gumballMachine.turnCrank();
-//        monitor.report();
+        GumballMonitor[] monitor = new GumballMonitor[location.length];
 
-        GumballMachineRemote gumballMachine = null;
-        int count;
-        if (args.length < 2) {
-            System.out.println("GumballMachine <name> <inventory>");
-            System.exit(1);
+        for (int i = 0; i < location.length; i++) {
+            try {
+                GumballMachineRemote machine =
+                        (GumballMachineRemote) Naming.lookup(location[i]);
+                monitor[i] = new GumballMonitor(machine);
+                System.out.println(monitor[i]);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
-
-        try {
-            count = Integer.parseInt(args[1]);
-            gumballMachine = new GumballMachine(args[0], count);
-            Naming.rebind("//" + args[0] + "/gumballmachine", gumballMachine);
-        } catch (Exception e) {
-            e.printStackTrace();
+        for (int i = 0; i < monitor.length; i++) {
+            monitor[i].report();
         }
     }
 }
