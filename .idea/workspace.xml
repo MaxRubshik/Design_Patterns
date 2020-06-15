@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="SoldState">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="SoldOutState">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/BallMachine/SoldOutState.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BallMachine/SoldOutState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Remote/MyRemoteImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Remote/MyRemoteImpl.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -262,14 +262,10 @@
       <workItem from="1591370898191" duration="70000" />
       <workItem from="1591372613671" duration="343000" />
       <workItem from="1591600618186" duration="2075000" />
-      <workItem from="1591609849125" duration="6181000" />
-    </task>
-    <task id="LOCAL-00049" summary="Phibonacci">
-      <created>1590080114310</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1590080114310</updated>
+      <workItem from="1591609849125" duration="7555000" />
+      <workItem from="1591636161904" duration="198000" />
+      <workItem from="1591792130343" duration="793000" />
+      <workItem from="1592204370071" duration="2880000" />
     </task>
     <task id="LOCAL-00050" summary="HomeTheater">
       <created>1590138845576</created>
@@ -607,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591619921073</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="SoldOutState">
+      <created>1591622065861</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1591622065861</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -626,7 +629,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DuckSortTestDrive class." />
     <MESSAGE value="MenuItem added." />
     <MESSAGE value="PanCakeHouseMenu added." />
     <MESSAGE value="DinerMenu added." />
@@ -651,7 +653,8 @@
     <MESSAGE value="releaseBall() added. Getters and Setters added." />
     <MESSAGE value="HasQuarterState" />
     <MESSAGE value="SoldState" />
-    <option name="LAST_COMMIT_MESSAGE" value="SoldState" />
+    <MESSAGE value="SoldOutState" />
+    <option name="LAST_COMMIT_MESSAGE" value="SoldOutState" />
   </component>
   <component name="WindowStateProjectService">
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1591620149571">
@@ -662,14 +665,14 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591609827952" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1591619925406">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1591622068768">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591619925406" />
-    <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591609157086">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591622068768" />
+    <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204548640">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057@0.23.1920.1057" timestamp="1591609157086" />
+    <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592204548640" />
     <state x="429" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1591610836275">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
