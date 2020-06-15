@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="" />
+    <list default="true" id="b69ed929-5120-4c57-a248-767d42f7916e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,29 +27,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MenuItem/Iterator.java">
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="119">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DinerMenuIterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MenuItem/DinerMenuIterator.java">
+      <file leaf-file-name="GumballMonitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMonitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state>
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Waitress.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MenuItem/Waitress.java">
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state>
+              <caret line="235" column="8" selection-start-line="235" selection-start-column="8" selection-end-line="235" selection-end-column="35" />
+              <folding>
+                <element signature="e#10065#10066#0" expanded="true" />
+                <element signature="e#10148#10149#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,30 +71,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Pizza/PizzaVersions/VeggiePizza.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Stores/ChicagoPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Stores/NYPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/PizzaVersions/CheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Stores/CaliPizzaFactory.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Factory/CaliPizzaFactory.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Stores/CaliPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/App.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/PizzaVersions/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Ingredients/BBQSauce.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Ingredients/MMs.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Ingredients/Sweets.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Ingredients/Nuts.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Factory/CaliPizzaIngredientFactory.java" />
-        <option value="$PROJECT_DIR$/src/Singleton/Singleton3.java" />
-        <option value="$PROJECT_DIR$/src/RemoteControl2/RemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/RemoteControl/StereoWithCDComand.java" />
-        <option value="$PROJECT_DIR$/src/RemoteControl/Light.java" />
-        <option value="$PROJECT_DIR$/src/RemoteControl/GarageDoor.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/Stereo.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/Command.java" />
         <option value="$PROJECT_DIR$/src/RemoteControl/LightOnCommand.java" />
@@ -120,6 +113,26 @@
         <option value="$PROJECT_DIR$/src/sort/JFrame.java" />
         <option value="$PROJECT_DIR$/src/sort/MyJFrame.java" />
         <option value="$PROJECT_DIR$/src/sort/MyApplet.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/DinerMenuIterator.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/DinerMenu.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/PancakeHouseMenu.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/MenuTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/Menu.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/CafeMenu.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/Menuuu.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/CompositeIterator.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/NullIterator.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/MenuComponent.java" />
+        <option value="$PROJECT_DIR$/src/MenuItem/Waitress.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/Coin.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/WinnerState.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/HasQuarterState.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/NoQuarterState.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/State.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/GumballMonitor.java" />
+        <option value="$PROJECT_DIR$/src/BallMachine/GumballMachine.java" />
       </list>
     </option>
   </component>
@@ -133,8 +146,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-335" />
     <option name="y" value="23" />
-    <option name="width" value="854" />
+    <option name="width" value="1050" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -145,7 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,12 +175,13 @@
               <item name="Desigh_Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MenuItem" type="462c0819:PsiDirectoryNode" />
+              <item name="BallMachine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -175,6 +189,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -182,7 +197,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -191,124 +206,6 @@
       <recent name="src.Pizza.Stores" />
       <recent name="src.Pizza" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/sort/MyApplet.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/MenuItem/DinerMenu.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/MenuItem/DinerMenuIterator.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/MenuItem/Iterator.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/MenuItem/MenuItem.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/MenuItem/PancakeHouseMenu.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/MenuItem/PancakeMenuIterator.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/MenuItem/Waitress.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -322,14 +219,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MenuTestDrive">
-    <configuration name="DuckTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.DuckPond3.DuckTestDrive" />
+  <component name="RunManager" selected="Application.GumballMachineTestDrive">
+    <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.BallMachine.GumballMachineTestDrive" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.DuckPond3.*" />
+          <option name="PATTERN" value="src.BallMachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,19 +317,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DuckTestDrive" />
       <item itemvalue="Application.IteratorTest" />
       <item itemvalue="Application.Sort" />
       <item itemvalue="Application.MyJFrame" />
       <item itemvalue="Application.MenuTestDrive" />
+      <item itemvalue="Application.GumballMachineTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GumballMachineTestDrive" />
         <item itemvalue="Application.MenuTestDrive" />
         <item itemvalue="Application.MyJFrame" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.IteratorTest" />
-        <item itemvalue="Application.DuckTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -474,245 +371,11 @@
       <workItem from="1590087591289" duration="150000" />
       <workItem from="1590238995277" duration="3000" />
       <workItem from="1590564381077" duration="4939000" />
-      <workItem from="1590733462556" duration="893000" />
-    </task>
-    <task id="LOCAL-00033" summary="Decorator. New conception.">
-      <created>1587550409119</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1587550409119</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Cost and constructors added to all sub classes.">
-      <created>1587566957343</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1587566957343</updated>
-    </task>
-    <task id="LOCAL-00035" summary="move to mac">
-      <created>1587570727604</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1587570727604</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Add cost methods.">
-      <created>1587800908769</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1587800908769</updated>
-    </task>
-    <task id="LOCAL-00037" summary="InputStream App.">
-      <created>1587913982319</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1587913982319</updated>
-    </task>
-    <task id="LOCAL-00038" summary="InputStream App. Update.">
-      <created>1587916723336</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1587916723336</updated>
-    </task>
-    <task id="LOCAL-00039" summary="To lowerCase App finished.">
-      <created>1587972741717</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1587972741717</updated>
-    </task>
-    <task id="LOCAL-00040" summary="move to mac">
-      <created>1587976911867</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1587976911867</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Enum class Size added.">
-      <created>1587981589652</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1587981589652</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Cost sizes methods added.">
-      <created>1587988146782</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1587988146782</updated>
-    </task>
-    <task id="LOCAL-00043" summary="GetDescription() updated.">
-      <created>1587992569930</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1587992569930</updated>
-    </task>
-    <task id="LOCAL-00044" summary="GetDescription() updated.">
-      <created>1587993809641</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1587993809641</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Pizza class.">
-      <created>1588006014130</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1588006014130</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Pizza in process.">
-      <created>1588008839651</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1588008839651</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Pizza added versions of pizza.">
-      <created>1588058831436</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1588058831436</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Developer factory. Finished.">
-      <created>1588088858191</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1588088858191</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Pizza class update.">
-      <created>1588141261090</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1588141261090</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Each pizza class update.">
-      <created>1588142552826</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1588142552827</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Each pizza store class update.">
-      <created>1588150175065</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1588150175065</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Pizza app finished.">
-      <created>1588153095961</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1588153095961</updated>
-    </task>
-    <task id="LOCAL-00053" summary="условная блокировка">
-      <created>1588859252428</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1588859252431</updated>
-    </task>
-    <task id="LOCAL-00054" summary="RemoteControl started.">
-      <created>1589534042041</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1589534042042</updated>
-    </task>
-    <task id="LOCAL-00055" summary="RemoteControl toString.">
-      <created>1589535013072</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1589535013072</updated>
-    </task>
-    <task id="LOCAL-00056" summary="NoCommand Added.">
-      <created>1589535735786</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1589535735786</updated>
-    </task>
-    <task id="LOCAL-00057" summary="LightOffCommand added.">
-      <created>1589536042250</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1589536042250</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Stereo added.">
-      <created>1589542670465</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1589542670465</updated>
-    </task>
-    <task id="LOCAL-00059" summary="OnWithCDCommand finished.">
-      <created>1589543250559</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1589543250559</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Ceiling fan added.">
-      <created>1589544070381</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1589544070382</updated>
-    </task>
-    <task id="LOCAL-00061" summary="CeilingFanOnCommand added.">
-      <created>1589545477976</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1589545477976</updated>
-    </task>
-    <task id="LOCAL-00062" summary="undoButtonWasPushed added.">
-      <created>1589618022311</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1589618022312</updated>
-    </task>
-    <task id="LOCAL-00063" summary="undoButtonWasPushed added to all classes.">
-      <created>1589623627591</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1589623627591</updated>
-    </task>
-    <task id="LOCAL-00064" summary="refactor">
-      <created>1589623988198</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1589623988198</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Ceiling fan. Upgrades.">
-      <created>1589625558696</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1589625558696</updated>
-    </task>
-    <task id="LOCAL-00066" summary="CeilingFanHighCommand added.">
-      <created>1589626849465</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1589626849465</updated>
+      <workItem from="1590733462556" duration="5376000" />
+      <workItem from="1591099848143" duration="8634000" />
+      <workItem from="1591192903127" duration="7409000" />
+      <workItem from="1591340071889" duration="2188000" />
+      <workItem from="1591880169534" duration="742000" />
     </task>
     <task id="LOCAL-00067" summary="CeilingFanMediumCommand added.">
       <created>1589872941686</created>
@@ -819,14 +482,252 @@
       <option name="project" value="LOCAL" />
       <updated>1590580363387</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="MenuTestDrive added.">
+      <created>1590735013903</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1590735013903</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Refactor. Delete unused.">
+      <created>1590735278183</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1590735278183</updated>
+    </task>
+    <task id="LOCAL-00084" summary="delete PancakeHouseIterator to standard java util Iterator">
+      <created>1590737102860</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1590737102860</updated>
+    </task>
+    <task id="LOCAL-00085" summary="remove() added.">
+      <created>1590740526294</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1590740526294</updated>
+    </task>
+    <task id="LOCAL-00086" summary="DinerMenu upgrade.">
+      <created>1590742163254</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1590742163254</updated>
+    </task>
+    <task id="LOCAL-00087" summary="move to laptop">
+      <created>1590750684341</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1590750684341</updated>
+    </task>
+    <task id="LOCAL-00088" summary="MenuComponent">
+      <created>1591172739815</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1591172739817</updated>
+    </task>
+    <task id="LOCAL-00089" summary="MenuItem">
+      <created>1591176922294</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1591176922294</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Menuu. Combined node.">
+      <created>1591178143931</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1591178143931</updated>
+    </task>
+    <task id="LOCAL-00091" summary="print() update with iterator.">
+      <created>1591178598179</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1591178598179</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Waitress upgrade.">
+      <created>1591178942238</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1591178942238</updated>
+    </task>
+    <task id="LOCAL-00093" summary="testDrive">
+      <created>1591181641052</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1591181641052</updated>
+    </task>
+    <task id="LOCAL-00094" summary="MenuItem update with CompositeIterator">
+      <created>1591187533995</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1591187533995</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Menuuu upadate Iterator">
+      <created>1591187715515</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1591187715516</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Composite Iterator">
+      <created>1591195735602</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1591195735603</updated>
+    </task>
+    <task id="LOCAL-00097" summary="NullIterator">
+      <created>1591258384566</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1591258384566</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Waitress update with Vegetarian">
+      <created>1591260960467</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1591260960467</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Waitress update">
+      <created>1591261092990</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1591261092990</updated>
+    </task>
+    <task id="LOCAL-00100" summary="GumballMachine.">
+      <created>1591283181351</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1591283181351</updated>
+    </task>
+    <task id="LOCAL-00101" summary="turnCrank()">
+      <created>1591341578505</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1591341578506</updated>
+    </task>
+    <task id="LOCAL-00102" summary="dispense()">
+      <created>1591341831810</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1591341831810</updated>
+    </task>
+    <task id="LOCAL-00103" summary="GumballMachineTestDrive">
+      <created>1591345182139</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1591345182139</updated>
+    </task>
+    <task id="LOCAL-00104" summary="GumballMachineTestDrive">
+      <created>1591685733876</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1591685733876</updated>
+    </task>
+    <task id="LOCAL-00105" summary="winnerState added to GumballMachine.">
+      <created>1591690318739</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1591690318739</updated>
+    </task>
+    <task id="LOCAL-00106" summary="WinnerState class added.">
+      <created>1591692350906</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1591692350906</updated>
+    </task>
+    <task id="LOCAL-00107" summary="HasQuarterState update with winner.">
+      <created>1591692905449</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1591692905450</updated>
+    </task>
+    <task id="LOCAL-00108" summary="bug delete.">
+      <created>1591694476019</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1591694476019</updated>
+    </task>
+    <task id="LOCAL-00109" summary="bug fix (winner)">
+      <created>1591695008832</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1591695008832</updated>
+    </task>
+    <task id="LOCAL-00110" summary="refill() added.">
+      <created>1591706513069</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1591706513069</updated>
+    </task>
+    <task id="LOCAL-00111" summary="refill() improved.">
+      <created>1591709111656</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1591709111656</updated>
+    </task>
+    <task id="LOCAL-00112" summary="GumballMonitor. gps and state monitoring.">
+      <created>1591782586684</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1591782586684</updated>
+    </task>
+    <task id="LOCAL-00113" summary="TestDrive with Monitor report.">
+      <created>1591789755668</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1591789755669</updated>
+    </task>
+    <task id="LOCAL-00114" summary="toString update.">
+      <created>1591790178441</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1591790178441</updated>
+    </task>
+    <task id="LOCAL-00115" summary="imac">
+      <created>1591791915388</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1591791915389</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147056000" />
+    <option name="totallyTimeSpent" value="184902000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-55" y="23" width="854" height="877" extended-state="0" />
+    <frame x="-335" y="23" width="1050" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32996207" />
@@ -838,12 +739,12 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32709113" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31710362" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3732834" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7977528" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23399015" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30555555" />
       <window_info anchor="right" id="Database" order="7" weight="0.32996207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -856,8 +757,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32833958" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833958" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32709113" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -869,11 +770,27 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="me" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
               </option>
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </option>
+                  </UserGroup>
                   <UserGroup>
                     <option name="users">
                       <list>
@@ -902,19 +819,17 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="MyVersion" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="date">
-                    <value>
-                      <list>
-                        <option value="1589540885113" />
-                        <option value="" />
+                        <option value="origin/HEAD2" />
                       </list>
                     </value>
                   </entry>
                 </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
               </option>
               <option name="COLUMN_ORDER">
                 <list>
@@ -934,32 +849,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="NoCommand Added." />
-    <MESSAGE value="LightOffCommand added." />
-    <MESSAGE value="Stereo added." />
-    <MESSAGE value="OnWithCDCommand finished." />
-    <MESSAGE value="Ceiling fan added." />
-    <MESSAGE value="CeilingFanOnCommand added." />
-    <MESSAGE value="undoButtonWasPushed added." />
-    <MESSAGE value="undoButtonWasPushed added to all classes." />
-    <MESSAGE value="refactor" />
-    <MESSAGE value="Ceiling fan. Upgrades." />
-    <MESSAGE value="CeilingFanHighCommand added." />
-    <MESSAGE value="CeilingFanMediumCommand added." />
-    <MESSAGE value="Запутался с разновидностями Ceil" />
-    <MESSAGE value="MacroCommand added." />
-    <MESSAGE value="RemoteLoader finished." />
-    <MESSAGE value="DuckPond3" />
-    <MESSAGE value="turkey adapter" />
-    <MESSAGE value="move to mac" />
-    <MESSAGE value="Iterator from Iterator to Enumeration" />
-    <MESSAGE value="need to clear" />
-    <MESSAGE value="move to imac" />
-    <MESSAGE value="mergeSort" />
-    <MESSAGE value="mergeSort() and sort()" />
-    <MESSAGE value="MyJFrame" />
-    <MESSAGE value="Applet started" />
-    <option name="LAST_COMMIT_MESSAGE" value="Applet started" />
+    <MESSAGE value="Menuu. Combined node." />
+    <MESSAGE value="print() update with iterator." />
+    <MESSAGE value="Waitress upgrade." />
+    <MESSAGE value="testDrive" />
+    <MESSAGE value="MenuItem update with CompositeIterator" />
+    <MESSAGE value="Menuuu upadate Iterator" />
+    <MESSAGE value="Composite Iterator" />
+    <MESSAGE value="NullIterator" />
+    <MESSAGE value="Waitress update with Vegetarian" />
+    <MESSAGE value="Waitress update" />
+    <MESSAGE value="GumballMachine." />
+    <MESSAGE value="turnCrank()" />
+    <MESSAGE value="dispense()" />
+    <MESSAGE value="GumballMachineTestDrive" />
+    <MESSAGE value="winnerState added to GumballMachine." />
+    <MESSAGE value="WinnerState class added." />
+    <MESSAGE value="HasQuarterState update with winner." />
+    <MESSAGE value="bug delete." />
+    <MESSAGE value="bug fix (winner)" />
+    <MESSAGE value="refill() added." />
+    <MESSAGE value="refill() improved." />
+    <MESSAGE value="GumballMonitor. gps and state monitoring." />
+    <MESSAGE value="TestDrive with Monitor report." />
+    <MESSAGE value="toString update." />
+    <MESSAGE value="imac" />
+    <option name="LAST_COMMIT_MESSAGE" value="imac" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -989,208 +904,10 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="31" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Pizza/Factory/PizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pizza/Factory/NYPizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pizza/Factory/ChicagoPizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pizza/Stores/CaliPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/GarageDoorOpenComand.java" />
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/SimpleRemoteControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/Stereo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/src.RemoteControl">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>src.RemoteControl</OriginalElement>
-          <nodes>
-            <node x="" y="">src.RemoteControl.Command</node>
-            <node x="" y="">src.RemoteControl.Stereo</node>
-            <node x="" y="">src.RemoteControl.SimpleRemoteControl</node>
-            <node x="" y="">src.RemoteControl.GarageDoorOpenComand</node>
-            <node x="" y="">src.RemoteControl.RemoteControl</node>
-            <node x="" y="">src.RemoteControl.RemoteLoader</node>
-            <node x="" y="">src.RemoteControl.CeilingFan</node>
-            <node x="" y="">src.RemoteControl.StereoOnWithCDComand</node>
-            <node x="" y="">src.RemoteControl.NoCommand</node>
-            <node x="" y="">src.RemoteControl.LightOffCommand</node>
-            <node x="" y="">src.RemoteControl.RemoteControlTest</node>
-            <node x="" y="">src.RemoteControl.GarageDoor</node>
-            <node x="" y="">src.RemoteControl.LightOnCommand</node>
-            <node x="" y="">src.RemoteControl.Light</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.6367432150313153" x="1078.0" y="168.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/LightOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/Light.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/GarageDoor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../out/production/Design_Patterns/src/RemoteControl/RemoteControlTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/RemoteControlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/RemoteControlWithUndo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/GarageDoorDownCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/CeilingFanOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/GarageDoorUpCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/NoCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/StereoOnWithCDComand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/StereoOffWithCDCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/CeilingFan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoteControl/CeilingFanMediumCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoteControl/CeilingFanHighCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1300,9 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1310,9 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1341,9 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1361,24 +1069,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenuItem/Iterator.java">
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/PancakeMenuIterator.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="166">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/Iterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/PancakeHouseMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/UnsupportedOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/CafeMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MenuItem/DinerMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="357">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/Menuuu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/testCompositeIterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/CompositeIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/NullIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/MenuComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MenuItem/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="340">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/MenuTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuItem/DinerMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/NoQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/WinnerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="969" column="23" selection-start-line="969" selection-start-column="23" selection-end-line="969" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="235" column="8" selection-start-line="235" selection-start-column="8" selection-end-line="235" selection-end-column="35" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="107" column="12" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
+          <folding>
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BallMachine/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
