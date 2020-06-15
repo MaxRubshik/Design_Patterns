@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="MyRemoteClient">
-      <change afterPath="$PROJECT_DIR$/java/src/BallMachine/GumballMachineRemote.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="transient added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BallMachine/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BallMachine/GumballMachine.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -265,28 +265,7 @@
       <workItem from="1591609849125" duration="7555000" />
       <workItem from="1591636161904" duration="198000" />
       <workItem from="1591792130343" duration="793000" />
-      <workItem from="1592204370071" duration="4944000" />
-    </task>
-    <task id="LOCAL-00052" summary="WatchMovie() methods realized.">
-      <created>1590139593812</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1590139593812</updated>
-    </task>
-    <task id="LOCAL-00053" summary="endMovie() methods realized.">
-      <created>1590139730535</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1590139730535</updated>
-    </task>
-    <task id="LOCAL-00054" summary="HomeTheaterFacade beautify()">
-      <created>1590140556744</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1590140556744</updated>
+      <workItem from="1592204370071" duration="5651000" />
     </task>
     <task id="LOCAL-00055" summary="HomeTheaterTest class.">
       <created>1590140783612</created>
@@ -610,7 +589,28 @@
       <option name="project" value="LOCAL" />
       <updated>1592209387399</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="GumballMachineRemote">
+      <created>1592221685814</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1592221685814</updated>
+    </task>
+    <task id="LOCAL-00102" summary="State update">
+      <created>1592221734564</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1592221734564</updated>
+    </task>
+    <task id="LOCAL-00103" summary="transient added">
+      <created>1592221857368</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1592221857368</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,9 +629,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DinerMenu added." />
-    <MESSAGE value="App added. (test and print)." />
-    <MESSAGE value="Iterator" />
     <MESSAGE value="DinerMenuIterator" />
     <MESSAGE value="DinerMenu createIterator()" />
     <MESSAGE value="PancakeMenuIterator" />
@@ -654,7 +651,10 @@
     <MESSAGE value="SoldOutState" />
     <MESSAGE value="MyRemoteImpl update." />
     <MESSAGE value="MyRemoteClient" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyRemoteClient" />
+    <MESSAGE value="GumballMachineRemote" />
+    <MESSAGE value="State update" />
+    <MESSAGE value="transient added" />
+    <option name="LAST_COMMIT_MESSAGE" value="transient added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1591620149571">
@@ -681,10 +681,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591609827952" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592209389149">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592221860484">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592209389149" />
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592221860484" />
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204548640">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>

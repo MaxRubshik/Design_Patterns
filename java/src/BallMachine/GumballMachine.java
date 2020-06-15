@@ -1,8 +1,9 @@
 package src.BallMachine;
 
 import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
 
-public class GumballMachine {
+public class GumballMachine extends UnicastRemoteObject implements GumballMachineRemote {
     State soldOutState;
     State noQuarterState;
     State hasQuarterState;
