@@ -112,8 +112,15 @@ public class GumballMachine extends UnicastRemoteObject implements GumballMachin
 
     @Override
     public String toString() {
-        StringBuffer sb = new StringBuffer();
-        sb.append(state);
-        return sb.toString();
+        StringBuffer result = new StringBuffer();
+        result.append("\nMighty Gumball, Inc.");
+        result.append("\nJava-enabled Standing Gumball Model #2004");
+        result.append("\nInventory: " + count + " gumball");
+        if (count != 1) {
+            result.append("s");
+        }
+        result.append("\n");
+        result.append("Machine is " + state + "\n");
+        return result.toString();
     }
 }
