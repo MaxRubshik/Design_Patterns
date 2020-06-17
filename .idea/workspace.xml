@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="WinnerState toString reset">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/BallMachine/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BallMachine/GumballMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/WinnerState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/WinnerState.class" afterDir="false" />
-    </list>
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="move to laptop" />
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,13 +263,7 @@
       <workItem from="1591636161904" duration="198000" />
       <workItem from="1591792130343" duration="793000" />
       <workItem from="1592204370071" duration="10470000" />
-    </task>
-    <task id="LOCAL-00058" summary="calculateAndPrint() ok.">
-      <created>1590182803984</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1590182803984</updated>
+      <workItem from="1592376281045" duration="107000" />
     </task>
     <task id="LOCAL-00059" summary="Coffee added.">
       <created>1590415592564</created>
@@ -611,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592228389223</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="move to laptop">
+      <created>1592376363231</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1592376363232</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +627,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Waitress upgrade." />
     <MESSAGE value="Waitress upgrade with Menu interface." />
     <MESSAGE value="delete unused interface" />
     <MESSAGE value="move" />
@@ -655,7 +651,8 @@
     <MESSAGE value="GumballMachine update" />
     <MESSAGE value="GumballMonitor update with rmi." />
     <MESSAGE value="WinnerState toString reset" />
-    <option name="LAST_COMMIT_MESSAGE" value="WinnerState toString reset" />
+    <MESSAGE value="move to laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="move to laptop" />
   </component>
   <component name="WindowStateProjectService">
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1591620149571">
@@ -682,18 +679,19 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591609827952" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592228392623">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592376387043">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592228392623" />
+    <state x="369" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592376368243" />
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592376387043" />
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204548640">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592204548640" />
-    <state x="1050" y="23" width="870" height="719" key="dock-window-1" timestamp="1592230441968">
+    <state x="1050" y="23" width="870" height="719" key="dock-window-1" timestamp="1592376388207">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="1050" y="23" width="870" height="719" key="dock-window-1/0.23.1920.1057@0.23.1920.1057" timestamp="1592230441968" />
+    <state x="1050" y="23" width="870" height="719" key="dock-window-1/0.23.1920.1057@0.23.1920.1057" timestamp="1592376388207" />
     <state x="429" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1592208796481">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
