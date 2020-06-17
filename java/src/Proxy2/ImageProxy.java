@@ -12,16 +12,43 @@ public class ImageProxy implements Icon {
 
     @Override
     public void paintIcon(Component c, Graphics g, int x, int y) {
-
+        if (imageIcon != null) {
+            imageIcon.paintIcon(c, g, x, y);
+        } else {
+            g.drawString("Loading cover. Please wait...", x + 300, y + 190);
+            if (!retrieving) {
+                retrieving = true;
+                retrievalThread = new Thread(new Runnable() {
+                    @Override
+                    public void run() {
+                        try {
+                            imageIcon = new ImageIcon(imageURL, "CD cover");
+                            c.repaint();
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                        }
+                    }
+                });
+                retrievalThread.start();
+            }
+        }
     }
 
     @Override
     public int getIconWidth() {
-        return 0;
+        if (imageIcon != null) {
+            return imageIcon.getIconWidth();
+        } else {
+            return 800;
+        }
     }
 
     @Override
     public int getIconHeight() {
-        return 0;
+        if (imageIcon != null) {
+            return imageIcon.getIconHeight();
+        } else {
+            return 600;
+        }
     }
 }

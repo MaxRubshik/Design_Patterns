@@ -19,8 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="move to laptop" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java" afterDir="false" />
+    </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,10 +44,29 @@
     <expand />
     <select />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ImageProxy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="40" selection-start-line="31" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,9 +74,61 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectId" id="1bTqtfCyWdGjnySTx463Hwppeib" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -83,6 +158,18 @@
       <recent name="src.Pizza.Factory" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Application.GumballMachineTestDrive">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Coffee.App" />
@@ -94,9 +181,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="CalculateAndPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.EnumerationTask.CalculateAndPrint" />
@@ -108,9 +192,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="DuckSortTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.sort.DuckSortTestDrive" />
@@ -122,9 +203,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.BallMachine.GumballMachineTestDrive" />
@@ -136,9 +214,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MenuItem.MenuTestDrive" />
@@ -150,29 +225,54 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -198,461 +298,77 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="" />
-      <changelist id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
-      <created>1586251700202</created>
+      <changelist id="210130d2-6be4-43db-aa18-ce3c3754cdce" name="Default" comment="" />
+      <created>1592387096193</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586251700202</updated>
-      <workItem from="1586251701571" duration="3366000" />
-      <workItem from="1586293063502" duration="709000" />
-      <workItem from="1586350502538" duration="3938000" />
-      <workItem from="1586523413776" duration="3548000" />
-      <workItem from="1586721747893" duration="1205000" />
-      <workItem from="1586845836892" duration="10720000" />
-      <workItem from="1586889906665" duration="2676000" />
-      <workItem from="1586966694874" duration="2209000" />
-      <workItem from="1587052209354" duration="7192000" />
-      <workItem from="1587064257551" duration="2562000" />
-      <workItem from="1587106832175" duration="11935000" />
-      <workItem from="1587241952966" duration="5000" />
-      <workItem from="1587571012200" duration="3727000" />
-      <workItem from="1587691005312" duration="368000" />
-      <workItem from="1587916869090" duration="656000" />
-      <workItem from="1587976906403" duration="275000" />
-      <workItem from="1588160283406" duration="3959000" />
-      <workItem from="1588171890017" duration="1835000" />
-      <workItem from="1588223694985" duration="5369000" />
-      <workItem from="1588243293707" duration="5960000" />
-      <workItem from="1588324303063" duration="1083000" />
-      <workItem from="1588483846434" duration="1387000" />
-      <workItem from="1588666006294" duration="6000" />
-      <workItem from="1588666018769" duration="23000" />
-      <workItem from="1588666654664" duration="434000" />
-      <workItem from="1588667178753" duration="49000" />
-      <workItem from="1588667244333" duration="326000" />
-      <workItem from="1588831835924" duration="764000" />
-      <workItem from="1588835148924" duration="138000" />
-      <workItem from="1588835307609" duration="7663000" />
-      <workItem from="1588916496122" duration="677000" />
-      <workItem from="1589054892824" duration="381000" />
-      <workItem from="1589437849468" duration="7998000" />
-      <workItem from="1589546444633" duration="3782000" />
-      <workItem from="1589564092205" duration="228000" />
-      <workItem from="1589608251858" duration="2205000" />
-      <workItem from="1589638482469" duration="69000" />
-      <workItem from="1589979953048" duration="3880000" />
-      <workItem from="1590000475606" duration="279000" />
-      <workItem from="1590066645738" duration="5000000" />
-      <workItem from="1590130911283" duration="3682000" />
-      <workItem from="1590150045659" duration="3265000" />
-      <workItem from="1590174385023" duration="3901000" />
-      <workItem from="1590263922416" duration="6000" />
-      <workItem from="1590412471937" duration="3520000" />
-      <workItem from="1590481496346" duration="5357000" />
-      <workItem from="1590559604289" duration="4927000" />
-      <workItem from="1590580677730" duration="2214000" />
-      <workItem from="1590647412073" duration="15330000" />
-      <workItem from="1590751066976" duration="2982000" />
-      <workItem from="1590992042042" duration="5992000" />
-      <workItem from="1591370644124" duration="194000" />
-      <workItem from="1591370898191" duration="70000" />
-      <workItem from="1591372613671" duration="343000" />
-      <workItem from="1591600618186" duration="2075000" />
-      <workItem from="1591609849125" duration="7555000" />
-      <workItem from="1591636161904" duration="198000" />
-      <workItem from="1591792130343" duration="793000" />
-      <workItem from="1592204370071" duration="10470000" />
-      <workItem from="1592376281045" duration="107000" />
+      <updated>1592387096193</updated>
+      <workItem from="1592387098075" duration="1083000" />
     </task>
-    <task id="LOCAL-00059" summary="Coffee added.">
-      <created>1590415592564</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
+    <task id="LOCAL-00001" summary="test">
+      <created>1592387261617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1590415592565</updated>
+      <updated>1592387261617</updated>
     </task>
-    <task id="LOCAL-00060" summary="calculateAndPrint() ok.">
-      <created>1590415599095</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
+    <task id="LOCAL-00002" summary="ImageProxy start">
+      <created>1592387462767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1590415599095</updated>
+      <updated>1592387462767</updated>
     </task>
-    <task id="LOCAL-00061" summary="CaffeineBeverage class.">
-      <created>1590417683910</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1590417683910</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Tea improved.">
-      <created>1590418015041</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1590418015041</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Coffee upgrade.">
-      <created>1590418206668</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1590418206668</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Coffee upgrade.">
-      <created>1590422527320</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1590422527320</updated>
-    </task>
-    <task id="LOCAL-00065" summary="App class added.">
-      <created>1590489740034</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1590489740035</updated>
-    </task>
-    <task id="LOCAL-00066" summary="CoffeeWithHook upgrade.">
-      <created>1590494495603</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1590494495603</updated>
-    </task>
-    <task id="LOCAL-00067" summary="customerWantsCondiments() added + getUserInput()">
-      <created>1590495086769</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1590495086769</updated>
-    </task>
-    <task id="LOCAL-00068" summary="TeaWithHook (upgrade)">
-      <created>1590495655493</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1590495655494</updated>
-    </task>
-    <task id="LOCAL-00069" summary="App class added.">
-      <created>1590495876119</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1590495876119</updated>
-    </task>
-    <task id="LOCAL-00070" summary="move to laptop">
-      <created>1590564268419</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1590564268420</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Duck class. compareTo().">
-      <created>1590569825552</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1590569825552</updated>
-    </task>
-    <task id="LOCAL-00072" summary="DuckSortTestDrive class.">
-      <created>1590570408369</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1590570408369</updated>
-    </task>
-    <task id="LOCAL-00073" summary="MenuItem added.">
-      <created>1590650696559</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1590650696559</updated>
-    </task>
-    <task id="LOCAL-00074" summary="PanCakeHouseMenu added.">
-      <created>1590653907755</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1590653907755</updated>
-    </task>
-    <task id="LOCAL-00075" summary="DinerMenu added.">
-      <created>1590657339534</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1590657339534</updated>
-    </task>
-    <task id="LOCAL-00076" summary="App added. (test and print).">
-      <created>1590658888163</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1590658888163</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Iterator">
-      <created>1590670552972</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1590670552972</updated>
-    </task>
-    <task id="LOCAL-00078" summary="DinerMenuIterator">
-      <created>1590671509934</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1590671509934</updated>
-    </task>
-    <task id="LOCAL-00079" summary="DinerMenu createIterator()">
-      <created>1590671941064</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1590671941064</updated>
-    </task>
-    <task id="LOCAL-00080" summary="PancakeMenuIterator">
-      <created>1590673254489</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1590673254489</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Waitress upgrade.">
-      <created>1590673965338</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1590673965338</updated>
-    </task>
-    <task id="LOCAL-00082" summary="move">
-      <created>1590677318520</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1590677318521</updated>
-    </task>
-    <task id="LOCAL-00083" summary="Waitress upgrade with Menu interface.">
-      <created>1590753456125</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1590753456126</updated>
-    </task>
-    <task id="LOCAL-00084" summary="delete unused interface">
-      <created>1590755255304</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1590755255304</updated>
-    </task>
-    <task id="LOCAL-00085" summary="move">
-      <created>1590765755469</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1590765755469</updated>
-    </task>
-    <task id="LOCAL-00086" summary="CafeMenu added.">
-      <created>1590996169344</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1590996169345</updated>
-    </task>
-    <task id="LOCAL-00087" summary="CafeMenu update with iterator.">
-      <created>1590998057085</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1590998057085</updated>
-    </task>
-    <task id="LOCAL-00088" summary="Waitress update with cafeMenu.">
-      <created>1590998201340</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1590998201340</updated>
-    </task>
-    <task id="LOCAL-00089" summary="MenuTestDrive update with cafeMenu.">
-      <created>1590998323846</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1590998323846</updated>
-    </task>
-    <task id="LOCAL-00090" summary="AlternatingDinerMenuIterator">
-      <created>1591005144603</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1591005144603</updated>
-    </task>
-    <task id="LOCAL-00091" summary="test">
-      <created>1591369304295</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1591369304296</updated>
-    </task>
-    <task id="LOCAL-00092" summary="interface state">
-      <created>1591609106685</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1591609106686</updated>
-    </task>
-    <task id="LOCAL-00093" summary="NoQuarterState">
-      <created>1591610728970</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1591610728971</updated>
-    </task>
-    <task id="LOCAL-00094" summary="update constructor (classes) and methods.">
-      <created>1591611521963</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1591611521963</updated>
-    </task>
-    <task id="LOCAL-00095" summary="releaseBall() added. Getters and Setters added.">
-      <created>1591611739209</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1591611739209</updated>
-    </task>
-    <task id="LOCAL-00096" summary="HasQuarterState">
-      <created>1591618261152</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1591618261152</updated>
-    </task>
-    <task id="LOCAL-00097" summary="SoldState">
-      <created>1591619921072</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1591619921073</updated>
-    </task>
-    <task id="LOCAL-00098" summary="SoldOutState">
-      <created>1591622065861</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1591622065861</updated>
-    </task>
-    <task id="LOCAL-00099" summary="MyRemoteImpl update.">
-      <created>1592208590222</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1592208590223</updated>
-    </task>
-    <task id="LOCAL-00100" summary="MyRemoteClient">
-      <created>1592209387399</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1592209387399</updated>
-    </task>
-    <task id="LOCAL-00101" summary="GumballMachineRemote">
-      <created>1592221685814</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1592221685814</updated>
-    </task>
-    <task id="LOCAL-00102" summary="State update">
-      <created>1592221734564</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1592221734564</updated>
-    </task>
-    <task id="LOCAL-00103" summary="transient added">
-      <created>1592221857368</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1592221857368</updated>
-    </task>
-    <task id="LOCAL-00104" summary="GumballMachine update">
-      <created>1592222385284</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1592222385285</updated>
-    </task>
-    <task id="LOCAL-00105" summary="GumballMonitor update with rmi.">
-      <created>1592223883873</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1592223883873</updated>
-    </task>
-    <task id="LOCAL-00106" summary="WinnerState toString reset">
-      <created>1592228389223</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1592228389223</updated>
-    </task>
-    <task id="LOCAL-00107" summary="move to laptop">
-      <created>1592376363231</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1592376363232</updated>
-    </task>
-    <option name="localTasksCounter" value="108" />
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1083000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="31" y="23" width="792" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32912722" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24933334" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Waitress upgrade with Menu interface." />
-    <MESSAGE value="delete unused interface" />
-    <MESSAGE value="move" />
-    <MESSAGE value="CafeMenu added." />
-    <MESSAGE value="CafeMenu update with iterator." />
-    <MESSAGE value="Waitress update with cafeMenu." />
-    <MESSAGE value="MenuTestDrive update with cafeMenu." />
-    <MESSAGE value="AlternatingDinerMenuIterator" />
     <MESSAGE value="test" />
-    <MESSAGE value="interface state" />
-    <MESSAGE value="NoQuarterState" />
-    <MESSAGE value="update constructor (classes) and methods." />
-    <MESSAGE value="releaseBall() added. Getters and Setters added." />
-    <MESSAGE value="HasQuarterState" />
-    <MESSAGE value="SoldState" />
-    <MESSAGE value="SoldOutState" />
-    <MESSAGE value="MyRemoteImpl update." />
-    <MESSAGE value="MyRemoteClient" />
-    <MESSAGE value="GumballMachineRemote" />
-    <MESSAGE value="State update" />
-    <MESSAGE value="transient added" />
-    <MESSAGE value="GumballMachine update" />
-    <MESSAGE value="GumballMonitor update with rmi." />
-    <MESSAGE value="WinnerState toString reset" />
-    <MESSAGE value="move to laptop" />
-    <option name="LAST_COMMIT_MESSAGE" value="move to laptop" />
+    <MESSAGE value="ImageProxy start" />
+    <option name="LAST_COMMIT_MESSAGE" value="ImageProxy start" />
   </component>
   <component name="WindowStateProjectService">
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1591620149571">
@@ -708,5 +424,21 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="40" selection-start-line="31" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
