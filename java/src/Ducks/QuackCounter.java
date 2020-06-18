@@ -11,6 +11,7 @@ public class QuackCounter implements Quackable {
     @Override
     public void quack() {
         duck.quack();
+        numberOfQuacks++;
     }
 
     public static int getQuacks() {
