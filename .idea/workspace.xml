@@ -19,10 +19,252 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="GooseAdapter">
-      <change beforePath="$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java/src/Ducks/QuackCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_06_2020__5_37__Default_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_06_2020__5_37__Default_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineRemote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineRemote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMonitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/HasQuarterState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/HasQuarterState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/NoQuarterState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/NoQuarterState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldOutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldOutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/WinnerState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/WinnerState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Doors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Doors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Key.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Key.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Chocolate/ChocolateBoiler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Chocolate/ChocolateBoiler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/CppDeveloper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/CppDeveloper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/CppDeveloperFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/CppDeveloperFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/Developer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/Developer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/DeveloperFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/DeveloperFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/JavaDeveloper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/JavaDeveloper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/JavaDeveloperFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/JavaDeveloperFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/CaffeineBeverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/CaffeineBeverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/CoffeeWithHook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/CoffeeWithHook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/TeaWithHook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/TeaWithHook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyNoWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyRocketPowered.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyRocketPowered.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyWithWings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/DuckModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/DuckModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Manok.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Manok.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/MuteQuack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/MuteQuack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/MuteQuack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/MuteQuack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/Quack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/Quack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/QuackBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/QuackBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/Squeak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/Squeak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/RedHeadDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/RedHeadDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Rocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Rocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/RubberDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/RubberDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Simulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Simulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Flying/Flyable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Flying/Flyable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Flying/Flying.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Flying/Flying.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Flying/NoFly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Flying/NoFly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Mallard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Mallard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Quacking/Quackable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Quacking/Quackable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Quacking/Quacking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Quacking/Quacking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Quacking/Squeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Quacking/Squeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/RubberDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/RubberDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/DuckAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/DuckAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/DuckTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/DuckTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/Turkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/Turkey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/TurkeyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/TurkeyAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/WildTurkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/WildTurkey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Goose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Goose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/GooseAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/GooseAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Quackable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Quackable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RedHead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RedHead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RubberDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RubberDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/CalculateAndPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/CalculateAndPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/Fibo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/Fibo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/IteratorMy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/IteratorMy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/IteratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/IteratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/littleTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/littleTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/GameSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/GameSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/Knight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/Knight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/Queen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/Queen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/AxeBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/AxeBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/BowAndArrowBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/BowAndArrowBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/KnifeBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/KnifeBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/SwordBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/SwordBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/WeaponBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/WeaponBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Amplifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Amplifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/CdPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/CdPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/DvdPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/DvdPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/HomeTheaterFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/HomeTheaterFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/HomeTheaterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/HomeTheaterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/PopcornPopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/PopcornPopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Projector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Projector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Screen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Screen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/TheaterLights.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/TheaterLights.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Tuner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Tuner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Moving/Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Moving/Move.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Moving/Moveable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Moving/Moveable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Moving/NoMove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Moving/NoMove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Ulitka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Ulitka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Voicing/NoVoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Voicing/NoVoice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Voicing/Voice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Voicing/Voice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Voicing/Voiceable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Voicing/Voiceable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LowerCase/InputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LowerCase/InputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LowerCase/LowerCaseInputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/LowerCase/LowerCaseInputStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/AlternatingDinerMenuIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/AlternatingDinerMenuIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/CafeMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/CafeMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/CompositeIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/CompositeIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/DinerMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/DinerMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/DinerMenuIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/DinerMenuIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/MenuComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/MenuComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/MenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/MenuItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/MenuTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/MenuTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Menuuu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Menuuu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/NullIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/NullIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/PancakeHouseMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/PancakeHouseMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Waitress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Waitress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/PIzzaMyVer/PizzaFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/PIzzaMyVer/PizzaFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/CaliPizzaIngredientFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/CaliPizzaIngredientFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/ChicagoPizzaIngredientFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/ChicagoPizzaIngredientFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/NYPizzaIngredientFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/NYPizzaIngredientFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/PizzaIngredientFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/PizzaIngredientFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/BBQSauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/BBQSauce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/BlackOlives.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/BlackOlives.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Cheese.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Cheese.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Clams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Clams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Dough.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Dough.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/EggPlant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/EggPlant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/FreshClams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/FreshClams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/FrozenClams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/FrozenClams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Garlic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Garlic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/MMs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/MMs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/MarinaraSauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/MarinaraSauce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Mozzarella.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Mozzarella.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Mushroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Mushroom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Nuts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Nuts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Onion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Onion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Pepperoni.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Pepperoni.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/PlumTomatoSauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/PlumTomatoSauce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/RedPepper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/RedPepper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/ReggianoCheese.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/ReggianoCheese.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Sauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Sauce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/SlicedPepperoni.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/SlicedPepperoni.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Spinach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Spinach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Sweets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Sweets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/ThickCrustDough.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/ThickCrustDough.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/ThinCrustDough.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/ThinCrustDough.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Veggies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Veggies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/CheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/CheesePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/ClamPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/ClamPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/PepperoniPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/PepperoniPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/VeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/VeggiePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/CaliPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/CaliPizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/ChicagoPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/ChicagoPizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/NYPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/NYPizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/PizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanHighCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanHighCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanMediumCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanMediumCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOffCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOffCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOnCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorDownCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorDownCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorUpCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorUpCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Light.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOffCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOffCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOnCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/MacroCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/MacroCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/NoCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/NoCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlWithUndo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlWithUndo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/SimpleRemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/SimpleRemoteControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Stereo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Stereo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOffWithCDCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOffWithCDCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOnWithCDComand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOnWithCDComand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl2/RemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl2/RemoteControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/CondimentDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/CondimentDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Milk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Milk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Mocha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Mocha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Soy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Soy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Whip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Whip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Beverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Beverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/DarkRoast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/DarkRoast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Decaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Decaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Espresso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Espresso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/HouseBlend.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/HouseBlend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Size.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Size.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/StartBuzzCoffeeApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/StartBuzzCoffeeApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample$AngelListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample$AngelListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample$DevilListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample$DevilListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Team/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Team/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/CurrentConditionsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/CurrentConditionsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/ForecastDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/ForecastDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/StatisticsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/StatisticsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/ThirdPartyDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/ThirdPartyDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/WeatherData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/WeatherStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/WeatherStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/interfaces/DisplayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/interfaces/DisplayElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/interfaces/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/interfaces/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/interfaces/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/interfaces/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/CurrentConditionsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/CurrentConditionsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/ForecastDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/ForecastDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/GeneralDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/GeneralDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/StatisticsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/StatisticsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/WeatherData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/ConcreteObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/ConcreteObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/ConcreteSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/ConcreteSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/CurrentDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/CurrentDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/CurrentConditionDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/CurrentConditionDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/ForecastDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/ForecastDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/GeneralDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/GeneralDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/StatisticsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/StatisticsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Interfaces/DisplayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Interfaces/DisplayElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Interfaces/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Interfaces/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/WeatherData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/WeatherStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/WeatherStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/DuckSortTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/DuckSortTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/MyApplet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/MyApplet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/MyJFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/MyJFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/Sort.class" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +284,54 @@
     <expand />
     <select />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DuckSimulator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuackCounter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/Ducks/QuackCounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GooseAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/Ducks/GooseAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Goose.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/Ducks/Goose.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -53,9 +343,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/java/src/Ducks/QuackCounter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="794" />
+    <option name="height" value="1027" />
+  </component>
   <component name="ProjectId" id="1bTqtfCyWdGjnySTx463Hwppeib" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ducks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -72,14 +430,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java/src" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="src.Proxy2" />
       <recent name="src.Car" />
@@ -87,6 +442,157 @@
       <recent name="src.RemoteControl" />
       <recent name="src.Pizza.Ingredients" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/src" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Proxy2/ImageComponent.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Proxy2/ImageProxyTestDrive.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_06_2020,_5_37_[Default]/shelved.patch</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_06_2020__5_37__Default_.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/DuckCall.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Goose.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/GooseAdapter.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/MallardDuck.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Quackable.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/RedHead.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/RubberDuck.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckCall.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckSimulator.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Goose.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/GooseAdapter.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/MallardDuck.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Quackable.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RedHead.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RubberDuck.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageComponent.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy$1.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive$1.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive.class</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.DuckSimulator">
     <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -99,9 +605,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="DuckSortTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.sort.DuckSortTestDrive" />
@@ -113,9 +616,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.BallMachine.GumballMachineTestDrive" />
@@ -127,9 +627,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="ImageProxyTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Proxy2.ImageProxyTestDrive" />
@@ -141,9 +638,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MenuItem.MenuTestDrive" />
@@ -155,31 +649,54 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -278,11 +795,46 @@
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="786000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="794" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32912722" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32912722" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32912722" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24069148" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
@@ -350,5 +902,151 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Proxy2/ImageComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Proxy2/ImageProxyTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/GooseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/Goose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/QuackCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Design_Patterns</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
