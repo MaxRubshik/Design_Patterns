@@ -91,7 +91,7 @@
       <recent name="src.Pizza.Ingredients" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ImageProxyTestDrive">
+  <component name="RunManager" selected="Application.DuckSimulator">
     <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Ducks.DuckSimulator" />
       <module name="Design_Patterns" />
@@ -195,8 +195,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ImageProxyTestDrive" />
         <item itemvalue="Application.DuckSimulator" />
+        <item itemvalue="Application.ImageProxyTestDrive" />
         <item itemvalue="Application.GumballMachineTestDrive" />
         <item itemvalue="Application.MenuTestDrive" />
         <item itemvalue="Application.DuckSortTestDrive" />
