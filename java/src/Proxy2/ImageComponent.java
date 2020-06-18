@@ -14,6 +14,10 @@ public class ImageComponent extends JComponent {
         return icon;
     }
 
+    public void setIcon(Icon icon) {
+        this.icon = icon;
+    }
+
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
         int w = icon.getIconWidth();

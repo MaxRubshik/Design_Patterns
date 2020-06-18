@@ -10,6 +10,10 @@ public class ImageProxy implements Icon {
     Thread retrievalThread;
     boolean retrieving = false;
 
+    public ImageProxy(URL initialURL) {
+
+    }
+
     @Override
     public void paintIcon(Component c, Graphics g, int x, int y) {
         if (imageIcon != null) {

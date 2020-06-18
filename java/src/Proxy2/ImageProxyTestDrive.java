@@ -3,6 +3,7 @@ package src.Proxy2;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Enumeration;
 import java.util.Hashtable;
@@ -40,6 +41,7 @@ public class ImageProxyTestDrive {
                             (getCDUr1(event.getActionCommand())));
                     frame.repaint();
                 }
+
             });
         }
 
@@ -47,5 +49,17 @@ public class ImageProxyTestDrive {
         Icon icon = new ImageProxy(initialURL);
         imageComponent = new ImageComponent(icon);
         frame.getContentPane().add(imageComponent);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setSize(800,600);
+        frame.setVisible(true);
+    }
+
+    URL getCDUr1(String name){
+        try{
+            return new URL((String) cds.get(name));
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+            return null;
+        }
     }
 }

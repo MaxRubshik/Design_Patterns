@@ -19,8 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="DuckCall and RubberDuck">
-      <change afterPath="$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="DuckSimulator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Proxy2/ImageComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Proxy2/ImageComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Proxy2/ImageProxyTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Proxy2/ImageProxyTestDrive.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,28 +91,14 @@
       <recent name="src.Pizza.Ingredients" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GumballMachineTestDrive">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Coffee.App" />
+  <component name="RunManager" selected="Application.ImageProxyTestDrive">
+    <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Ducks.DuckSimulator" />
       <module name="Design_Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Coffee.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculateAndPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.EnumerationTask.CalculateAndPrint" />
-      <module name="Design_Patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.EnumerationTask.*" />
+          <option name="PATTERN" value="src.Ducks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,6 +127,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.BallMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageProxyTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Proxy2.ImageProxyTestDrive" />
+      <module name="Design_Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Proxy2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,19 +187,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CalculateAndPrint" />
-      <item itemvalue="Application.App" />
       <item itemvalue="Application.DuckSortTestDrive" />
       <item itemvalue="Application.MenuTestDrive" />
       <item itemvalue="Application.GumballMachineTestDrive" />
+      <item itemvalue="Application.DuckSimulator" />
+      <item itemvalue="Application.ImageProxyTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImageProxyTestDrive" />
+        <item itemvalue="Application.DuckSimulator" />
         <item itemvalue="Application.GumballMachineTestDrive" />
         <item itemvalue="Application.MenuTestDrive" />
         <item itemvalue="Application.DuckSortTestDrive" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.CalculateAndPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592450811831</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DuckSimulator">
+      <created>1592451182505</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592451182505</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,13 +272,14 @@
     <MESSAGE value="ImageProxy added methods." />
     <MESSAGE value="Patterns of patterns (Ducks 3)" />
     <MESSAGE value="DuckCall and RubberDuck" />
-    <option name="LAST_COMMIT_MESSAGE" value="DuckCall and RubberDuck" />
+    <MESSAGE value="DuckSimulator" />
+    <option name="LAST_COMMIT_MESSAGE" value="DuckSimulator" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1592450782510">
+    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1592451797202">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592450782510" />
+    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592451797202" />
     <state width="1005" height="290" key="GridCell.Tab.0.bottom" timestamp="1592245869242">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -289,11 +300,11 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591609827952" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592450815849">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592451186882">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="369" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592376368243" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592450815849" />
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592451186882" />
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204548640">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
