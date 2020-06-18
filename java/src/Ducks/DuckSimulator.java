@@ -15,7 +15,7 @@ public class DuckSimulator {
         Quackable rubberDuck = duckFactory.createRubberDuck();
         Quackable gooseDuck = new GooseAdapter(new Goose());
 
-        System.out.println("\nDuck Simulator: With GooseAdapter");
+        System.out.println("\nDuck Simulator: With AbstractFactory");
 
         simulate(mallardDuck);
         simulate(redheadDuck);
