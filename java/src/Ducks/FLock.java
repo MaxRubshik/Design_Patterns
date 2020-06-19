@@ -3,7 +3,7 @@ package src.Ducks;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class Flok implements Quackable {
+public class FLock implements Quackable {
     ArrayList quackers = new ArrayList();
 
     public void add(Quackable quacker){
