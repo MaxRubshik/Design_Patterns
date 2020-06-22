@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="GooseAdapter">
-      <change afterPath="$PROJECT_DIR$/java/src/Ducks/QuackObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="interface QuackObservable update">
+      <change afterPath="$PROJECT_DIR$/java/src/Ducks/Observable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Ducks/Quackable.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/Quackable.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +47,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -277,7 +277,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592452104232</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="interface QuackObservable">
+      <created>1592810368700</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592810368701</updated>
+    </task>
+    <task id="LOCAL-00011" summary="interface QuackObservable update">
+      <created>1592810432665</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592810432665</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,17 +319,19 @@
     <MESSAGE value="ImageProxy finished." />
     <MESSAGE value="Goose" />
     <MESSAGE value="GooseAdapter" />
-    <option name="LAST_COMMIT_MESSAGE" value="GooseAdapter" />
+    <MESSAGE value="interface QuackObservable" />
+    <MESSAGE value="interface QuackObservable update" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface QuackObservable update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="421" key="#Notifications" timestamp="1592810160657">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="398" y="421" key="#Notifications/0.23.1920.1057@0.23.1920.1057" timestamp="1592810160657" />
-    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1592452081137">
+    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1592811230514">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592452081137" />
+    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592811230514" />
     <state width="984" height="290" key="GridCell.Tab.0.bottom" timestamp="1592451921389">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -336,11 +352,11 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1592807942388" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592452108423">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592810436195">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="369" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592376368243" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592452108423" />
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592810436195" />
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204548640">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
