@@ -15,12 +15,12 @@ public class DuckSimulator {
         Quackable gooseDuck = new GooseAdapter(new Goose());
         System.out.println("\nDuck Simulator: With Composite Flocks");
 
-        FLock FLockOfDucks = new FLock();
+        FLock flockofducks = new FLock();
 
-        FLockOfDucks.add(redheadDuck);
-        FLockOfDucks.add(duckCall);
-        FLockOfDucks.add(rubberDuck);
-        FLockOfDucks.add(gooseDuck);
+        flockofducks.add(redheadDuck);
+        flockofducks.add(duckCall);
+        flockofducks.add(rubberDuck);
+        flockofducks.add(gooseDuck);
 
         FLock FLockOfMallards = new FLock();
 
@@ -34,14 +34,16 @@ public class DuckSimulator {
         FLockOfMallards.add(mallardThree);
         FLockOfMallards.add(mallardFour);
 
-        FLockOfDucks.add(FLockOfMallards);
+        flockofducks.add(FLockOfMallards);
 
 
-        System.out.println("\nDuck Simulator: Whole Flock Simulation");
-        simulate(FLockOfDucks);
+        System.out.println("\nDuck Simulator: With Observer");
+        Quackologist quackologist = new Quackologist();
+        //flockofducks.registerObserver(quackologist);
+        simulate(flockofducks);
 
-        System.out.println("\nDuck Simulator: Mallard Flock Simulation");
-        simulate(FLockOfMallards);
+//        System.out.println("\nDuck Simulator: Mallard Flock Simulation");
+//        simulate(FLockOfMallards);
 
         System.out.println("\nThe Ducks quacked " + QuackCounter.getQuacks() + " times.");
     }
