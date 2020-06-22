@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Observable">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="MallardDuck integration with Quackable">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/Ducks/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/Observable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Ducks/QuackCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/QuackCounter.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -297,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592811879435</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="MallardDuck integration with Quackable">
+      <created>1592812658876</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592812658876</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,17 +335,19 @@
     <MESSAGE value="interface QuackObservable" />
     <MESSAGE value="interface QuackObservable update" />
     <MESSAGE value="Observable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Observable" />
+    <MESSAGE value="MallardDuck integration with Quackable" />
+    <option name="LAST_COMMIT_MESSAGE" value="MallardDuck integration with Quackable" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="421" key="#Notifications" timestamp="1592810160657">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="398" y="421" key="#Notifications/0.23.1920.1057@0.23.1920.1057" timestamp="1592810160657" />
-    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1592812084687">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1592819696423">
+      <screen x="0" y="23" width="1920" height="990" />
     </state>
-    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592812084687" />
+    <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592812582541" />
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1592819696423" />
     <state width="984" height="290" key="GridCell.Tab.0.bottom" timestamp="1592451921389">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -359,11 +368,11 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1592807942388" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592811882361">
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2" timestamp="1592812663386">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="369" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592376368243" />
-    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592811882361" />
+    <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592812663386" />
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204548640">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
