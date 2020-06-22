@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="QuackCounter update with observer">
-      <change afterPath="$PROJECT_DIR$/java/src/Ducks/Observer.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Quackologist">
+      <change beforePath="$PROJECT_DIR$/java/src/Ducks/FLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/FLock.java" afterDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -310,7 +310,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592819841326</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="interface observer">
+      <created>1592829873864</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1592829873864</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Quackologist">
+      <created>1592829977658</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1592829977658</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,18 +357,20 @@
     <MESSAGE value="Observable" />
     <MESSAGE value="MallardDuck integration with Quackable" />
     <MESSAGE value="QuackCounter update with observer" />
-    <option name="LAST_COMMIT_MESSAGE" value="QuackCounter update with observer" />
+    <MESSAGE value="interface observer" />
+    <MESSAGE value="Quackologist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quackologist" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="421" key="#Notifications" timestamp="1592810160657">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="398" y="421" key="#Notifications/0.23.1920.1057@0.23.1920.1057" timestamp="1592810160657" />
-    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1592819696423">
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1592830098390">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592812582541" />
-    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1592819696423" />
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1592830098390" />
     <state width="984" height="290" key="GridCell.Tab.0.bottom" timestamp="1592451921389">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -375,12 +391,12 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1592807942388" />
-    <state x="369" y="248" key="Vcs.Push.Dialog.v2" timestamp="1592819845333">
+    <state x="369" y="248" key="Vcs.Push.Dialog.v2" timestamp="1592829981804">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="369" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592376368243" />
     <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592812663386" />
-    <state x="369" y="248" key="Vcs.Push.Dialog.v2/0.23.1920.990@0.23.1920.990" timestamp="1592819845333" />
+    <state x="369" y="248" key="Vcs.Push.Dialog.v2/0.23.1920.990@0.23.1920.990" timestamp="1592829981804" />
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204548640">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
