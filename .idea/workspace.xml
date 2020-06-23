@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2020__9_38__Default_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2020__9_38__Default_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/BeatModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/shelf/" />
@@ -51,11 +49,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BeatModeInterface.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BeatModeInterface.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeatModel.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,8 +77,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,6 +89,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java" />
+        <option value="$PROJECT_DIR$/java/src/Midi/BeatModel.java" />
       </list>
     </option>
   </component>
@@ -468,7 +481,7 @@
       <updated>1592387096193</updated>
       <workItem from="1592387098075" duration="2163000" />
       <workItem from="1592548876256" duration="6384000" />
-      <workItem from="1592894736317" duration="632000" />
+      <workItem from="1592894736317" duration="1459000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592387261617</created>
@@ -624,11 +637,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592572890395</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="BeatModeInterface">
+      <created>1592916430805</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1592916430805</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="611000" />
+    <option name="totallyTimeSpent" value="1438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="794" height="877" extended-state="0" />
@@ -707,7 +727,8 @@
     <MESSAGE value="interface observer" />
     <MESSAGE value="Quackologist" />
     <MESSAGE value="Flock update with register" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flock update with register" />
+    <MESSAGE value="BeatModeInterface" />
+    <option name="LAST_COMMIT_MESSAGE" value="BeatModeInterface" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="421" key="#Notifications" timestamp="1592810160657">
@@ -942,6 +963,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
