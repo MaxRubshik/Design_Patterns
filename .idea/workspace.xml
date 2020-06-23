@@ -19,251 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Flock update with register">
-      <change beforePath="$PROJECT_DIR$/java/src/Ducks/DuckCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/DuckCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/Ducks/GooseAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/GooseAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/Ducks/RedHeadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/RedHeadDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/Ducks/RubberDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/RubberDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineRemote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineTestDrive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMonitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/HasQuarterState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/NoQuarterState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldOutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/SoldState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/WinnerState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Chocolate/ChocolateBoiler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/CppDeveloper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/CppDeveloperFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/Developer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/DeveloperFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/JavaDeveloper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/CodeFactory/JavaDeveloperFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/CaffeineBeverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/CoffeeWithHook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/TeaWithHook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyNoWay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyRocketPowered.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Behaving/FlyWithWings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/DuckModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/MallardDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Manok.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/MuteQuack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/MuteQuack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/Quack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/QuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Quacking/Squeak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/RedHeadDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Rocket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/RubberDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond/Simulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Flying/Flyable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Flying/Flying.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Flying/NoFly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Mallard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Quacking/Quackable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Quacking/Quacking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/Quacking/Squeek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond2/RubberDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/DuckAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/DuckTestDrive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/MallardDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/Turkey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/TurkeyAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/DuckPond3/WildTurkey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckCall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckSimulator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Goose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/GooseAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/MallardDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/QuackCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Quackable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Quackable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RedHeadDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RubberDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/CalculateAndPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/Fibo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/IteratorMy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/IteratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/littleTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/Character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/GameSimulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/Knight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/Characters/Queen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/AxeBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/BowAndArrowBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/KnifeBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/SwordBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Game/WeaponBehavior/WeaponBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Amplifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/CdPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/DvdPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/HomeTheaterFacade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/HomeTheaterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/PopcornPopper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Projector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Screen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/TheaterLights.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/HomeTheater/Tuner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Moving/Move.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Moving/Moveable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Moving/NoMove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Ulitka.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Voicing/NoVoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Voicing/Voice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LoloPrud/Voicing/Voiceable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LowerCase/InputTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/LowerCase/LowerCaseInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/AlternatingDinerMenuIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/CafeMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/CompositeIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/DinerMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/DinerMenuIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/MenuComponent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/MenuItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/MenuTestDrive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Menuuu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/NullIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/PancakeHouseMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Waitress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/PIzzaMyVer/PizzaFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/CaliPizzaIngredientFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/ChicagoPizzaIngredientFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/NYPizzaIngredientFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Factory/PizzaIngredientFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/BBQSauce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/BlackOlives.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Cheese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Clams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Dough.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/EggPlant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/FreshClams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/FrozenClams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Garlic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/MMs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/MarinaraSauce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Mozzarella.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Mushroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Nuts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Onion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Pepperoni.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/PlumTomatoSauce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/RedPepper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/ReggianoCheese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Sauce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/SlicedPepperoni.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Spinach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Sweets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/ThickCrustDough.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/ThinCrustDough.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Ingredients/Veggies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/CheesePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/ClamPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/PepperoniPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/Pizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/PizzaVersions/VeggiePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/CaliPizzaStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/ChicagoPizzaStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/NYPizzaStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/PizzaStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageComponent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanHighCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanMediumCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOffCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/CeilingFanOnCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorDownCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/GarageDoorUpCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Light.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOffCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/LightOnCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/MacroCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/NoCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlWithUndo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/SimpleRemoteControl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/Stereo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOffWithCDCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/StereoOnWithCDComand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/CondimentDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Milk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Mocha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Soy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Decorator/Whip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Beverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/DarkRoast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Decaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Espresso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/HouseBlend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Size.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/StartBuzzCoffeeApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample$AngelListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample$DevilListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Swing/SwingObserverExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Team/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/CurrentConditionsDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/ForecastDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/StatisticsDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/ThirdPartyDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/WeatherData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/WeatherStation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/interfaces/DisplayElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/interfaces/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation/interfaces/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/CurrentConditionsDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/ForecastDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/GeneralDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/StatisticsDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation2/WeatherData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/ConcreteObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/ConcreteSubject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/CurrentDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/CurrentConditionDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/ForecastDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/GeneralDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Displays/StatisticsDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Interfaces/DisplayElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/Interfaces/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/WeatherData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/WeatherStation3/WeatherStation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/DuckSortTestDrive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/MyApplet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/MyJFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/sort/Sort.class" beforeDir="false" />
-    </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2020__9_38__Default_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2020__9_38__Default_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/shelf/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,20 +49,88 @@
     <expand />
     <select />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BeatModeInterface.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectId" id="1bTqtfCyWdGjnySTx463Hwppeib" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Midi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -329,6 +163,176 @@
       <recent name="src.Pizza.Ingredients" />
     </key>
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/DuckCall.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/FLock.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/GooseAdapter.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/MallardDuck.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/QuackCounter.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Quackable.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/RedHeadDuck.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/RubberDuck.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachine.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineTestDrive.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMonitor.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Car.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/CoffeeWithHook.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/TeaWithHook.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckCall.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckSimulator.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/GooseAdapter.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/MallardDuck.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/QuackCounter.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Quackable.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RedHeadDuck.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RubberDuck.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/IteratorTest.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/littleTests.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/LowerCase/InputTest.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/CompositeIterator.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/DinerMenu.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Menuuu.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Waitress.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/CaliPizzaStore.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/ChicagoPizzaStore.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/NYPizzaStore.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy$1.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteClient.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteImpl.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlWithUndo.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton3.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Beverage.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/sort/Duck.class</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2020,_9_38_[Default]/shelved.patch</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2020__9_38__Default_.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Observable.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Observer.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/QuackObservable.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Quackologist.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Application.DuckSimulator">
     <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Ducks.DuckSimulator" />
@@ -340,9 +344,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="DuckSortTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.sort.DuckSortTestDrive" />
@@ -354,9 +355,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.BallMachine.GumballMachineTestDrive" />
@@ -368,9 +366,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="ImageProxyTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Proxy2.ImageProxyTestDrive" />
@@ -382,9 +377,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MenuItem.MenuTestDrive" />
@@ -396,31 +388,54 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -446,12 +461,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="210130d2-6be4-43db-aa18-ce3c3754cdce" name="Default" comment="" />
+      <changelist id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="" />
       <created>1592387096193</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592387096193</updated>
       <workItem from="1592387098075" duration="2163000" />
+      <workItem from="1592548876256" duration="6384000" />
+      <workItem from="1592894736317" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592387261617</created>
@@ -516,64 +533,137 @@
       <option name="project" value="LOCAL" />
       <updated>1592452104232</updated>
     </task>
-    <task id="LOCAL-00010" summary="interface QuackObservable">
-      <created>1592810368700</created>
+    <task id="LOCAL-00010" summary="QuackCounter">
+      <created>1592473649230</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1592810368701</updated>
+      <updated>1592473649230</updated>
     </task>
-    <task id="LOCAL-00011" summary="interface QuackObservable update">
-      <created>1592810432665</created>
+    <task id="LOCAL-00011" summary="DuckSimulator update.">
+      <created>1592475890735</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1592810432665</updated>
+      <updated>1592475890735</updated>
     </task>
-    <task id="LOCAL-00012" summary="Observable">
-      <created>1592811879435</created>
+    <task id="LOCAL-00012" summary="AbstractDuckFactory">
+      <created>1592476949903</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1592811879435</updated>
+      <updated>1592476949903</updated>
     </task>
-    <task id="LOCAL-00013" summary="MallardDuck integration with Quackable">
-      <created>1592812658876</created>
+    <task id="LOCAL-00013" summary="DuckFactory">
+      <created>1592477668104</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1592812658876</updated>
+      <updated>1592477668105</updated>
     </task>
-    <task id="LOCAL-00014" summary="QuackCounter update with observer">
-      <created>1592819841326</created>
+    <task id="LOCAL-00014" summary="CountingDuckFactory">
+      <created>1592477954418</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1592819841326</updated>
+      <updated>1592477954418</updated>
     </task>
-    <task id="LOCAL-00015" summary="interface observer">
-      <created>1592829873864</created>
+    <task id="LOCAL-00015" summary="simulate() with AbstractFactory">
+      <created>1592478812369</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1592829873864</updated>
+      <updated>1592478812369</updated>
     </task>
-    <task id="LOCAL-00016" summary="Quackologist">
-      <created>1592829977658</created>
+    <task id="LOCAL-00016" summary="simulate() with AbstractFactory">
+      <created>1592478838378</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1592829977658</updated>
+      <updated>1592478838378</updated>
     </task>
-    <task id="LOCAL-00017" summary="Flock update with register">
-      <created>1592830274144</created>
+    <task id="LOCAL-00017" summary="Flok with iterator">
+      <created>1592490724990</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1592830274144</updated>
+      <updated>1592490724990</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="DuckSimulator update">
+      <created>1592562281729</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1592562281729</updated>
+    </task>
+    <task id="LOCAL-00019" summary="grammar fix">
+      <created>1592562467290</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1592562467290</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Dating app. PersonBean interface.">
+      <created>1592569165261</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1592569165261</updated>
+    </task>
+    <task id="LOCAL-00021" summary="PersonBeanImpl class (basic methods)">
+      <created>1592569487258</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1592569487258</updated>
+    </task>
+    <task id="LOCAL-00022" summary="OwnerInvocationalHandler">
+      <created>1592572890395</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1592572890395</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="611000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="794" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.39076155" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23133543" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32912722" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24069148" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32912722" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
@@ -583,12 +673,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
@@ -670,5 +769,255 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Datings/OwnerInvocationalHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/FLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Proxy2/ImageProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Proxy2/ImageComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Proxy2/ImageProxyTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/Goose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/GooseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/QuackCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/RedHeadDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/DuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/CountingDuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/AbstractDuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="850" column="8" selection-start-line="850" selection-start-column="8" selection-end-line="850" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/Quackable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/FLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/QuackObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Datings/PersonBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Datings/PersonBeanImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Datings/OwnerInvocationalHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Design_Patterns</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
