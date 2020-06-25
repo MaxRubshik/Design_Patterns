@@ -19,11 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/Midi/BeatModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/BPMObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/BeatObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/DJView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,21 +55,59 @@
         <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeatModel.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BeatModel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DJView.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/Midi/DJView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#942#943#0" expanded="true" />
+                <element signature="e#1507#1508#0" expanded="true" />
+                <element signature="e#1544#1545#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeatObserver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatObserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BPMObserver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/Midi/BPMObserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -77,8 +117,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -90,6 +130,9 @@
       <list>
         <option value="$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java" />
         <option value="$PROJECT_DIR$/java/src/Midi/BeatModel.java" />
+        <option value="$PROJECT_DIR$/java/src/Midi/BPMObserver.java" />
+        <option value="$PROJECT_DIR$/java/src/Midi/BeatObserver.java" />
+        <option value="$PROJECT_DIR$/java/src/Midi/DJView.java" />
       </list>
     </option>
   </component>
@@ -101,6 +144,12 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2" />
+    <option name="y" value="23" />
+    <option name="width" value="794" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectId" id="1bTqtfCyWdGjnySTx463Hwppeib" />
   <component name="ProjectLevelVcsManager">
@@ -141,8 +190,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -165,174 +214,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java/src" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.Midi" />
       <recent name="src.Proxy2" />
       <recent name="src.Car" />
       <recent name="src.HomeTheater" />
       <recent name="src.RemoteControl" />
-      <recent name="src.Pizza.Ingredients" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/DuckCall.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/FLock.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/GooseAdapter.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/MallardDuck.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/QuackCounter.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Quackable.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/RedHeadDuck.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/RubberDuck.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachine.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMachineTestDrive.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/BallMachine/GumballMonitor.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Car/Car.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/CoffeeWithHook.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Coffee/TeaWithHook.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckCall.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckSimulator.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/GooseAdapter.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/MallardDuck.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/QuackCounter.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/Quackable.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RedHeadDuck.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/RubberDuck.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/IteratorTest.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/EnumerationTask/littleTests.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/LowerCase/InputTest.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/CompositeIterator.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/DinerMenu.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Menuuu.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/MenuItem/Waitress.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/CaliPizzaStore.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/ChicagoPizzaStore.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Pizza/Stores/NYPizzaStore.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxy$1.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Proxy2/ImageProxyTestDrive.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteClient.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Remote/MyRemoteImpl.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/RemoteControl/RemoteControlWithUndo.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/Singleton/Singleton3.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/SturBuzz/Drinks/Beverage.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/Design_Patterns/src/sort/Duck.class</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2020,_9_38_[Default]/shelved.patch</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2020__9_38__Default_.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Observable.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Observer.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/QuackObservable.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/java/src/Ducks/Quackologist.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -481,7 +372,9 @@
       <updated>1592387096193</updated>
       <workItem from="1592387098075" duration="2163000" />
       <workItem from="1592548876256" duration="6384000" />
-      <workItem from="1592894736317" duration="1459000" />
+      <workItem from="1592894736317" duration="1765000" />
+      <workItem from="1592995073745" duration="2000" />
+      <workItem from="1593085947437" duration="2507000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592387261617</created>
@@ -644,14 +537,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592916430805</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="move to laptop">
+      <created>1592927998542</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1592927998542</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1438000" />
+    <option name="totallyTimeSpent" value="4253000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="794" height="877" extended-state="0" />
+    <frame x="-209" y="24" width="794" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
@@ -668,7 +568,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32912722" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24069148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25398937" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -678,15 +578,15 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32912722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32912722" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -728,7 +628,8 @@
     <MESSAGE value="Quackologist" />
     <MESSAGE value="Flock update with register" />
     <MESSAGE value="BeatModeInterface" />
-    <option name="LAST_COMMIT_MESSAGE" value="BeatModeInterface" />
+    <MESSAGE value="move to laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="move to laptop" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="421" key="#Notifications" timestamp="1592810160657">
@@ -792,6 +693,40 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -803,9 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -946,9 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -962,18 +891,50 @@
     <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Midi/BPMObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Midi/BeatObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/Midi/DJView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#1507#1508#0" expanded="true" />
+            <element signature="e#1544#1545#0" expanded="true" />
           </folding>
         </state>
       </provider>
