@@ -10,6 +10,4 @@ public interface BeatModeInterface {
     void registerObserver(BeatObserver o);
     void removeObserver(BPMObserver o);
     void removeObserver(BPMObserver o);
-
-
 }
