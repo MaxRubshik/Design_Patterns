@@ -20,10 +20,6 @@ public class DJView implements ActionListener, BeatObserver, BPMObserver {
     JMenuItem startMenuItem;
     JMenuItem stopMenuItem;
 
-    public void CreateControls() {
-
-    }
-
     public void enableStopMenuItem() {
         stopMenuItem.setEnabled(true);
     }
@@ -74,5 +70,8 @@ public class DJView implements ActionListener, BeatObserver, BPMObserver {
         } else if (event.getSource() == decreaseButton) {
             controller.decreaseBPM();
         }
+    }
+
+    public void createControls() {
     }
 }
