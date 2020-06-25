@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="BeatModel lots of methods">
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="BeatObserver interface">
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/BPMObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/DJView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/Midi/BeatModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Midi/BeatModel.java" afterDir="false" />
     </list>
@@ -78,15 +80,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java/src" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.Midi" />
       <recent name="src.Proxy2" />
       <recent name="src.Car" />
       <recent name="src.HomeTheater" />
       <recent name="src.RemoteControl" />
-      <recent name="src.Pizza.Ingredients" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.DuckSimulator">
@@ -216,7 +218,8 @@
       <workItem from="1592894736317" duration="632000" />
       <workItem from="1593073077825" duration="513000" />
       <workItem from="1593073616479" duration="263000" />
-      <workItem from="1593073912838" duration="964000" />
+      <workItem from="1593073912838" duration="1153000" />
+      <workItem from="1593075384771" duration="1411000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592387261617</created>
@@ -386,7 +389,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592944570790</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="BeatModel lots of methods 2">
+      <created>1593075184526</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1593075184526</updated>
+    </task>
+    <task id="LOCAL-00026" summary="BeatObserver interface">
+      <created>1593075261933</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1593075261933</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,18 +440,20 @@
     <MESSAGE value="Quackologist" />
     <MESSAGE value="Flock update with register" />
     <MESSAGE value="BeatModel lots of methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="BeatModel lots of methods" />
+    <MESSAGE value="BeatModel lots of methods 2" />
+    <MESSAGE value="BeatObserver interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="BeatObserver interface" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="421" key="#Notifications" timestamp="1592810160657">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="398" y="421" key="#Notifications/0.23.1920.1057@0.23.1920.1057" timestamp="1592810160657" />
-    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1592830555616">
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1593076259251">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592812582541" />
-    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1592830555616" />
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1593076259251" />
     <state width="984" height="290" key="GridCell.Tab.0.bottom" timestamp="1592451921389">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -451,17 +470,17 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="984" height="290" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1592451921389" />
-    <state x="188" y="99" width="1660" height="895" key="SettingsEditor" timestamp="1593073887080">
+    <state x="188" y="99" width="1660" height="895" key="SettingsEditor" timestamp="1593075364578">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1592807942388" />
-    <state x="188" y="99" key="SettingsEditor/0.23.1920.990@0.23.1920.990" timestamp="1593073887080" />
-    <state x="369" y="248" key="Vcs.Push.Dialog.v2" timestamp="1592944574231">
+    <state x="188" y="99" key="SettingsEditor/0.23.1920.990@0.23.1920.990" timestamp="1593075364578" />
+    <state x="369" y="248" key="Vcs.Push.Dialog.v2" timestamp="1593085354625">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="369" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592376368243" />
     <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592812663386" />
-    <state x="369" y="248" key="Vcs.Push.Dialog.v2/0.23.1920.990@0.23.1920.990" timestamp="1592944574231" />
+    <state x="369" y="248" key="Vcs.Push.Dialog.v2/0.23.1920.990@0.23.1920.990" timestamp="1593085354625" />
     <state x="560" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593073106911">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
