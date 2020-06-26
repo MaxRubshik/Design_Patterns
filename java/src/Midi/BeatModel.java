@@ -40,6 +40,16 @@ public class BeatModel implements BeatModeInterface, MetaEventListener {
         }
     }
 
+    public void makeTracks(int[] list) {
+        for (int i = 0; i < list.length; i++) {
+            int key = list[i];
+            if (key != 0) {
+                track.add(makeEvent(144, 9, key, 100, i));
+                track.add(makeEvent(128, 9, key, 100, i + 1));
+            }
+        }
+    }
+
     public MidiEvent makeEvent(int comd, int chan, int one, int two, int tick) {
         MidiEvent event = null;
         try {
