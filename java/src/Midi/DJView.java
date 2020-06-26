@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.EventObject;
 
 public class DJView implements ActionListener, BeatObserver, BPMObserver {
     BeatModeInterface model;
@@ -54,7 +55,7 @@ public class DJView implements ActionListener, BeatObserver, BPMObserver {
         beatBar = new BeatBar();
         beatBar.setValue(0);
         JPanel bpmPanel = new JPanel(new GridLayout(2,1));
-        bpmPanel.add(beatBar);
+        //bpmPanel.add(beatBar);
         bpmPanel.add(bpmOutputLabel);
         viewFrame.getContentPane().add(viewPanel, BorderLayout.CENTER);
         viewFrame.pack();
@@ -77,6 +78,7 @@ public class DJView implements ActionListener, BeatObserver, BPMObserver {
 
     @Override
     public void actionPerformed(ActionEvent e) {
+        EventObject event = null;
         if (event.getSource() == setBPMButton) {
             int bpm = Integer.parseInt(bpmTextField.getText());
             controller.setBPM(bpm);
@@ -90,11 +92,11 @@ public class DJView implements ActionListener, BeatObserver, BPMObserver {
     public void createControls() {
         //Swing components
         JFrame.setDefaultLookAndFeelDecorated(true);
-        controlFrame = new JFrame("Control");
+        JFrame controlFrame = new JFrame("Control");
         controlFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         controlFrame.setSize(new Dimension(100, 80));
 
-        controlPanel = new JPanel(new GridLayout(1,2));
+        //controlPanel = new JPanel(new GridLayout(1,2));
 
         menuBar = new JMenuBar();
         menu = new JMenu("DJ Control");
@@ -123,5 +125,10 @@ public class DJView implements ActionListener, BeatObserver, BPMObserver {
                 System.exit(0);
             }
         });
+    }
+
+    @Override
+    public void updateBeat() {
+
     }
 }
