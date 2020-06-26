@@ -94,6 +94,11 @@ public class BeatModel implements BeatModeInterface, MetaEventListener {
     }
 
     @Override
+    public void registerObserver(BPMObserver o) {
+        bpmObservers.add(o);
+    }
+
+    @Override
     public void registerObserver(BeatObserver o) {
         beatObservers.add(o);
     }

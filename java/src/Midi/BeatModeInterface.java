@@ -6,7 +6,7 @@ public interface BeatModeInterface {
     void off();
     void setBPM(int bpm);
     int getBPM();
-    void registerObserver(BeatObserver o);
+    void registerObserver(BPMObserver o);
     void registerObserver(BeatObserver o);
     void removeObserver(BPMObserver o);
     void removeObserver(BPMObserver o);
