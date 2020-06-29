@@ -6,6 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.EventObject;
 
+
 public class DJView implements ActionListener, BeatObserver, BPMObserver {
     BeatModeInterface model;
     ControllerInterface controller;
@@ -13,10 +14,14 @@ public class DJView implements ActionListener, BeatObserver, BPMObserver {
     JPanel viewPanel;
     BeatBar beatBar;
     JLabel bpmOutputLabel;
+
+    JFrame controlFrame;
+    JPanel controlPanel;
+    JLabel bpmLabel;
     JTextField bpmTextField;
-    JButton increaseButton;
-    JButton decreaseButton;
     JButton setBPMButton;
+    JButton increaseBPMButton;
+    JButton decreaseBPMButton;
     JMenuBar menuBar;
     JMenu menu;
     JMenuItem startMenuItem;

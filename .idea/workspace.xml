@@ -22,9 +22,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="Trying to use git way">
+
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="BeatObserver interface">
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/BPMObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/DJView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/Ducks/Flock.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/Flock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Midi/BeatModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Midi/BeatModel.java" afterDir="false" />
+
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,17 +53,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="DetachedHeadProblem" />
       </map>
     </option>
+
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bTqtfCyWdGjnySTx463Hwppeib" />
@@ -100,6 +106,7 @@
   <component name="RunManager" selected="Application.DJTestDrive">
     <configuration name="DJTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Midi.DJTestDrive" />
+
       <module name="Design_Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -229,6 +236,7 @@
       <workItem from="1593196906272" duration="442000" />
       <workItem from="1593343882482" duration="16000" />
       <workItem from="1593420882721" duration="3890000" />
+
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592387261617</created>
@@ -441,6 +449,7 @@
       <updated>1593436682243</updated>
     </task>
     <option name="localTasksCounter" value="31" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,6 +473,7 @@
                 </map>
               </option>
             </State>
+
           </value>
         </entry>
       </map>
@@ -491,26 +501,20 @@
     <MESSAGE value="BeatModel lots of methods" />
     <MESSAGE value="BeatModel lots of methods 2" />
     <MESSAGE value="BeatObserver interface" />
-    <MESSAGE value="BeatObserver &amp; BPMObserver updates." />
-    <MESSAGE value="save" />
-    <MESSAGE value="HeartModel and Interface" />
-    <MESSAGE value="Trying to use git way" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying to use git way" />
+
+    <option name="LAST_COMMIT_MESSAGE" value="BeatObserver interface" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="421" key="#Notifications" timestamp="1592810160657">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="398" y="421" key="#Notifications/0.23.1920.1057@0.23.1920.1057" timestamp="1592810160657" />
-    <state x="527" y="380" key="#com.intellij.ide.util.MemberChooser" timestamp="1593436049625">
+
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1593076259251">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592812582541" />
-    <state x="527" y="380" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1593436049625" />
-    <state x="65" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593436210690">
-      <screen x="0" y="23" width="1920" height="990" />
-    </state>
-    <state x="65" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.990@0.23.1920.990" timestamp="1593436210690" />
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1593076259251" />
     <state width="984" height="290" key="GridCell.Tab.0.bottom" timestamp="1592451921389">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -532,17 +536,18 @@
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1592807942388" />
     <state x="188" y="99" key="SettingsEditor/0.23.1920.990@0.23.1920.990" timestamp="1593075364578" />
-    <state x="369" y="248" key="Vcs.Push.Dialog.v2" timestamp="1593436732614">
+
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="369" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592376368243" />
     <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592812663386" />
-    <state x="369" y="248" key="Vcs.Push.Dialog.v2/0.23.1920.990@0.23.1920.990" timestamp="1593436732614" />
-    <state x="560" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593166331926">
+
+    <state x="369" y="248" key="Vcs.Push.Dialog.v2/0.23.1920.990@0.23.1920.990" timestamp="1593085354625" />
+    <state x="560" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593073106911">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="560" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592204548640" />
-    <state x="560" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.990@0.23.1920.990" timestamp="1593166331926" />
+    <state x="560" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.990@0.23.1920.990" timestamp="1593073106911" />
     <state x="1050" y="23" width="870" height="719" key="dock-window-1" timestamp="1592376388207">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
