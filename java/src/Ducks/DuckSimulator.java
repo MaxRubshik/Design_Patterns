@@ -15,26 +15,26 @@ public class DuckSimulator {
         Quackable gooseDuck = new GooseAdapter(new Goose());
         System.out.println("\nDuck Simulator: With Composite Flocks");
 
-        FLock flockofducks = new FLock();
+        Flock flockofducks = new Flock();
 
         flockofducks.add(redheadDuck);
         flockofducks.add(duckCall);
         flockofducks.add(rubberDuck);
         flockofducks.add(gooseDuck);
 
-        FLock FLockOfMallards = new FLock();
+        Flock FlockOfMallards = new Flock();
 
         Quackable mallardOne = duckFactory.createMallardDuck();
         Quackable mallardTwo = duckFactory.createMallardDuck();
         Quackable mallardThree = duckFactory.createMallardDuck();
         Quackable mallardFour = duckFactory.createMallardDuck();
 
-        FLockOfMallards.add(mallardOne);
-        FLockOfMallards.add(mallardTwo);
-        FLockOfMallards.add(mallardThree);
-        FLockOfMallards.add(mallardFour);
+        FlockOfMallards.add(mallardOne);
+        FlockOfMallards.add(mallardTwo);
+        FlockOfMallards.add(mallardThree);
+        FlockOfMallards.add(mallardFour);
 
-        flockofducks.add(FLockOfMallards);
+        flockofducks.add(FlockOfMallards);
 
 
         System.out.println("\nDuck Simulator: With Observer");

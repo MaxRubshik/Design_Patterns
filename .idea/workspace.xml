@@ -22,11 +22,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="save">
-      <change afterPath="$PROJECT_DIR$/java/src/Midi/HeartModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Midi/HeartModelInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Midi/HeartTestDrive.java" afterDir="false" />
+    <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="HeartModel and Interface">
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/HeartAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Midi/HeartController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/DuckSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Ducks/FLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Ducks/Flock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Midi/BeatModeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Midi/HeartTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Midi/HeartTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design_Patterns/src/Ducks/DuckSimulator.class" beforeDir="false" />
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,15 +92,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java/src" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="src.Midi" />
       <recent name="src.Proxy2" />
       <recent name="src.Car" />
       <recent name="src.HomeTheater" />
       <recent name="src.RemoteControl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.DJTestDrive">
@@ -230,7 +234,7 @@
       <workItem from="1593075384771" duration="1411000" />
       <workItem from="1593196906272" duration="442000" />
       <workItem from="1593343882482" duration="16000" />
-      <workItem from="1593420882721" duration="1474000" />
+      <workItem from="1593420882721" duration="2842000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592387261617</created>
@@ -428,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593188827740</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="HeartModel and Interface">
+      <created>1593422374426</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1593422374426</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,18 +492,23 @@
     <MESSAGE value="BeatObserver interface" />
     <MESSAGE value="BeatObserver &amp; BPMObserver updates." />
     <MESSAGE value="save" />
-    <option name="LAST_COMMIT_MESSAGE" value="save" />
+    <MESSAGE value="HeartModel and Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="HeartModel and Interface" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="421" key="#Notifications" timestamp="1592810160657">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="398" y="421" key="#Notifications/0.23.1920.1057@0.23.1920.1057" timestamp="1592810160657" />
-    <state x="527" y="380" key="#com.intellij.ide.util.MemberChooser" timestamp="1593421898182">
+    <state x="527" y="380" key="#com.intellij.ide.util.MemberChooser" timestamp="1593436049625">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="730" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1592812582541" />
-    <state x="527" y="380" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1593421898182" />
+    <state x="527" y="380" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1593436049625" />
+    <state x="65" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593436210690">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="65" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.990@0.23.1920.990" timestamp="1593436210690" />
     <state width="984" height="290" key="GridCell.Tab.0.bottom" timestamp="1592451921389">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -514,12 +530,12 @@
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1592807942388" />
     <state x="188" y="99" key="SettingsEditor/0.23.1920.990@0.23.1920.990" timestamp="1593075364578" />
-    <state x="369" y="248" key="Vcs.Push.Dialog.v2" timestamp="1593188832095">
+    <state x="369" y="248" key="Vcs.Push.Dialog.v2" timestamp="1593422377417">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="369" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592376368243" />
     <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592812663386" />
-    <state x="369" y="248" key="Vcs.Push.Dialog.v2/0.23.1920.990@0.23.1920.990" timestamp="1593188832095" />
+    <state x="369" y="248" key="Vcs.Push.Dialog.v2/0.23.1920.990@0.23.1920.990" timestamp="1593422377417" />
     <state x="560" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593166331926">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
