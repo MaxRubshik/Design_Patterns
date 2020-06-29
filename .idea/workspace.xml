@@ -4,10 +4,6 @@
     <expand>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
       <path>
@@ -16,14 +12,23 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/DetachedHeadProblem" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="b51e99e5-2f45-4a49-8fad-bbae561bf325" name="Default" comment="BeatObserver interface">
       <change afterPath="$PROJECT_DIR$/java/src/Midi/BPMObserver.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/java/src/Midi/DJView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/Midi/BeatModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Midi/BeatModel.java" afterDir="false" />
+
     </list>
     <list id="864546d3-e5a0-41ad-9787-17d1d450767b" name="342йу457890-=-0щ9енквшщзхъ" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +59,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="DetachedHeadProblem" />
+      </map>
+    </option>
+
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bTqtfCyWdGjnySTx463Hwppeib" />
@@ -91,14 +103,15 @@
       <recent name="$PROJECT_DIR$/java/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuckSimulator">
-    <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Ducks.DuckSimulator" />
+  <component name="RunManager" selected="Application.DJTestDrive">
+    <configuration name="DJTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Midi.DJTestDrive" />
+
       <module name="Design_Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Ducks.*" />
+          <option name="PATTERN" value="src.Midi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,13 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuckSortTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.sort.DuckSortTestDrive" />
+    <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Ducks.DuckSimulator" />
       <module name="Design_Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.sort.*" />
+          <option name="PATTERN" value="src.Ducks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,19 +200,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DuckSortTestDrive" />
       <item itemvalue="Application.MenuTestDrive" />
       <item itemvalue="Application.GumballMachineTestDrive" />
       <item itemvalue="Application.DuckSimulator" />
       <item itemvalue="Application.ImageProxyTestDrive" />
+      <item itemvalue="Application.DJTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DJTestDrive" />
         <item itemvalue="Application.DuckSimulator" />
         <item itemvalue="Application.ImageProxyTestDrive" />
         <item itemvalue="Application.GumballMachineTestDrive" />
         <item itemvalue="Application.MenuTestDrive" />
-        <item itemvalue="Application.DuckSortTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +233,10 @@
       <workItem from="1593073616479" duration="263000" />
       <workItem from="1593073912838" duration="1153000" />
       <workItem from="1593075384771" duration="1411000" />
+      <workItem from="1593196906272" duration="442000" />
+      <workItem from="1593343882482" duration="16000" />
+      <workItem from="1593420882721" duration="3890000" />
+
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592387261617</created>
@@ -403,7 +420,36 @@
       <option name="project" value="LOCAL" />
       <updated>1593075261933</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="BeatObserver &amp; BPMObserver updates.">
+      <created>1593180487090</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1593180487090</updated>
+    </task>
+    <task id="LOCAL-00028" summary="save">
+      <created>1593188827740</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1593188827740</updated>
+    </task>
+    <task id="LOCAL-00029" summary="HeartModel and Interface">
+      <created>1593422374426</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1593422374426</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Trying to use git way">
+      <created>1593436682243</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1593436682243</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +460,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/DetachedHeadProblem" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+
           </value>
         </entry>
       </map>
@@ -442,6 +501,7 @@
     <MESSAGE value="BeatModel lots of methods" />
     <MESSAGE value="BeatModel lots of methods 2" />
     <MESSAGE value="BeatObserver interface" />
+
     <option name="LAST_COMMIT_MESSAGE" value="BeatObserver interface" />
   </component>
   <component name="WindowStateProjectService">
@@ -449,6 +509,7 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="398" y="421" key="#Notifications/0.23.1920.1057@0.23.1920.1057" timestamp="1592810160657" />
+
     <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1593076259251">
       <screen x="0" y="23" width="1920" height="990" />
     </state>
@@ -475,11 +536,12 @@
     </state>
     <state x="188" y="104" width="1660" height="895" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1592807942388" />
     <state x="188" y="99" key="SettingsEditor/0.23.1920.990@0.23.1920.990" timestamp="1593075364578" />
-    <state x="369" y="248" key="Vcs.Push.Dialog.v2" timestamp="1593085354625">
+
       <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="369" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592376368243" />
     <state x="369" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1592812663386" />
+
     <state x="369" y="248" key="Vcs.Push.Dialog.v2/0.23.1920.990@0.23.1920.990" timestamp="1593085354625" />
     <state x="560" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593073106911">
       <screen x="0" y="23" width="1920" height="990" />

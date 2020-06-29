@@ -11,11 +11,56 @@ public class BeatModel implements BeatModeInterface, MetaEventListener {
     Sequence sequence;
     Track track;
 
+    @Override
+    public void meta(MetaMessage message) {
+        if (message.getType() == 47) {
+            beatEvent();
+            sequencer.start();
+            setBPM(getBPM());
+        }
+    }
+
 
     @Override
     public void initialize() {
         setUpMidi();
         buildTrackAndStart();
+    }
+
+    public void buildTrackAndStart() {
+        int[] trackLIst = {35, 0, 46, 0};
+
+        sequence.deleteTrack(null);
+        track = sequence.createTrack();
+        makeTracks(trackLIst);
+        track.add(makeEvent(192, 9, 1, 0, 4));
+        try {
+            sequencer.setSequence(sequence);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void makeTracks(int[] list) {
+        for (int i = 0; i < list.length; i++) {
+            int key = list[i];
+            if (key != 0) {
+                track.add(makeEvent(144, 9, key, 100, i));
+                track.add(makeEvent(128, 9, key, 100, i + 1));
+            }
+        }
+    }
+
+    public MidiEvent makeEvent(int comd, int chan, int one, int two, int tick) {
+        MidiEvent event = null;
+        try {
+            ShortMessage a = new ShortMessage();
+            a.setMessage(comd, chan, one, two);
+        } catch (InvalidMidiDataException e) {
+            e.printStackTrace();
+        }
+        return event;
+
     }
 
     @Override
@@ -42,6 +87,25 @@ public class BeatModel implements BeatModeInterface, MetaEventListener {
         return bpm;
     }
 
+
+
+    private void notifyBeatObservers() {
+        for (int i = 0; i < beatObservers.size(); i++) {
+            BeatObserver observer = (BeatObserver) bpmObservers.get(i);
+            observer.updateBeat();
+        }
+    }
+
+    private void notifyBPMObservers() {
+        for (int i = 0; i < bpmObservers.size(); i++) {
+            BPMObserver observer = (BPMObserver) bpmObservers.get(i);
+            observer.updateBPM();
+        }
+    }
+
+    @Override
+    public void registerObserver(BeatObserver o) {
+        beatObservers.add(o);
     void beatEvent(){
         notifyBeatObservers();
     }
